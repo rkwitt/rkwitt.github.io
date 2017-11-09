@@ -1,6 +1,6 @@
 # Site settings
-title: Roland Kwitt, PhD
-description: Associate Professor @ University of Salzburg
+title: Roland Kwitt
+description: <p>Associate Professor<br>Department of Computer Science<br>University of Salzburg</p>
 email: roland.kwitt@gmail.com
 markdown: kramdown
 theme: jekyll-theme-minimal
