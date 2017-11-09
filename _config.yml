@@ -2,4 +2,5 @@
 title: Roland Kwitt, PhD
 description: Associate Professor  
 email: roland.kwitt@gmail.com
+markdown: kramdown
 theme: jekyll-theme-minimal
