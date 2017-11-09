@@ -28,3 +28,10 @@ M. Dixit, R. Kwitt, M. Niethammer and N. Vasconcelos
 CVPR 2017  
 [Paper]() [Talk]()
 
+This is a text with a
+footnote[^2].
+
+[^2]:
+    And here is the definition.
+
+    > With a quote!
