@@ -1,7 +1,6 @@
 # Site settings
 title: Roland Kwitt
-description: > # this means to ignore newlines until "baseurl:"
-  Associate Professor  
+description: Associate Professor  
   Department of Computer Science  
   University of Salzburg
   
