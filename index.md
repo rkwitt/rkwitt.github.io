@@ -11,3 +11,9 @@ Office: 1.18b
 - Machine Learning
 - Computer Vision
 - Medical Imaging
+
+# Publications
+
+**Deep Learning with Topological Signatures**  
+C. Hofer, R. Kwitt, M. Niethammer and A. Uhl  
+NIPS 2017
