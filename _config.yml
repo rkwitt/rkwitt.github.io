@@ -1,6 +1,6 @@
 # Site settings
 title: Roland Kwitt, PhD
-description: Associate Professor\\ foobar 
+description: Associate Professor @ University of Salzburg
 email: roland.kwitt@gmail.com
 markdown: kramdown
 theme: jekyll-theme-minimal
