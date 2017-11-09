@@ -1,3 +1,7 @@
+# About
+
+I am an associate professor in the department of computer science at the University of Salzburg, Austria. Prior to that, I was part of the medical imaging and computer vision group at Kitware Inc., North Carolina, USA. My research spans multiple areas (computer vision, medical imaging, machine learning), but mostly focuses on principled ways to leverage the inherent structure in all kinds of (mostly visual) data.
+
 # Contact
 
 **Roland Kwitt**         
