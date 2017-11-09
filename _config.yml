@@ -1,5 +1,6 @@
 # Site settings
 title: Roland Kwitt
+description: Associate Professor
 email: roland.kwitt@gmail.com
 
 theme: jekyll-theme-minimal
