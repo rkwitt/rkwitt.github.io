@@ -3,7 +3,7 @@
 **Roland Kwitt**         
 Associate Professor     
 Department of Computer Science    
-University of Salzburg
+University of Salzburg    
 Office: 1.18b
 
 # Research Areas
