@@ -22,9 +22,9 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 **Deep Learning with Topological Signatures**  
 C. Hofer, R. Kwitt, M. Niethammer and A. Uhl  
 *NIPS 2017*  
-[Preprint](https://Preprint.org/abs/1707.04041)
+[Preprint](https://arxiv.org/abs/1707.04041)
 &nbsp;&#183;&nbsp;
-[Code](https://Preprint.org/abs/1707.04041)  
+[Code](https://github.com/c-hofer/nips2017)  
 Supporting packages (including tutorials): [tda-toolkit](https://github.com/c-hofer/tda-toolkit)
 &nbsp;&#183;&nbsp;
 [chofer-torchex](https://github.com/c-hofer/chofer_torchex)
@@ -32,7 +32,7 @@ Supporting packages (including tutorials): [tda-toolkit](https://github.com/c-ho
 **AGA: Attribute-Guided Augmentation**  
 M. Dixit, R. Kwitt, M. Niethammer and N. Vasconcelos   
 *CVPR 2017*    
-[Preprint](https://Preprint.org/abs/1612.02559)
+[Preprint](https://arxiv.org/abs/1612.02559)
 &nbsp;&#183;&nbsp;
 [Talk video](https://youtu.be/F3ThW3RLSAU?t=26)
 &nbsp;&#183;&nbsp;
@@ -42,7 +42,7 @@ M. Dixit, R. Kwitt, M. Niethammer and N. Vasconcelos
 X. Yang, R. Kwitt, M. Styner and M. Niethammer  
 *NeuroImage*  
 vol. 158, pp. 378-396, 2017.  
-[Preprint](https://Preprint.org/abs/1703.10908)
+[Preprint](https://arxiv.org/abs/1703.10908)
 &nbsp;&#183;&nbsp;
 [Code](https://github.com/rkwitt/quicksilver)
 
@@ -75,9 +75,6 @@ X. Yang, R. Kwitt, M. Styner and M. Niethammer
 *ISBI 2017*
 [Preprint](http://wwwx.cs.unc.edu/~mn/sites/default/files/yang_isbi2017.pdf)
 
-
-
-
 ## 2016
 
 **One-Shot Learning of Scene Locations via Feature Trajectory Transfer**
@@ -98,7 +95,7 @@ vol. 34(12), pp. 2284-2297, 2016.
 **Fast Predictive Image Registration**  
 X. Yang, R. Kwitt and M. Niethammer  
 *DLMIA 2016*  
-[Preprint](https://Preprint.org/abs/1607.02504)
+[Preprint](https://arxiv.org/abs/1607.02504)
 
 **Registration of Pathological Images**  
 X. Yang, X. Han, E. Park, S. Aylward, R. Kwitt and M. Niethammer  
@@ -108,9 +105,32 @@ X. Yang, X. Han, E. Park, S. Aylward, R. Kwitt and M. Niethammer
 **Ultrasound Spectroscopy**  
 S. Alyward, M. McCormick, H.J. Kang, S. Razzaque, R. Kwitt and M. Niethammer  
 *ISBI 2016*  
-[Preprint](http://localhost:8080/media/files/Aylward16a-paper.pdf)
+[Preprint](http://ieeexplore.ieee.org/document/7493437/)
 
 **Narrow Band Imaging Versus White-Light: What is best for Computer-Assisted Diagnosis of Celiac Disease?**  
 M. Gadermayr, S. Hegenbart , R. Kwitt and A. Uhl  
 *ISBI 2016*  
 [Preprint](http://www.lfb.rwth-aachen.de/bibtexupload/pdf/GAD16a.pdf)
+
+## 2015
+
+**Statistical Topological Data Analysis - A Kernel Perspective**  
+R. Kwitt, S. Huber, M. Niethammer, W. Lin and U. Bauer  
+*NIPS 2015*  
+[Preprint](http://papers.nips.cc/paper/5887-statistical-topological-data-analysis-a-kernel-perspective)
+&nbsp;&#183;&nbsp;
+[Code](https://github.com/rkwitt/persistence-learning)
+
+**A Stable Multi-Scale Kernel for Topological Machine Learning**  
+J. Reininghaus, U. Bauer, S. Huber, and R. Kwitt  
+*CVPR 2015*  
+[Preprint](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Reininghaus_A_Stable_Multi-Scale_2015_CVPR_paper.pdf)
+&nbsp;&#183;&nbsp;
+[Code](https://github.com/rkwitt/persistence-learning)
+&nbsp;&#183;&nbsp;
+[Poster](http://www.rkwitt.org/media/files/Reininghaus15a-poster.pdf)
+
+**Group Testing for Longitudinal Data**  
+Y. Hong, N. Singh, R. Kwitt, and M. Niethammer  
+*IPMI 2015*  
+[Preprint](http://www.rkwitt.org/media/files/Hong15a-paper.pdf)
