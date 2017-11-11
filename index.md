@@ -4,7 +4,10 @@
 
 * * *
 
-I am an associate professor in the department of computer science at the University of Salzburg, Austria. Prior to that, I was part of the medical imaging and computer vision group at Kitware Inc., North Carolina, USA. My research spans multiple areas, but mostly focuses on principled ways to leverage the inherent structure in all kinds of (mostly visual) data.
+![](uni.png)
+
+I am an associate professor in the [Department of Computer Science](https://informatik.uni-salzburg.at/) at the
+[Univ. of Salzburg](https://www.uni-salzburg.at/), Austria. Prior to that, I was part of the medical imaging and computer vision group at [Kitware Inc.](https://www.kitware.com/), North Carolina, USA. My research spans multiple areas, but mostly focuses on machine learning and principled ways to leverage the inherent structure in all kinds of (mostly visual) data.
 
 ## Research interests
 
@@ -12,7 +15,7 @@ I am an associate professor in the department of computer science at the Univers
 - Computer vision
 - Medical image analysis
 
-## Selected Publications
+## Selected publications
 
 For a complete list of all papers, go to [Publications](publications), or
 visit my [Google Scholar](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de) profile.
@@ -50,20 +53,36 @@ Statistical Topological Data Analysis - A Kernel Perspective</dt>
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 A Stable Multi-Scale Kernel for Topological Machine Learning</dt>
 <dd>CVPR 2015</dd>
+
+<dt>
+<a href="http://www.cvpapers.com/papers/SceneRecognition-eccv2012.pdf">
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+Scene Recognition on the Semantic Manifold</dt>
+<dd> ECCV 2012</dd>
 </dl>
 
 ## Short biography
 
 - since Aug. 2017  
-Associate Professor (Univ. of Salzburg)
+*Associate Professor* \\
+Department of Computer Science\\
+Univ. of Salzburg
 - Nov. 2013 - Aug. 2017  
-Assistant Professor (tenure track, Univ. of Salzburg)
+*Assistant Professor*\\
+Department of Computer Science\\
+Univ. of Salzburg
 - Nov. 2011 - Oct. 2013   
-R&D Engineer, Kitware Inc., NC, USA
+*R&D Engineer*\\
+Kitware Inc., NC, USA
 - Aug. 2010 - Oct. 2011   
-PostDoc (Univ. of Salzburg)
+*PostDoc*\\
+Department of Computer Science\\
+Univ. of Salzburg
 - May 2007 - Aug. 2010  
-PhD in Computer Science (Univ. of Salzburg)
+*PhD student*\\
+Department of Computer Science\\
+Univ. of Salzburg\\
+Advisor: [Prof. Andreas Uhl](https://www.uni-salzburg.at/index.php?id=53927&L=1)
 
 ## Professional service
 

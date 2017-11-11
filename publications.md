@@ -11,11 +11,17 @@ layout: default
 Publications are listed in *reverse-chronological* order. Find my Google Scholar
 profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
-- [2017](#2017)
-- [2016](#2016)
-- [2015](#2015)
-- [2014](#2014)
-- [2013](#2013)
+- [2017](#2017) (9)
+- [2016](#2016) (6)
+- [2015](#2015) (5)
+- [2014](#2014) (7)
+- [2013](#2013) (3)
+- [2012](#2012) (5)
+- [2011](#2011) (6)
+- [2010](#2010) (4)
+- [2009](#2009) (4)
+- [2008](#2008) (5)
+- [2007](#2007) (1)
 
 ## 2017
 
@@ -72,7 +78,7 @@ X. Han, X. Yang, S. Aylward, R. Kwitt and M. Niethammer
 
 **Fast Predictive Multimodal Image Registration**  
 X. Yang, R. Kwitt, M. Styner and M. Niethammer   
-*ISBI 2017*
+*ISBI 2017*  
 [Preprint](http://wwwx.cs.unc.edu/~mn/sites/default/files/yang_isbi2017.pdf)
 
 ## 2016
@@ -134,3 +140,116 @@ J. Reininghaus, U. Bauer, S. Huber, and R. Kwitt
 Y. Hong, N. Singh, R. Kwitt, and M. Niethammer  
 *IPMI 2015*  
 [Preprint](http://www.rkwitt.org/media/files/Hong15a-paper.pdf)
+
+**Low-rank Atlas Image Analyses in the Presence of Pathologies**  
+X. Liu, M. Niethammer, R. Kwitt, N. Singh, M. McCormick and S. Aylward  
+*IEEE Trans. Med. Imag. (TMI)*  
+vol. 34(12), pp. 2583-2591, 2015.
+[Preprint](http://ieeexplore.ieee.org/document/7130619/authors)
+
+**Model Criticism for Regression on the Grassmannian**  
+Y. Hong, R. Kwitt, and M. Niethammer  
+MICCAI 2015  
+[Preprint](http://www.rkwitt.org/media/files/Hong15b-paper.pdf)
+
+## 2014
+
+**Geodesic Regression on the Grassmannian**  
+Y. Hong, R. Kwitt, N. Singh, and M. Niethammer  
+*ECCV 2014*  
+[Preprint](http://www.rkwitt.org/media/files/Hong14c-paper.pdf)
+
+**Low-Rank to the Rescue: Atlas-based Analyses in the Presence of Pathologies**    
+X. Liu, M. Niethammer, R. Kwitt, M. McCormick, and S. Aylward  
+*MICCAI 2014*  
+[Preprint](http://www.rkwitt.org/media/files/Liu14a-paper.pdf)
+
+**Variability sensitivity of dynamic texture based recognition in clinical CT data**  
+R. Kwitt, S. Razzaque, J. Lowell, and S. Aylward  
+*SPIE Medical Imaging*  
+[Preprint](http://www.rkwitt.org/media/files/Kwitt14a-paper.pdf)
+&nbsp;&#183;&nbsp;
+[Code](https://github.com/rkwitt/PyDSTK)
+
+**Do we Need Annotation Experts? A Study in Celiac Disease Classification**  
+R. Kwitt, S. Hegenbart, N. Rasiwasia, A. Vecsei, and A. Uhl  
+*MICCAI 2014*  
+[Preprint](http://www.rkwitt.org/media/files/Kwitt14b-paper.pdf)
+&nbsp;&#183;&nbsp;
+[Poster](http://www.rkwitt.org/media/files/Kwitt14b-poster.pdf)
+
+**Statistical Atlas Consruction via Weighted Functional Boxplots**  
+Y. Hong, B. Davis, J.S. Marron, R. Kwitt, N. Singh, J. Kimbell, E. Pitkina, R. Superfine, S. Davis, C. Zdanski, and M. Niethammer  
+*Med. Image Anal. (MedIA)*  
+vol. 18, pp. 684-698, 2014  
+[Preprint](http://www.rkwitt.org/media/files/Hong14a-paper.pdf)
+
+**Time-warped Geodesic Regression**
+Y. Hong, N. Singh, R. Kwitt, and M. Niethammer  
+*MICCAI 2014*  
+[Preprint](http://www.rkwitt.org/media/files/Hong14b-paper.pdf)
+
+**Topology-Preserving Watermarking of Vector Graphics**  
+S. Huber, P. Meerwald, M. Held and R. Kwitt  
+*Int. J. Comput. Geom. Appl.*  
+vol. 24(1), pp. 61-86, 2014  
+[Preprint](http://www.rkwitt.org/media/files/Huber14a-paper.pdf)
+
+## 2013
+
+**Studying Cerebral Vasculature Using Structure Proximity and Graph Kernels**  
+R. Kwitt, D. Pace, M. Niethammer, and S. Aylward  
+MICCAI 2013  
+[Preprint](http://www.rkwitt.org/media/files/Kwitt13a-paper.pdf)
+&nbsp;&#183;&nbsp;
+[Code](https://github.com/KitwareMedical/TubeTK-Experiments)
+
+**Weighted Functional Boxplot with Application to Statistical Atlas Construction**  
+Y. Hong, B. Davis, J.S. Marron, R. Kwitt, and M. Niethammer  
+MICCAI 2013   
+[Preprint](http://www.rkwitt.org/media/files/Hong13a-paper.pdf)
+
+**Localizing Target Structures in Ultrasound Video - A Phantom Study**  
+R. Kwitt, N. Vasconcelos, S. Razzaque, and S. Aylward  
+Med. Image Anal. (MedIA)  
+vol. 17, pp. 712-722, 2013  
+[Preprint](http://www.rkwitt.org/publications/foo)
+&nbsp;&#183;&nbsp;
+[Code](https://github.com/rkwitt/PyDSTK)
+
+## 2012
+
+**PCL and ParaView - Connecting the Dots**  
+P. Marion, R. Kwitt, B. Davis, and M. Gschwandtner  
+*CVPR Workshop on Point Cloud Processing (PCP) 2012*  
+[Preprint]()   
+
+**Scene Recognition on the Semantic Manifold**  
+R. Kwitt, N. Vasconcelos and N. Rasiwasia  
+*ECCV 2012*  
+[Preprint]()   
+
+**Recognition in Ultrasound Videos: Where Am I?**
+R. Kwitt, N. Vasconcelos, S. Razzaque, and S. Aylward  
+*MICCAI 2012*   
+[Preprint]()   
+
+**Endoscopic Image Analysis in Semantic Space**  
+R. Kwitt, N. Vasconcelos, N. Rasiwasia, M. Häfner, F. Wrba, and A. Uhl  
+*Med. Image Anal. (MedIA)*  
+vol. 16(7), pp. 1415-1422, 2012  
+[Preprint]()   
+
+**Topology-Preserving Watermarking of Vector Data**  
+S. Huber, M. Held, R. Kwitt, and P. Meerwald  
+*EuroCG 2012*  
+[Preprint]()   
+
+
+
+
+## 2011
+## 2010
+## 2009
+## 2008
+## 2007

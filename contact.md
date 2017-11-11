@@ -8,7 +8,7 @@ layout: default
 
 * * *
 
-**Roland Kwitt**         
+Assoc.-Prof. Dr. Dipl.-Ing. Roland Kwitt        
 Department of Computer Science    
 University of Salzburg    
 Jakob-Haringer Str. 2  
