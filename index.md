@@ -41,7 +41,7 @@ One-Shot Learning of Scene Locations via Feature Trajectory Transfer</dt>
 <a href="http://cobweb.cs.uga.edu/~yihong/Preprints/parametric_regression_on_the_grassmannian.pdf">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  
 Parametric Regression on the Grassmannian</dt>
-<dd>TPAMI 2016</dd>
+<dd>IEEE Trans. Pattern Anal. Mach. Intell. 2016</dd>
 
 <dt>
 <a href="http://papers.nips.cc/paper/5887-statistical-topological-data-analysis-a-kernel-perspective">
@@ -59,6 +59,18 @@ A Stable Multi-Scale Kernel for Topological Machine Learning</dt>
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 Scene Recognition on the Semantic Manifold</dt>
 <dd> ECCV 2012</dd>
+
+<dt>
+<a href="http://www.rkwitt.org/media/files/Kwitt12a-paper.pdf">
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+Recognition in Ultrasound Videos: Where Am I?</dt>
+<dd>MICCAI 2012 (Oral)</dd>
+
+<dt>
+<a href="http://www.rkwitt.org/media/files/Kwitt11e-paper.pdf">
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+Lightweight Probabilistic Texture Retrieval</dt>
+<dd>IEEE Trans. Image Process. 2010</dd>
 </dl>
 
 ## Short biography
@@ -95,7 +107,7 @@ well as the major journals in the field (e.g.,TPAMI, IJCV, TMI, TIP, TSP, MedIA)
 
 ## Awards
 
-- CVPR Outstanding Reviewer Award (2014)
-- MICCAI Young Investigator Award (2012)
-- Short-listed for the "Heinz-Zemanek" price (2012)
-- Special appreciation award of the Austrian ministry of science and research (2005)
+- [CVPR Outstanding Reviewer Award (2014)](http://www.pamitc.org/cvpr14/files/CVPR_2014_Pocket_Guide_Final.pdf)
+- [MICCAI Young Scientist Award (2012)](http://www.miccai2012.org/awards/young-scientist-award/68)
+- PhD thesis short-listed for the "Heinz-Zemanek" price (2012)
+- Special appreciation award (for MSc thesis) of the Austrian ministry of science and research (2005)

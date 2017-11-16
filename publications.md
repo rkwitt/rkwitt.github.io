@@ -23,6 +23,16 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 - [2008](#2008) (5)
 - [2007](#2007) (1)
 
+## Preprints
+
+**Brain Extraction from Normal and Pathological Images: A Joint PCA/Image-Reconstruction Approach**   
+X. Han, R. Kwitt, S. Aylward, B. Menze, A. Asturias, P. Vespa, J. Van Horn and M. Niethammer   
+[arXiv 2017](https://arxiv.org/abs/1711.05702) (submitted to NeuroImage)
+
+**Compressing Networks with Super Nodes**  
+Natalie Stanley, Roland Kwitt, Marc Niethammer, Peter J. Mucha  
+[arXiv 2017](https://arxiv.org/abs/1706.04110)
+
 ## 2017
 
 **Deep Learning with Topological Signatures**  
@@ -31,7 +41,7 @@ C. Hofer, R. Kwitt, M. Niethammer and A. Uhl
 [Preprint](https://arxiv.org/abs/1707.04041)
 &nbsp;&#183;&nbsp;
 [Code](https://github.com/c-hofer/nips2017)  
-Supporting packages (including tutorials): [tda-toolkit](https://github.com/c-hofer/tda-toolkit)
+Supporting packages (+ tutorials): [tda-toolkit](https://github.com/c-hofer/tda-toolkit)
 &nbsp;&#183;&nbsp;
 [chofer-torchex](https://github.com/c-hofer/chofer_torchex)
 
@@ -47,7 +57,7 @@ M. Dixit, R. Kwitt, M. Niethammer and N. Vasconcelos
 **Quicksilver: Fast Predictive Image Registration - a Deep Learning Approach**  
 X. Yang, R. Kwitt, M. Styner and M. Niethammer  
 *NeuroImage*  
-vol. 158, pp. 378-396, 2017.  
+vol. 158, pp. 378-396, 2017   
 [Preprint](https://arxiv.org/abs/1703.10908)
 &nbsp;&#183;&nbsp;
 [Code](https://github.com/rkwitt/quicksilver)
@@ -93,7 +103,7 @@ R. Kwitt, S. Hegenbart and M. Niethammer
 **Parametric Regression on the Grassmannian**  
 Y. Hong, R. Kwitt, N. Singh, N. Vasconcelos and M. Niethammer  
 *IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI)*  
-vol. 34(12), pp. 2284-2297, 2016.  
+vol. 34(12), pp. 2284-2297, 2016   
 [Preprint](http://cobweb.cs.uga.edu/~yihong/Preprints/parametric_regression_on_the_grassmannian.pdf)
 &nbsp;&#183;&nbsp;
 [Code](https://bitbucket.org/yi_hong/ggr_all.git)
@@ -144,7 +154,7 @@ Y. Hong, N. Singh, R. Kwitt, and M. Niethammer
 **Low-rank Atlas Image Analyses in the Presence of Pathologies**  
 X. Liu, M. Niethammer, R. Kwitt, N. Singh, M. McCormick and S. Aylward  
 *IEEE Trans. Med. Imag. (TMI)*  
-vol. 34(12), pp. 2583-2591, 2015.
+vol. 34(12), pp. 2583-2591, 2015   
 [Preprint](http://ieeexplore.ieee.org/document/7130619/authors)
 
 **Model Criticism for Regression on the Grassmannian**  
@@ -184,7 +194,7 @@ Y. Hong, B. Davis, J.S. Marron, R. Kwitt, N. Singh, J. Kimbell, E. Pitkina, R. S
 vol. 18, pp. 684-698, 2014  
 [Preprint](http://www.rkwitt.org/media/files/Hong14a-paper.pdf)
 
-**Time-warped Geodesic Regression**
+**Time-warped Geodesic Regression**  
 Y. Hong, N. Singh, R. Kwitt, and M. Niethammer  
 *MICCAI 2014*  
 [Preprint](http://www.rkwitt.org/media/files/Hong14b-paper.pdf)
@@ -232,7 +242,9 @@ R. Kwitt, N. Vasconcelos and N. Rasiwasia
 **Recognition in Ultrasound Videos: Where Am I?**
 R. Kwitt, N. Vasconcelos, S. Razzaque, and S. Aylward  
 *MICCAI 2012*   
-[Preprint]()   
+[Preprint](http://www.rkwitt.org/media/files/Kwitt12a-paper.pdf)   
+&nbsp;&#183;&nbsp;
+[Talk](http://www.miccai2012.org/conference-program/oral-program/57)
 
 **Endoscopic Image Analysis in Semantic Space**  
 R. Kwitt, N. Vasconcelos, N. Rasiwasia, M. Häfner, F. Wrba, and A. Uhl  
@@ -245,11 +257,114 @@ S. Huber, M. Held, R. Kwitt, and P. Meerwald
 *EuroCG 2012*  
 [Preprint]()   
 
-
-
-
 ## 2011
+
+**BlenSor: Blender Sensor Simulation Toolbox**  
+M. Gschwandtner, R. Kwitt, and A. Uhl  
+*ISVC 2011*  
+[Preprint](http://www.rkwitt.org/media/files/Kwitt11a-paper.pdf)
+&nbsp;&#183;&nbsp;
+[Project](http://www.blensor.org/)
+
+**Testing a Multivariate Model for Wavelet Coefficients**  
+R. Kwitt, P. Meerwald, A. Uhl, and G. Verdoolaege  
+*ICIP 2011*  
+[Preprint](http://www.rkwitt.org/media/files/Kwitt11b-paper.pdf)
+
+**Learning Pit Pattern Concepts for Gastroenterological Training**  
+R. Kwitt, N. Rasiwasia, N. Vasconcelos, A. Uhl, M. Häfner, and F. Wrba  
+*MICCAI 2011*  
+[Preprint](http://www.rkwitt.org/media/files/Kwitt11c-paper.pdf)
+&nbsp;&#183;&nbsp;
+[Slides](http://www.rkwitt.org/media/files/Kwitt11c-talk.pdf)
+
+**Infrared Camera Calibration for Dense Depth Map Construction**  
+M. Gschwandtner, R. Kwitt, W. Pree, and A. Uhl  
+*IEEE Intelligent Vehicles 2011*  
+[Preprint](http://www.rkwitt.org/media/files/Kwitt11d-paper.pdf)
+
+**Efficient Texture Image Retrieval Using Copulas in a Bayesian Framework**  
+R. Kwitt, P. Meerwald, and A. Uhl  
+*IEEE Trans. Image Process. (TIP)*  
+vol. 20(7), pp. 2063-2077, 2011  
+[Preprint](http://www.rkwitt.org/media/files/Kwitt11e-paper.pdf)
+
+**Lightweight Detection of Additive Watermarking in the DWT-Domain**  
+R. Kwitt, P. Meerwald, and A. Uhl  
+*IEEE Trans. Image Process. (TIP)*  
+vol. 20(2), pp. 474-484, 2011  
+[Tech-Report](http://www.rkwitt.org/media/files/Kwitt11f-tr.pdf)
+
 ## 2010
+
+**Statistical Modeling in the Wavelet Domain and Applications**  
+R. Kwitt  
+*PhD thesis* (Univ. of Salzburg) 2010   
+(short-listed for the *"Heinz-Zemanek Preis 2012"*)  
+[Thesis](http://www.rkwitt.org/media/files/Kwitt10a-paper.pdf)
+
+**Watermarking of 2D Vector Graphics with Distortion Constraint**  
+S. Huber, R. Kwitt, P. Meerwald, M. Held, and A. Uhl  
+*ICME 2010*  
+[Preprint](http://www.rkwitt.org/media/files/Kwitt10b-paper.pdf)
+
+**Lightweight Probabilistic Texture Retrieval**  
+R. Kwitt, and A. Uhl  
+*IEEE Trans. Image Process. (TIP)*  
+vol. 19(1), pp. 241-253, 2010  
+[Preprint](http://www.rkwitt.org/media/files/Kwitt11e-paper.pdf)
+
+**Predicting the Histology of Colorectal Lesions in a Probabilistic Framework**  
+R. Kwitt, A. Uhl, M. Häfner, A. Gangl, and F. Wrba  
+*MMBIA 2010*    
+[Preprint](http://www.rkwitt.org/media/files/Kwitt10d-paper.pdf)
+
+
+
 ## 2009
+
+**Improving Pit-Pattern Classification of Endoscopy Images by a Combination of Experts**  
+M. Häfner, A. Gangl, R. Kwitt, A. Uhl, and A. Vecsei  
+*MICCAI 2009*  
+
+**A Joint Model of Complex Wavelet Coefficients for Texture Retrieval**
+R. Kwitt, P. Meerwald, and A. Uhl  
+*ICIP 2009*
+
+**Efficient Detection of Additive Watermarking in the DWT-Domain**  
+R. Kwitt, P. Meerwald, and A. Uhl  
+*DSP 2009*
+
+**Feature-Extraction from Multi-Directional Multi-Resolution Image Transformations for the Classification of Zoom-Endoscopy Images**  
+M. Häfner, R. Kwitt, A. Uhl, A. Gangl, F. Wrba, and A. Vecsei  
+*Pattern Analysis and Applications (PAA)*  
+vol. 12(4), pp. 407-413, 2009  
+
 ## 2008
+
+**Computer-assisted Pit-Pattern Classification in Different Wavelet Domains for Supporting Dignity Assessment of Colonic Polyps**  
+M. Häfner, R. Kwitt, A. Uhl, A. Gangl, and F. Wrba  
+*Pattern Recognition (PR)*  
+vol. 42(6), pp. 1180-1191, 2008  
+
+**One-Against-One Classification for Zoom-Endoscopy Images**   
+M. Häfner, R. Kwitt, F. Wrba, A. Gangl, and A. Vecsei  
+*MEDSIP 2008*  
+
+**Color Eigen-Subband Features for Endoscopy Image Classification**  
+R. Kwitt and A. Uhl  
+*ICASSP 2008*  
+
+**Image Similarity Measurement By Kullback-Leibler Divergences between Complex Wavelet Subband Statistics for Texture Retrieval**  
+R. Kwitt and A. Uhl  
+*ICIP 2008*  
+
+**A Lightweight Rao-Cauchy Detector for Additive Watermarking in the DWT-Domain**  
+R. Kwitt, P. Meerwald, and A. Uhl  
+*ACM MMSEC 2008*
+
 ## 2007
+
+**Modeling the Marginal Distributions of Complex Wavelet Coefficient Magnitudes for the Classification of Zoom-Endoscopy Images**  
+R. Kwitt, and A. Uhl  
+*MMBIA 2007*
