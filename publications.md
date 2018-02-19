@@ -37,6 +37,13 @@ X. Han, R. Kwitt, S. Aylward, B. Menze, A. Asturias, P. Vespa, J. Van Horn and M
 Natalie Stanley, Roland Kwitt, Marc Niethammer, Peter J. Mucha  
 [arXiv 2017](https://arxiv.org/abs/1706.04110)
 
+## 2018
+
+**Feature Space Transfer for Data Augmentation**   
+B. Liu, M. Dixit, R. Kwitt and N. Vasconcelos   
+*CVPR 2017* (accepted)
+
+
 ## 2017
 
 **Deep Learning with Topological Signatures**  
