@@ -46,6 +46,10 @@ B. Liu, M. Dixit, R. Kwitt and N. Vasconcelos
 
 ## 2017
 
+**Domain Adaptation for CNN Based Iris Segmentation**    
+E. Jalilian, R. Kwitt and A. Uhl    
+*BIOSIG 2017*    
+
 **Deep Learning with Topological Signatures**  
 C. Hofer, R. Kwitt, M. Niethammer and A. Uhl  
 *NIPS 2017*  
