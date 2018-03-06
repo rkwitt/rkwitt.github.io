@@ -42,8 +42,7 @@ Natalie Stanley, Roland Kwitt, Marc Niethammer, Peter J. Mucha
 
 **Feature Space Transfer for Data Augmentation**   
 B. Liu, M. Dixit, R. Kwitt and N. Vasconcelos   
-*CVPR 2017* (accepted for **oral** presentation)
-
+*CVPR 2017 (Oral)*   
 
 ## 2017
 
@@ -63,7 +62,7 @@ Supporting packages (+ tutorials): [tda-toolkit](https://github.com/c-hofer/tda-
 
 **AGA: Attribute-Guided Augmentation**  
 M. Dixit, R. Kwitt, M. Niethammer and N. Vasconcelos   
-*CVPR 2017* (**oral**)  
+*CVPR 2017 (Oral)*     
 [Preprint](https://arxiv.org/abs/1612.02559)
 &nbsp;&#183;&nbsp;
 [Talk video](https://youtu.be/F3ThW3RLSAU?t=26)
@@ -85,12 +84,12 @@ Z. Ding, G. Fleischman, P. Thomson, R. Kwitt, M. Niethammer and ADNI
 
 **Regression Uncertainty on the Grassmannian**  
 Y. Hong, X. Yang, R. Kwitt, M. Styner and M. Niethammer  
-*AISTATS 2017*  
+*AISTATS 2017 (Oral)*  
 [Preprint](http://proceedings.mlr.press/v54/hong17b/hong17b.pdf)
 
 **Constructing Shape Spaces from a Topological Perspective**  
 C. Hofer, R. Kwitt, Y. Höller, E. Trinka, M. Niethammer and A. Uhl  
-*IPMI 2017*  
+*IPMI 2017 (Oral)*  
 [Preprint](https://link.springer.com/chapter/10.1007/978-3-319-59050-9_9)  
 Code included in [tda-toolkit](https://github.com/c-hofer/tda-toolkit)
 
@@ -111,7 +110,7 @@ X. Yang, R. Kwitt, M. Styner and M. Niethammer
 
 **One-Shot Learning of Scene Locations via Feature Trajectory Transfer**
 R. Kwitt, S. Hegenbart and M. Niethammer  
-*CVPR 2016* (**spotlight**)
+*CVPR 2016* (Spotlight)
 [Preprint](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kwitt_One-Shot_Learning_of_CVPR_2016_Preprint.html)
 &nbsp;&#183;&nbsp;
 [Code](https://github.com/rkwitt/TrajectoryTransfer)
@@ -164,7 +163,7 @@ J. Reininghaus, U. Bauer, S. Huber, and R. Kwitt
 
 **Group Testing for Longitudinal Data**  
 Y. Hong, N. Singh, R. Kwitt, and M. Niethammer  
-*IPMI 2015*  
+*IPMI 2015 (Oral)*  
 [Preprint](http://www.rkwitt.org/media/files/Hong15a-paper.pdf)
 
 **Low-rank Atlas Image Analyses in the Presence of Pathologies**  
