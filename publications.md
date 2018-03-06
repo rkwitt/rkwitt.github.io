@@ -42,7 +42,7 @@ Natalie Stanley, Roland Kwitt, Marc Niethammer, Peter J. Mucha
 
 **Feature Space Transfer for Data Augmentation**   
 B. Liu, M. Dixit, R. Kwitt and N. Vasconcelos   
-*CVPR 2017* (accepted)
+*CVPR 2017* (accepted for **oral** presentation)
 
 
 ## 2017
@@ -63,7 +63,7 @@ Supporting packages (+ tutorials): [tda-toolkit](https://github.com/c-hofer/tda-
 
 **AGA: Attribute-Guided Augmentation**  
 M. Dixit, R. Kwitt, M. Niethammer and N. Vasconcelos   
-*CVPR 2017*    
+*CVPR 2017* (**oral**)  
 [Preprint](https://arxiv.org/abs/1612.02559)
 &nbsp;&#183;&nbsp;
 [Talk video](https://youtu.be/F3ThW3RLSAU?t=26)
@@ -111,7 +111,7 @@ X. Yang, R. Kwitt, M. Styner and M. Niethammer
 
 **One-Shot Learning of Scene Locations via Feature Trajectory Transfer**
 R. Kwitt, S. Hegenbart and M. Niethammer  
-*CVPR 2016*  
+*CVPR 2016* (**spotlight**)
 [Preprint](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kwitt_One-Shot_Learning_of_CVPR_2016_Preprint.html)
 &nbsp;&#183;&nbsp;
 [Code](https://github.com/rkwitt/TrajectoryTransfer)
