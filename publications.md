@@ -43,6 +43,8 @@ Natalie Stanley, Roland Kwitt, Marc Niethammer, Peter J. Mucha
 **Feature Space Transfer for Data Augmentation**   
 B. Liu, M. Dixit, R. Kwitt and N. Vasconcelos   
 *CVPR 2017 (Oral)*   
+[Preprint](https://arxiv.org/abs/1801.04356)    
+
 
 ## 2017
 
