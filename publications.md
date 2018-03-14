@@ -28,7 +28,7 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 **Fast Predictive Simple Geodesic Regression**    
 Z. Ding, G. Fleishman, X. Yang, P. Thompson, R. Kwitt and Marc Niethammer   
-[arXiv 2017](https://arxiv.org/abs/1711.05766) (submitted to *NeuroImage*)
+[arXiv 2017](https://arxiv.org/abs/1711.05766)
 
 **Brain Extraction from Normal and Pathological Images: A Joint PCA/Image-Reconstruction Approach**   
 X. Han, R. Kwitt, S. Aylward, B. Menze, A. Asturias, P. Vespa, J. Van Horn and M. Niethammer   
