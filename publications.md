@@ -11,7 +11,7 @@ layout: default
 Publications are listed in *reverse-chronological* order. Find my Google Scholar
 profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
-- [2018](#2018) (1)
+- [2018](#2018) (2)
 - [2017](#2017) (10)
 - [2016](#2016) (6)
 - [2015](#2015) (5)
@@ -36,7 +36,11 @@ X. Han, R. Kwitt, S. Aylward, B. Menze, A. Asturias, P. Vespa, J. Van Horn and M
 
 **Compressing Networks with Super Nodes**  
 Natalie Stanley, Roland Kwitt, Marc Niethammer, Peter J. Mucha  
-[arXiv 2017](https://arxiv.org/abs/1706.04110)
+[arXiv 2017](https://arxiv.org/abs/1706.04110)    
+
+**Stochastic Block Models with Multiple Continuous Attributes**    
+N. Stanley, T. Bonacci, R. Kwitt, M. Niethammer and P. J. Mucha    
+[arXiv 2018](https://arxiv.org/abs/1803.02726)
 
 ## 2018
 
@@ -45,6 +49,9 @@ B. Liu, M. Dixit, R. Kwitt and N. Vasconcelos
 *CVPR 2017 (Oral)*   
 [Preprint](https://arxiv.org/abs/1801.04356)    
 
+**Scoliosis Screening and Monitoring Using Self Contained Ultrasound and Neural Networks**    
+H. Greer, S. Gerber, M. Niethammer, R. Kwitt, M. McCormick, D. Chittajallu, N. Siekierski, M. Oetgen, K. Cleary and S. Aylward    
+*ISBI 2017*
 
 ## 2017
 
