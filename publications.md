@@ -51,7 +51,8 @@ B. Liu, M. Dixit, R. Kwitt and N. Vasconcelos
 
 **Scoliosis Screening and Monitoring Using Self Contained Ultrasound and Neural Networks**    
 H. Greer, S. Gerber, M. Niethammer, R. Kwitt, M. McCormick, D. Chittajallu, N. Siekierski, M. Oetgen, K. Cleary and S. Aylward    
-*ISBI 2017*
+*ISBI 2017*    
+[Preprint](https://blog.kitware.com/wp-content/uploads/2018/01/Scoliosis-Screening-and-Monitoring-Using-Self-Contained-Ultrasound-and-Neural-Networks.pdf)
 
 ## 2017
 
