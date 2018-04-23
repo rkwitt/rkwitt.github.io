@@ -46,12 +46,17 @@ N. Stanley, T. Bonacci, R. Kwitt, M. Niethammer and P. J. Mucha
 
 **Feature Space Transfer for Data Augmentation**   
 B. Liu, M. Dixit, R. Kwitt and N. Vasconcelos   
-*CVPR 2017 (Oral)*   
+*CVPR 2018 (Oral)*   
 [Preprint](https://arxiv.org/abs/1801.04356)    
+
+**Image-Based Methods for Phase Estimation, Gating and Temporal Super Resolution of Cardiac Ultrasound**    
+D.R. Chittajallu, M. McCormick, S. Gerber, T. Czernuszewicz, R. Gessner, M. Willis, M. Niethammer, R. Kwitt and S. Aylward    
+*IEEE Transactions on Biomedical Engineering*    
+(accepted)    
 
 **Scoliosis Screening and Monitoring Using Self Contained Ultrasound and Neural Networks**    
 H. Greer, S. Gerber, M. Niethammer, R. Kwitt, M. McCormick, D. Chittajallu, N. Siekierski, M. Oetgen, K. Cleary and S. Aylward    
-*ISBI 2017*    
+*ISBI 2018*    
 [Preprint](https://blog.kitware.com/wp-content/uploads/2018/01/Scoliosis-Screening-and-Monitoring-Using-Self-Contained-Ultrasound-and-Neural-Networks.pdf)
 
 ## 2017
