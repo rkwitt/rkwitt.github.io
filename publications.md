@@ -65,6 +65,7 @@ H. Greer, S. Gerber, M. Niethammer, R. Kwitt, M. McCormick, D. Chittajallu, N. S
 **Domain Adaptation for CNN Based Iris Segmentation**    
 E. Jalilian, R. Kwitt and A. Uhl    
 *BIOSIG 2017*    
+[Publisher link](https://ieeexplore.ieee.org/document/8053502/definitions?ctx=definitions)    
 
 **Deep Learning with Topological Signatures**  
 C. Hofer, R. Kwitt, M. Niethammer and A. Uhl  
