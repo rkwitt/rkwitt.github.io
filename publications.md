@@ -11,7 +11,7 @@ layout: default
 Publications are listed in *reverse-chronological* order. Find my Google Scholar
 profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
-- [2018](#2018) (3)
+- [2018](#2018) (4)
 - [2017](#2017) (10)
 - [2016](#2016) (6)
 - [2015](#2015) (5)
@@ -30,10 +30,6 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 Z. Ding, G. Fleishman, X. Yang, P. Thompson, R. Kwitt and Marc Niethammer   
 [arXiv 2017](https://arxiv.org/abs/1711.05766)
 
-**Brain Extraction from Normal and Pathological Images: A Joint PCA/Image-Reconstruction Approach**   
-X. Han, R. Kwitt, S. Aylward, B. Menze, A. Asturias, P. Vespa, J. Van Horn and M. Niethammer   
-[arXiv 2017](https://arxiv.org/abs/1711.05702) (submitted to *NeuroImage*)
-
 **Compressing Networks with Super Nodes**  
 Natalie Stanley, Roland Kwitt, Marc Niethammer, Peter J. Mucha  
 [arXiv 2017](https://arxiv.org/abs/1706.04110)    
@@ -43,6 +39,11 @@ N. Stanley, T. Bonacci, R. Kwitt, M. Niethammer and P. J. Mucha
 [arXiv 2018](https://arxiv.org/abs/1803.02726)
 
 ## 2018
+
+**Brain Extraction from Normal and Pathological Images: A Joint PCA/Image-Reconstruction Approach**   
+X. Han, R. Kwitt, S. Aylward, S. Bakas, B. Menze, A. Asturias, P. Vespas, J. Van Horn and M. Niethammer   
+*NeuroImage (accepted)*    
+[Preprint](https://arxiv.org/pdf/1711.05702.pdf)    
 
 **Feature Space Transfer for Data Augmentation**   
 B. Liu, M. Dixit, R. Kwitt and N. Vasconcelos   
