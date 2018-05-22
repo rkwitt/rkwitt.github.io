@@ -42,7 +42,8 @@ N. Stanley, T. Bonacci, R. Kwitt, M. Niethammer and P. J. Mucha
 
 **Brain Extraction from Normal and Pathological Images: A Joint PCA/Image-Reconstruction Approach**   
 X. Han, R. Kwitt, S. Aylward, S. Bakas, B. Menze, A. Asturias, P. Vespas, J. Van Horn and M. Niethammer   
-*NeuroImage (accepted)*    
+*NeuroImage*     
+vol. 176, pp. 431-445, 2018        
 [Preprint](https://arxiv.org/pdf/1711.05702.pdf)    
 
 **Feature Space Transfer for Data Augmentation**   
@@ -53,7 +54,7 @@ B. Liu, M. Dixit, R. Kwitt and N. Vasconcelos
 **Image-Based Methods for Phase Estimation, Gating and Temporal Super Resolution of Cardiac Ultrasound**    
 D.R. Chittajallu, M. McCormick, S. Gerber, T. Czernuszewicz, R. Gessner, M. Willis, M. Niethammer, R. Kwitt and S. Aylward    
 *IEEE Transactions on Biomedical Engineering*    
-(accepted)    
+[DOI](https://doi.org/10.1109/TBME.2018.2823279)   
 
 **Scoliosis Screening and Monitoring Using Self Contained Ultrasound and Neural Networks**    
 H. Greer, S. Gerber, M. Niethammer, R. Kwitt, M. McCormick, D. Chittajallu, N. Siekierski, M. Oetgen, K. Cleary and S. Aylward    
