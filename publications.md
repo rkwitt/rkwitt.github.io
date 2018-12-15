@@ -11,7 +11,7 @@ layout: default
 Publications are listed in *reverse-chronological* order. Find my Google Scholar
 profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
-- [2018](#2018) (4)
+- [2018](#2018) (7)
 - [2017](#2017) (10)
 - [2016](#2016) (6)
 - [2015](#2015) (5)
@@ -30,15 +30,28 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 Z. Ding, G. Fleishman, X. Yang, P. Thompson, R. Kwitt and Marc Niethammer   
 [arXiv 2017](https://arxiv.org/abs/1711.05766)
 
-**Compressing Networks with Super Nodes**  
-Natalie Stanley, Roland Kwitt, Marc Niethammer, Peter J. Mucha  
-[arXiv 2017](https://arxiv.org/abs/1706.04110)    
-
 **Stochastic Block Models with Multiple Continuous Attributes**    
 N. Stanley, T. Bonacci, R. Kwitt, M. Niethammer and P. J. Mucha    
 [arXiv 2018](https://arxiv.org/abs/1803.02726)
 
 ## 2018
+
+**Training of polyp staging systems using mixed imaging modalities**    
+G. Wimmer, M. Gadermayr, R. Kwitt, M. Häfner, T. Tamaki, S. Yoshida, S. Tanaka, D. Merhof and A. Uhl    
+*Computers in Biology and Medicine*    
+vol. 102, pp. 251-259, 2018    
+[Publisher link](https://www.sciencedirect.com/science/article/pii/S0010482518301100)
+
+**Image-based methods for phase estimation, gating and temporal super-resolution of cardiac ultrasound**    
+D. Chittajallu, M. McCormick, S. Gerber, T. Czernuszewicz, R. Gessner, M. Willis, M. Niethammer, R. Kwitt, S. Aylward    
+*IEEE Transactions on Biomedical Engineering*    
+[DOI](10.1109/TBME.2018.2823279)
+
+**Compressing Networks with Super Nodes**  
+Natalie Stanley, Roland Kwitt, Marc Niethammer, Peter J. Mucha  
+*Nature Scientific Reports*    
+Nr. 10892, 2018    
+[Preprint](https://arxiv.org/abs/1706.04110)    
 
 **Brain Extraction from Normal and Pathological Images: A Joint PCA/Image-Reconstruction Approach**   
 X. Han, R. Kwitt, S. Aylward, S. Bakas, B. Menze, A. Asturias, P. Vespas, J. Van Horn and M. Niethammer   
@@ -113,11 +126,13 @@ Code included in [tda-toolkit](https://github.com/c-hofer/tda-toolkit)
 
 **Simple Domain Adaptation for Cross-Dataset Analyses of Brain MRI Data**  
 C. Hofer, R. Kwitt, Y. Höller, E. Trinka and A. Uhl  
-*ISBI 2017*
+*ISBI 2017*    
+[DOI](10.1109/ISBI.2017.7950556)
 
 **Efficient Registration of Pathological Images: A joint PCA/Image-Reconstruction Approach**  
 X. Han, X. Yang, S. Aylward, R. Kwitt and M. Niethammer  
-*ISBI 2017*  
+*ISBI 2017*    
+[Preprint](http://wwwx.cs.unc.edu/~mn/sites/default/files/han_isib2017.pdf)
 
 **Fast Predictive Multimodal Image Registration**  
 X. Yang, R. Kwitt, M. Styner and M. Niethammer   
