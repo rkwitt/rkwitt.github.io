@@ -22,21 +22,29 @@ visit my [Google Scholar](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&
 
 <dl>
 <dt>
+<a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Feature_Space_Transfer_CVPR_2018_paper.pdf">
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+Feature-Space Transfer for Data Augmentation</dt>
+<dd>CVPR 2018 (Oral)</dd>  
+  
+<dt>
 <a href="https://arxiv.org/abs/1707.04041">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 Deep Learning With Topological Signatures</dt>
 <dd>NIPS 2017</dd>
+
 <dt>
 <a href="https://arxiv.org/abs/1612.02559">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
-AGA: Attribute-Guided Augmentation
-</dt>
+AGA: Attribute-Guided Augmentation</dt>
 <dd>CVPR 2017 (Oral)</dd>
+
 <dt>
 <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kwitt_One-Shot_Learning_of_CVPR_2016_Preprint.html">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 One-Shot Learning of Scene Locations via Feature Trajectory Transfer</dt>
 <dd>CVPR 2016 (Spotlight)</dd>
+
 <dt>
 <a href="http://cobweb.cs.uga.edu/~yihong/Preprints/parametric_regression_on_the_grassmannian.pdf">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  
@@ -48,6 +56,7 @@ Parametric Regression on the Grassmannian</dt>
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 Statistical Topological Data Analysis - A Kernel Perspective</dt>
 <dd>NIPS 2015</dd>
+
 <dt>
 <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Reininghaus_A_Stable_Multi-Scale_2015_CVPR_paper.pdf">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
