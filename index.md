@@ -39,14 +39,22 @@ Deep Learning With Topological Signatures</dt>
 AGA: Attribute-Guided Augmentation</dt>
 <dd>CVPR 2017 (Oral)</dd>
 
+
 <dt>
-<a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kwitt_One-Shot_Learning_of_CVPR_2016_Preprint.html">
+<a href="http://proceedings.mlr.press/v54/hong17b/hong17b.pdf">
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+Regression Uncertainty on the Grassmannian</dt>
+<dd>AISTATS 2017 (Oral)</dd>
+
+
+<dt>
+<a href="http://openaccess.thecvf.com/content_cvpr_2016/papers/Kwitt_One-Shot_Learning_of_CVPR_2016_paper.pdf">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 One-Shot Learning of Scene Locations via Feature Trajectory Transfer</dt>
 <dd>CVPR 2016 (Spotlight)</dd>
 
 <dt>
-<a href="http://cobweb.cs.uga.edu/~yihong/Preprints/parametric_regression_on_the_grassmannian.pdf">
+<a href="https://ieeexplore.ieee.org/document/7378521">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  
 Parametric Regression on the Grassmannian</dt>
 <dd>IEEE Trans. Pattern Anal. Mach. Intell. 2016</dd>
@@ -70,13 +78,13 @@ Scene Recognition on the Semantic Manifold</dt>
 <dd> ECCV 2012</dd>
 
 <dt>
-<a href="http://www.rkwitt.org/media/files/Kwitt12a-paper.pdf">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/23286117">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 Recognition in Ultrasound Videos: Where Am I?</dt>
 <dd>MICCAI 2012 (Oral)</dd>
 
 <dt>
-<a href="http://www.rkwitt.org/media/files/Kwitt11e-paper.pdf">
+<a href="https://ieeexplore.ieee.org/document/5238618">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 Lightweight Probabilistic Texture Retrieval</dt>
 <dd>IEEE Trans. Image Process. 2010</dd>
@@ -103,7 +111,10 @@ Univ. of Salzburg
 *PhD student*\\
 Department of Computer Science\\
 Univ. of Salzburg\\
-Advisor: [Prof. Andreas Uhl](https://www.uni-salzburg.at/index.php?id=53927&L=1)
+Advisor: [Prof. Andreas Uhl](https://www.uni-salzburg.at/index.php?id=53927&L=1)    
+
+[Curriculum Vitae (CV)](cv-kwitt.pdf)
+
 
 ## Professional service
 
