@@ -11,6 +11,7 @@ layout: default
 Publications are listed in *reverse-chronological* order. Find my Google Scholar
 profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
+- [2019](#2019) (1)
 - [2018](#2018) (6)
 - [2017](#2017) (10)
 - [2016](#2016) (6)
@@ -33,6 +34,12 @@ Z. Ding, G. Fleishman, X. Yang, P. Thompson, R. Kwitt and Marc Niethammer
 **Stochastic Block Models with Multiple Continuous Attributes**    
 N. Stanley, T. Bonacci, R. Kwitt, M. Niethammer and P. J. Mucha    
 [arXiv 2018](https://arxiv.org/abs/1803.02726)
+
+## 2019
+
+**Metric Learning for Image Registration**    
+M. Niethammer, F.-X. Vialard and R. Kwitt    
+*CVPR 2018 (accepted)*       
 
 ## 2018
 
