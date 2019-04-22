@@ -11,7 +11,7 @@ layout: default
 Publications are listed in *reverse-chronological* order. Find my Google Scholar
 profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
-- [2019](#2019) (1)
+- [2019](#2019) (4)
 - [2018](#2018) (6)
 - [2017](#2017) (10)
 - [2016](#2016) (6)
@@ -37,9 +37,26 @@ N. Stanley, T. Bonacci, R. Kwitt, M. Niethammer and P. J. Mucha
 
 ## 2019
 
+**Connectivity-Optimized Representation Learning via Persistent Homology**    
+C. Hofer, R. Kwitt, M. Dixit and M. Niethammer    
+*ICML 2019 (accepted)*
+
 **Metric Learning for Image Registration**    
 M. Niethammer, F.-X. Vialard and R. Kwitt    
-*CVPR 2018 (accepted)*       
+*CVPR 2019 (accepted)*     
+
+
+**Image-Based Methods for Phase Estimation, Gating, and Temporal Superresolution of Cardiac Ultrasound**    
+D.R. Chittajallu, M., McCormick, S. Gerber, T.J.  Czernuszewicz, R. Gessner, M.S. Willis, M. Niethammer, R. Kwitt and S.R. Aylward     
+*IEEE Transactions on Biomedical Engineering*        
+vol. 66(1), pp. 72-79, 2019
+
+**Quest for the best endoscopic imaging modality for computer-assisted colonic polyp staging**    
+G. Wimmer, M. Gadermayr, G. Wolkersdörfer, R. Kwitt, T. Tamaki, J. Tischendorf, M. Häfner, S. Yoshida, S. Tanaka, D. Merhof, and A. Uhl    
+*World J Gastroenterol.*     
+vol. 25(10), pp. 1197–1209, 2019    
+[DOI](10.3748/wjg.v25.i10.1197)
+
 
 ## 2018
 
