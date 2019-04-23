@@ -29,11 +29,11 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 **Fast Predictive Simple Geodesic Regression**    
 Z. Ding, G. Fleishman, X. Yang, P. Thompson, R. Kwitt and Marc Niethammer   
-[arXiv 2017](https://arxiv.org/abs/1711.05766)
+[arXiv](https://arxiv.org/abs/1711.05766)
 
 **Stochastic Block Models with Multiple Continuous Attributes**    
 N. Stanley, T. Bonacci, R. Kwitt, M. Niethammer and P. J. Mucha    
-[arXiv 2018](https://arxiv.org/abs/1803.02726)
+[arXiv](https://arxiv.org/abs/1803.02726)
 
 ## 2019
 
@@ -43,7 +43,8 @@ C. Hofer, R. Kwitt, M. Dixit and M. Niethammer
 
 **Metric Learning for Image Registration**    
 M. Niethammer, F.-X. Vialard and R. Kwitt    
-*CVPR 2019 (accepted)*     
+*CVPR 2019 (accepted)*       
+[arXiv](https://arxiv.org/abs/1904.09524)
 
 
 **Image-Based Methods for Phase Estimation, Gating, and Temporal Superresolution of Cardiac Ultrasound**    
@@ -75,18 +76,18 @@ D. Chittajallu, M. McCormick, S. Gerber, T. Czernuszewicz, R. Gessner, M. Willis
 Natalie Stanley, Roland Kwitt, Marc Niethammer, Peter J. Mucha  
 *Nature Scientific Reports*    
 Nr. 10892, 2018    
-[Preprint](https://arxiv.org/abs/1706.04110)    
+[arXiv](https://arxiv.org/abs/1706.04110)    
 
 **Brain Extraction from Normal and Pathological Images: A Joint PCA/Image-Reconstruction Approach**   
 X. Han, R. Kwitt, S. Aylward, S. Bakas, B. Menze, A. Asturias, P. Vespas, J. Van Horn and M. Niethammer   
 *NeuroImage*     
 vol. 176, pp. 431-445, 2018        
-[Preprint](https://arxiv.org/pdf/1711.05702.pdf)    
+[arXiv](https://arxiv.org/pdf/1711.05702.pdf)    
 
 **Feature Space Transfer for Data Augmentation**   
 B. Liu, M. Dixit, R. Kwitt and N. Vasconcelos   
 *CVPR 2018 (Oral)*   
-[Preprint](https://arxiv.org/abs/1801.04356)    
+[arXiv](https://arxiv.org/abs/1801.04356)    
 
 **Scoliosis Screening and Monitoring Using Self Contained Ultrasound and Neural Networks**    
 H. Greer, S. Gerber, M. Niethammer, R. Kwitt, M. McCormick, D. Chittajallu, N. Siekierski, M. Oetgen, K. Cleary and S. Aylward    
@@ -103,7 +104,7 @@ E. Jalilian, R. Kwitt and A. Uhl
 **Deep Learning with Topological Signatures**  
 C. Hofer, R. Kwitt, M. Niethammer and A. Uhl  
 *NIPS 2017*  
-[Preprint](https://arxiv.org/abs/1707.04041)
+[arXiv](https://arxiv.org/abs/1707.04041)
 &nbsp;&#183;&nbsp;
 [Code](https://github.com/c-hofer/nips2017)  
 Supporting packages (+ tutorials): [tda-toolkit](https://github.com/c-hofer/tda-toolkit)
@@ -113,7 +114,7 @@ Supporting packages (+ tutorials): [tda-toolkit](https://github.com/c-hofer/tda-
 **AGA: Attribute-Guided Augmentation**  
 M. Dixit, R. Kwitt, M. Niethammer and N. Vasconcelos   
 *CVPR 2017 (Oral)*     
-[Preprint](https://arxiv.org/abs/1612.02559)
+[arXiv](https://arxiv.org/abs/1612.02559)
 &nbsp;&#183;&nbsp;
 [Talk video](https://youtu.be/F3ThW3RLSAU?t=26)
 &nbsp;&#183;&nbsp;
@@ -123,7 +124,7 @@ M. Dixit, R. Kwitt, M. Niethammer and N. Vasconcelos
 X. Yang, R. Kwitt, M. Styner and M. Niethammer  
 *NeuroImage*  
 vol. 158, pp. 378-396, 2017   
-[Preprint](https://arxiv.org/abs/1703.10908)
+[arXiv](https://arxiv.org/abs/1703.10908)
 &nbsp;&#183;&nbsp;
 [Code](https://github.com/rkwitt/quicksilver)
 
@@ -135,12 +136,12 @@ Z. Ding, G. Fleischman, P. Thomson, R. Kwitt, M. Niethammer and ADNI
 **Regression Uncertainty on the Grassmannian**  
 Y. Hong, X. Yang, R. Kwitt, M. Styner and M. Niethammer  
 *AISTATS 2017 (Oral)*  
-[Preprint](http://proceedings.mlr.press/v54/hong17b/hong17b.pdf)
+[Publisher link](http://proceedings.mlr.press/v54/hong17b/hong17b.pdf)
 
 **Constructing Shape Spaces from a Topological Perspective**  
 C. Hofer, R. Kwitt, Y. Höller, E. Trinka, M. Niethammer and A. Uhl  
 *IPMI 2017 (Oral)*  
-[Preprint](https://link.springer.com/chapter/10.1007/978-3-319-59050-9_9)  
+[Publisher link](https://link.springer.com/chapter/10.1007/978-3-319-59050-9_9)  
 Code included in [tda-toolkit](https://github.com/c-hofer/tda-toolkit)
 
 **Simple Domain Adaptation for Cross-Dataset Analyses of Brain MRI Data**  
@@ -163,7 +164,7 @@ X. Yang, R. Kwitt, M. Styner and M. Niethammer
 **One-Shot Learning of Scene Locations via Feature Trajectory Transfer**
 R. Kwitt, S. Hegenbart and M. Niethammer  
 *CVPR 2016* (Spotlight)
-[Preprint](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kwitt_One-Shot_Learning_of_CVPR_2016_Preprint.html)
+[Publisher link](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kwitt_One-Shot_Learning_of_CVPR_2016_Preprint.html)
 &nbsp;&#183;&nbsp;
 [Code](https://github.com/rkwitt/TrajectoryTransfer)
 
@@ -178,17 +179,17 @@ vol. 34(12), pp. 2284-2297, 2016
 **Fast Predictive Image Registration**  
 X. Yang, R. Kwitt and M. Niethammer  
 *DLMIA 2016*  
-[Preprint](https://arxiv.org/abs/1607.02504)
+[arXiv](https://arxiv.org/abs/1607.02504)
 
 **Registration of Pathological Images**  
 X. Yang, X. Han, E. Park, S. Aylward, R. Kwitt and M. Niethammer  
 *SASHIMI 2016*  
-[Preprint](http://wwwx.cs.unc.edu/~mn/?q=node/204)
+[arXiv](http://wwwx.cs.unc.edu/~mn/?q=node/204)
 
 **Ultrasound Spectroscopy**  
 S. Alyward, M. McCormick, H.J. Kang, S. Razzaque, R. Kwitt and M. Niethammer  
 *ISBI 2016*  
-[Preprint](http://ieeexplore.ieee.org/document/7493437/)
+[Publisher link](http://ieeexplore.ieee.org/document/7493437/)
 
 **Narrow Band Imaging Versus White-Light: What is best for Computer-Assisted Diagnosis of Celiac Disease?**  
 M. Gadermayr, S. Hegenbart , R. Kwitt and A. Uhl  
@@ -200,14 +201,14 @@ M. Gadermayr, S. Hegenbart , R. Kwitt and A. Uhl
 **Statistical Topological Data Analysis - A Kernel Perspective**  
 R. Kwitt, S. Huber, M. Niethammer, W. Lin and U. Bauer  
 *NIPS 2015*  
-[Preprint](http://papers.nips.cc/paper/5887-statistical-topological-data-analysis-a-kernel-perspective)
+[Publisher link](http://papers.nips.cc/paper/5887-statistical-topological-data-analysis-a-kernel-perspective)
 &nbsp;&#183;&nbsp;
 [Code](https://github.com/rkwitt/persistence-learning)
 
 **A Stable Multi-Scale Kernel for Topological Machine Learning**  
 J. Reininghaus, U. Bauer, S. Huber, and R. Kwitt  
 *CVPR 2015*  
-[Preprint](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Reininghaus_A_Stable_Multi-Scale_2015_CVPR_paper.pdf)
+[Publisher link](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Reininghaus_A_Stable_Multi-Scale_2015_CVPR_paper.pdf)
 &nbsp;&#183;&nbsp;
 [Code](https://github.com/rkwitt/persistence-learning)
 &nbsp;&#183;&nbsp;
@@ -222,7 +223,7 @@ Y. Hong, N. Singh, R. Kwitt, and M. Niethammer
 X. Liu, M. Niethammer, R. Kwitt, N. Singh, M. McCormick and S. Aylward  
 *IEEE Trans. Med. Imag. (TMI)*  
 vol. 34(12), pp. 2583-2591, 2015   
-[Preprint](http://ieeexplore.ieee.org/document/7130619/authors)
+[Publisher link](http://ieeexplore.ieee.org/document/7130619/authors)
 
 **Model Criticism for Regression on the Grassmannian**  
 Y. Hong, R. Kwitt, and M. Niethammer  
@@ -299,12 +300,10 @@ vol. 17, pp. 712-722, 2013
 **PCL and ParaView - Connecting the Dots**  
 P. Marion, R. Kwitt, B. Davis, and M. Gschwandtner  
 *CVPR Workshop on Point Cloud Processing (PCP) 2012*  
-[Preprint]()   
 
 **Scene Recognition on the Semantic Manifold**  
 R. Kwitt, N. Vasconcelos and N. Rasiwasia  
 *ECCV 2012*  
-[Preprint]()   
 
 **Recognition in Ultrasound Videos: Where Am I?**
 R. Kwitt, N. Vasconcelos, S. Razzaque, and S. Aylward  
@@ -317,12 +316,10 @@ R. Kwitt, N. Vasconcelos, S. Razzaque, and S. Aylward
 R. Kwitt, N. Vasconcelos, N. Rasiwasia, M. Häfner, F. Wrba, and A. Uhl  
 *Med. Image Anal. (MedIA)*  
 vol. 16(7), pp. 1415-1422, 2012  
-[Preprint]()   
 
 **Topology-Preserving Watermarking of Vector Data**  
 S. Huber, M. Held, R. Kwitt, and P. Meerwald  
 *EuroCG 2012*  
-[Preprint]()   
 
 ## 2011
 
