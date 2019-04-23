@@ -277,7 +277,7 @@ vol. 24(1), pp. 61-86, 2014
 
 **Studying Cerebral Vasculature Using Structure Proximity and Graph Kernels**  
 R. Kwitt, D. Pace, M. Niethammer, and S. Aylward  
-MICCAI 2013  
+MICCAI 2013    
 [Preprint](http://www.rkwitt.org/media/files/Kwitt13a-paper.pdf)
 &nbsp;&#183;&nbsp;
 [Code](https://github.com/KitwareMedical/TubeTK-Experiments)
@@ -308,7 +308,7 @@ R. Kwitt, N. Vasconcelos and N. Rasiwasia
 **Recognition in Ultrasound Videos: Where Am I?**
 R. Kwitt, N. Vasconcelos, S. Razzaque, and S. Aylward  
 *MICCAI 2012*   
-[Preprint](http://www.rkwitt.org/media/files/Kwitt12a-paper.pdf)   
+[Preprint](http://www.rkwitt.org/media/files/Kwitt12a-paper.pdf)
 &nbsp;&#183;&nbsp;
 [Talk](http://www.miccai2012.org/conference-program/oral-program/57)
 
