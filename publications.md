@@ -27,9 +27,9 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 ## Preprints
 
-**Fast Predictive Simple Geodesic Regression**    
-Z. Ding, G. Fleishman, X. Yang, P. Thompson, R. Kwitt and Marc Niethammer   
-[arXiv](https://arxiv.org/abs/1711.05766)
+**Graph Filtration Learning**     
+C. Hofer, R. Kwitt and M. Niethammer     
+[arXiv](https://arxiv.org/abs/1905.10996)
 
 **Stochastic Block Models with Multiple Continuous Attributes**    
 N. Stanley, T. Bonacci, R. Kwitt, M. Niethammer and P. J. Mucha    
@@ -37,15 +37,26 @@ N. Stanley, T. Bonacci, R. Kwitt, M. Niethammer and P. J. Mucha
 
 ## 2019
 
+**Fast Predictive Simple Geodesic Regression**    
+Z. Ding, G. Fleishman, X. Yang, P. Thompson, R. Kwitt and Marc Niethammer     
+*Med. Image Anal. (MedIA)*     
+2019
+[arXiv](https://arxiv.org/abs/1711.05766)
+
 **Connectivity-Optimized Representation Learning via Persistent Homology**    
 C. Hofer, R. Kwitt, M. Dixit and M. Niethammer    
-*ICML 2019 (accepted)*
+*ICML 2019*     
+[PMLR](http://proceedings.mlr.press/v97/hofer19a.html)
 
 **Metric Learning for Image Registration**    
 M. Niethammer, F.-X. Vialard and R. Kwitt    
-*CVPR 2019 (accepted)*       
-[arXiv](https://arxiv.org/abs/1904.09524)
-
+*CVPR 2019*        
+[arXiv](https://arxiv.org/abs/1904.09524) 
+&nbsp;&#183;&nbsp;
+[CVF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Niethammer_Metric_Learning_for_Image_Registration_CVPR_2019_paper.pdf) &nbsp;&#183;&nbsp; 
+[Suppl. material](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Niethammer_Metric_Learning_for_CVPR_2019_supplemental.pdf)   
+&nbsp;&#183;&nbsp; 
+[mermaid](https://github.com/uncbiag/registration)
 
 **Image-Based Methods for Phase Estimation, Gating, and Temporal Superresolution of Cardiac Ultrasound**    
 D.R. Chittajallu, M., McCormick, S. Gerber, T.J.  Czernuszewicz, R. Gessner, M.S. Willis, M. Niethammer, R. Kwitt and S.R. Aylward     
