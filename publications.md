@@ -40,7 +40,7 @@ N. Stanley, T. Bonacci, R. Kwitt, M. Niethammer and P. J. Mucha
 **Fast Predictive Simple Geodesic Regression**    
 Z. Ding, G. Fleishman, X. Yang, P. Thompson, R. Kwitt and Marc Niethammer     
 *Med. Image Anal. (MedIA)*     
-2019
+2019       
 [arXiv](https://arxiv.org/abs/1711.05766)
 
 **Connectivity-Optimized Representation Learning via Persistent Homology**    
@@ -54,8 +54,7 @@ M. Niethammer, F.-X. Vialard and R. Kwitt
 [arXiv](https://arxiv.org/abs/1904.09524) 
 &nbsp;&#183;&nbsp;
 [CVF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Niethammer_Metric_Learning_for_Image_Registration_CVPR_2019_paper.pdf) &nbsp;&#183;&nbsp; 
-[Suppl. material](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Niethammer_Metric_Learning_for_CVPR_2019_supplemental.pdf)   
-&nbsp;&#183;&nbsp; 
+[Suppl. material](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Niethammer_Metric_Learning_for_CVPR_2019_supplemental.pdf) &nbsp;&#183;&nbsp; 
 [mermaid](https://github.com/uncbiag/registration)
 
 **Image-Based Methods for Phase Estimation, Gating, and Temporal Superresolution of Cardiac Ultrasound**    
