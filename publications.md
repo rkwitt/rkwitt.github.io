@@ -11,7 +11,7 @@ layout: default
 Publications are listed in *reverse-chronological* order. Find my Google Scholar
 profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
-- [2019](#2019) (4)
+- [2019](#2019) (5)
 - [2018](#2018) (6)
 - [2017](#2017) (10)
 - [2016](#2016) (6)
@@ -46,16 +46,16 @@ Z. Ding, G. Fleishman, X. Yang, P. Thompson, R. Kwitt and Marc Niethammer
 **Connectivity-Optimized Representation Learning via Persistent Homology**    
 C. Hofer, R. Kwitt, M. Dixit and M. Niethammer    
 *ICML 2019*     
-[PMLR](http://proceedings.mlr.press/v97/hofer19a.html)
+[Publisher link](http://proceedings.mlr.press/v97/hofer19a.html)
 
 **Metric Learning for Image Registration**    
 M. Niethammer, F.-X. Vialard and R. Kwitt    
 *CVPR 2019*        
-[arXiv](https://arxiv.org/abs/1904.09524) 
+[arXiv](https://arxiv.org/abs/1904.09524)
 &nbsp;&#183;&nbsp;
-[CVF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Niethammer_Metric_Learning_for_Image_Registration_CVPR_2019_paper.pdf) &nbsp;&#183;&nbsp; 
-[Suppl. material](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Niethammer_Metric_Learning_for_CVPR_2019_supplemental.pdf) &nbsp;&#183;&nbsp; 
-[mermaid](https://github.com/uncbiag/registration)
+[Publisher link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Niethammer_Metric_Learning_for_Image_Registration_CVPR_2019_paper.pdf) &nbsp;&#183;&nbsp;
+[Supplementary material](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Niethammer_Metric_Learning_for_CVPR_2019_supplemental.pdf) &nbsp;&#183;&nbsp;
+[Source code](https://github.com/uncbiag/registration)
 
 **Image-Based Methods for Phase Estimation, Gating, and Temporal Superresolution of Cardiac Ultrasound**    
 D.R. Chittajallu, M., McCormick, S. Gerber, T.J.  Czernuszewicz, R. Gessner, M.S. Willis, M. Niethammer, R. Kwitt and S.R. Aylward     
@@ -97,7 +97,10 @@ vol. 176, pp. 431-445, 2018
 **Feature Space Transfer for Data Augmentation**   
 B. Liu, M. Dixit, R. Kwitt and N. Vasconcelos   
 *CVPR 2018 (Oral)*   
-[arXiv](https://arxiv.org/abs/1801.04356)    
+[arXiv](https://arxiv.org/abs/1801.04356)
+&nbsp;&#183;&nbsp;
+[Publisher link](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Feature_Space_Transfer_CVPR_2018_paper.pdf)
+
 
 **Scoliosis Screening and Monitoring Using Self Contained Ultrasound and Neural Networks**    
 H. Greer, S. Gerber, M. Niethammer, R. Kwitt, M. McCormick, D. Chittajallu, N. Siekierski, M. Oetgen, K. Cleary and S. Aylward    
@@ -116,6 +119,8 @@ C. Hofer, R. Kwitt, M. Niethammer and A. Uhl
 *NIPS 2017*  
 [arXiv](https://arxiv.org/abs/1707.04041)
 &nbsp;&#183;&nbsp;
+[Publisher link](https://papers.nips.cc/paper/6761-deep-learning-with-topological-signatures)
+&nbsp;&#183;&nbsp;
 [Code](https://github.com/c-hofer/nips2017)  
 Supporting packages (+ tutorials): [tda-toolkit](https://github.com/c-hofer/tda-toolkit)
 &nbsp;&#183;&nbsp;
@@ -127,8 +132,6 @@ M. Dixit, R. Kwitt, M. Niethammer and N. Vasconcelos
 [arXiv](https://arxiv.org/abs/1612.02559)
 &nbsp;&#183;&nbsp;
 [Talk video](https://youtu.be/F3ThW3RLSAU?t=26)
-&nbsp;&#183;&nbsp;
-[Code]()
 
 **Quicksilver: Fast Predictive Image Registration - a Deep Learning Approach**  
 X. Yang, R. Kwitt, M. Styner and M. Niethammer  

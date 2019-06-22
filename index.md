@@ -7,7 +7,9 @@
 ![](uni.png)
 
 I am an associate professor in the [Department of Computer Science](https://informatik.uni-salzburg.at/) at the
-[Univ. of Salzburg](https://www.uni-salzburg.at/), Austria. Prior to that, I was part of the medical imaging and computer vision group at [Kitware Inc.](https://www.kitware.com/), North Carolina, USA. My research spans multiple areas, but mostly focuses on machine learning and principled ways to leverage the inherent structure in all kinds of (mostly visual) data.
+[Univ. of Salzburg](https://www.uni-salzburg.at/), Austria. Prior to that, I was part of the medical imaging and computer vision group at [Kitware Inc.](https://www.kitware.com/), North Carolina, USA. My research spans multiple areas, but mostly focusses on developing machine learning methods that
+allow to leverage and control structural characteristics of
+data.
 
 ## Research interests
 
@@ -20,13 +22,20 @@ I am an associate professor in the [Department of Computer Science](https://info
 For a complete list of all papers, go to [Publications](publications), or
 visit my [Google Scholar](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de) profile.
 
+
 <dl>
+<dt>
+<a href="http://proceedings.mlr.press/v97/hofer19a.html">
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+Connectivity-Optimized Representation Learning via Persistent Homology</dt>
+<dd>ICML 2019</dd>    
+
 <dt>
 <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Feature_Space_Transfer_CVPR_2018_paper.pdf">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 Feature-Space Transfer for Data Augmentation</dt>
-<dd>CVPR 2018 (Oral)</dd>  
-  
+<dd>CVPR 2018 (Oral)</dd>     
+
 <dt>
 <a href="https://arxiv.org/abs/1707.04041">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
