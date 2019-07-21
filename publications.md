@@ -11,7 +11,7 @@ layout: default
 Publications are listed in *reverse-chronological* order. Find my Google Scholar
 profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
-- [2019](#2019) (5)
+- [2019](#2019) (6)
 - [2018](#2018) (6)
 - [2017](#2017) (10)
 - [2016](#2016) (6)
@@ -36,6 +36,11 @@ N. Stanley, T. Bonacci, R. Kwitt, M. Niethammer and P. J. Mucha
 [arXiv](https://arxiv.org/abs/1803.02726)
 
 ## 2019
+
+**Learning Representations of Persistence Barcodes**    
+C. Hofer, R. Kwitt and M. Niethammer      
+*JMLR* (accepted)      
+2019     
 
 **Fast Predictive Simple Geodesic Regression**    
 Z. Ding, G. Fleishman, X. Yang, P. Thompson, R. Kwitt and Marc Niethammer     
