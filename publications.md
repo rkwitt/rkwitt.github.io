@@ -45,8 +45,8 @@ C. Hofer, R. Kwitt and M. Niethammer
 **Fast Predictive Simple Geodesic Regression**    
 Z. Ding, G. Fleishman, X. Yang, P. Thompson, R. Kwitt and Marc Niethammer     
 *Med. Image Anal. (MedIA)*     
-2019       
-[arXiv](https://arxiv.org/abs/1711.05766)
+vol. 56, pp. 192-209, 2019
+[arXiv](https://arxiv.org/abs/1711.05766) &nbsp;&#183;&nbsp; [Publisher link](https://www.sciencedirect.com/science/article/pii/S1361841518301099)
 
 **Connectivity-Optimized Representation Learning via Persistent Homology**    
 C. Hofer, R. Kwitt, M. Dixit and M. Niethammer    

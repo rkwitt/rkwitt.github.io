@@ -132,11 +132,11 @@ Advisor: [Prof. Andreas Uhl](https://www.uni-salzburg.at/index.php?id=53927&L=1)
 
 I regularly serve as a reviewer for the major vision and machine learning
 conferences (e.g., CVPR, ICCV, ECCV, BMVC, NIPS, AISTATS, ICIP, ICPR, MICCAI) as
-well as the major journals in the field (e.g.,TPAMI, IJCV, TMI, TIP, TSP, MedIA).
+well as the major journals in the field (e.g.,TPAMI, JMLR, IJCV, TMI, TIP, TSP, MedIA).
 
 ## Awards
 
 - [CVPR Outstanding Reviewer Award (2014)](http://www.pamitc.org/cvpr14/files/CVPR_2014_Pocket_Guide_Final.pdf)
-- [MICCAI Young Scientist Award (2012)](http://www.miccai2012.org/awards/young-scientist-award/68)
+- [MICCAI Young Scientist Award (2012)](http://www.miccai.org/about-miccai/awards/young-scientist-award/)
 - PhD thesis short-listed for the "Heinz-Zemanek" price (2012)
 - Special appreciation award (for MSc thesis) of the Austrian ministry of science and research (2005)
