@@ -34,9 +34,12 @@ C. Hofer, R. Kwitt and M. Niethammer
 ## 2019
 
 **Stochastic Block Models with Multiple Continuous Attributes**      
-N. Stanley, T. Bonacci, R. Kwitt, M. Niethammer and P. J. Mucha      
+N. Stanley, T. Bonacci, R. Kwitt, M. Niethammer and P. J. Mucha       
+*Appl. Netw. Sci.*       
+vol. 4 (54), 2019      
 [arXiv](https://arxiv.org/abs/1803.02726) &nbsp;&#183;&nbsp;
-[Publisher link](https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0170-z)
+[Publisher link](https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0170-z) &nbsp;&#183;&nbsp; 
+[Source code](https://github.com/stanleyn/AttributedSBM)
 
 
 **Learning Representations of Persistence Barcodes**    
@@ -47,7 +50,7 @@ C. Hofer, R. Kwitt and M. Niethammer
 **Fast Predictive Simple Geodesic Regression**    
 Z. Ding, G. Fleishman, X. Yang, P. Thompson, R. Kwitt and Marc Niethammer     
 *Med. Image Anal. (MedIA)*     
-vol. 56, pp. 192-209, 2019
+vol. 56, pp. 192-209, 2019    
 [arXiv](https://arxiv.org/abs/1711.05766) &nbsp;&#183;&nbsp; [Publisher link](https://www.sciencedirect.com/science/article/pii/S1361841518301099)
 
 **Connectivity-Optimized Representation Learning via Persistent Homology**    
@@ -67,7 +70,8 @@ M. Niethammer, F.-X. Vialard and R. Kwitt
 **Image-Based Methods for Phase Estimation, Gating, and Temporal Superresolution of Cardiac Ultrasound**    
 D.R. Chittajallu, M., McCormick, S. Gerber, T.J.  Czernuszewicz, R. Gessner, M.S. Willis, M. Niethammer, R. Kwitt and S.R. Aylward     
 *IEEE Transactions on Biomedical Engineering*        
-vol. 66(1), pp. 72-79, 2019
+vol. 66(1), pp. 72-79, 2019    
+[Publisher link](https://ieeexplore.ieee.org/document/8345790)
 
 **Quest for the best endoscopic imaging modality for computer-assisted colonic polyp staging**    
 G. Wimmer, M. Gadermayr, G. Wolkersdörfer, R. Kwitt, T. Tamaki, J. Tischendorf, M. Häfner, S. Yoshida, S. Tanaka, D. Merhof, and A. Uhl    
