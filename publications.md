@@ -11,7 +11,7 @@ layout: default
 Publications are listed in *reverse-chronological* order. Find my Google Scholar
 profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
-- [2019](#2019) (6)
+- [2019](#2019) (7)
 - [2018](#2018) (6)
 - [2017](#2017) (10)
 - [2016](#2016) (6)
@@ -31,11 +31,13 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 C. Hofer, R. Kwitt and M. Niethammer     
 [arXiv](https://arxiv.org/abs/1905.10996)
 
-**Stochastic Block Models with Multiple Continuous Attributes**    
-N. Stanley, T. Bonacci, R. Kwitt, M. Niethammer and P. J. Mucha    
-[arXiv](https://arxiv.org/abs/1803.02726)
-
 ## 2019
+
+**Stochastic Block Models with Multiple Continuous Attributes**      
+N. Stanley, T. Bonacci, R. Kwitt, M. Niethammer and P. J. Mucha      
+[arXiv](https://arxiv.org/abs/1803.02726) &nbsp;&#183;&nbsp;
+[Publisher link](https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0170-z)
+
 
 **Learning Representations of Persistence Barcodes**    
 C. Hofer, R. Kwitt and M. Niethammer      
