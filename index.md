@@ -17,6 +17,12 @@ data.
 - Computer vision
 - Medical image analysis
 
+## Group
+
+- Christoph D. Hofer (PhD student)
+- Florian Graf (PhD student)
+- Sebastian Zeng (PhD student)
+
 ## Selected publications
 
 For a complete list of all papers, go to [Publications](publications), or
