@@ -11,6 +11,7 @@ layout: default
 Publications are listed in *reverse-chronological* order. Find my Google Scholar
 profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
+- [2020](#2020) (1)
 - [2019](#2019) (7)
 - [2018](#2018) (6)
 - [2017](#2017) (10)
@@ -31,6 +32,14 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 C. Hofer, R. Kwitt and M. Niethammer     
 [arXiv](https://arxiv.org/abs/1905.10996)
 
+## 2020
+
+**An empirical assessment of appearance descriptors applied to MRI for automated diagnosis of TLE and MCI**     
+C. Hofer, R. Kwitt, Y. Hoeller, E. Trinka and A. Uhl    
+*Comput. Biol. Med.*    
+vol. 117, 2020 (accepted)
+[Publisher link](https://www.sciencedirect.com/science/article/abs/pii/S0010482519304421)
+
 ## 2019
 
 **Stochastic Block Models with Multiple Continuous Attributes**      
@@ -38,14 +47,16 @@ N. Stanley, T. Bonacci, R. Kwitt, M. Niethammer and P. J. Mucha
 *Appl. Netw. Sci.*       
 vol. 4 (54), 2019      
 [arXiv](https://arxiv.org/abs/1803.02726) &nbsp;&#183;&nbsp;
-[Publisher link](https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0170-z) &nbsp;&#183;&nbsp; 
+[Publisher link](https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0170-z) &nbsp;&#183;&nbsp;
 [Source code](https://github.com/stanleyn/AttributedSBM)
 
 
 **Learning Representations of Persistence Barcodes**    
 C. Hofer, R. Kwitt and M. Niethammer      
-*JMLR* (accepted)      
-2019     
+*JMLR*    
+vol. 20(126), pp. 1-45, 2019       
+[Publisher link](http://jmlr.org/papers/v20/18-358.html)  
+
 
 **Fast Predictive Simple Geodesic Regression**    
 Z. Ding, G. Fleishman, X. Yang, P. Thompson, R. Kwitt and Marc Niethammer     
@@ -187,7 +198,7 @@ X. Yang, R. Kwitt, M. Styner and M. Niethammer
 
 **One-Shot Learning of Scene Locations via Feature Trajectory Transfer**
 R. Kwitt, S. Hegenbart and M. Niethammer  
-*CVPR 2016* (Spotlight)
+*CVPR 2016* (Spotlight)    
 [Publisher link](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kwitt_One-Shot_Learning_of_CVPR_2016_Preprint.html)
 &nbsp;&#183;&nbsp;
 [Code](https://github.com/rkwitt/TrajectoryTransfer)
