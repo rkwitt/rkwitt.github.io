@@ -19,7 +19,7 @@ data.
 
 ## Group
 
-- Christoph D. Hofer (PhD student)
+- Christoph D. Hofer (PostDoc)
 - Florian Graf (PhD student)
 - Sebastian Zeng (PhD student)
 
