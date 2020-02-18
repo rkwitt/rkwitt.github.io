@@ -30,7 +30,11 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 **Graph Filtration Learning**     
 C. Hofer, R. Kwitt and M. Niethammer     
-[arXiv](https://arxiv.org/abs/1905.10996)
+[arXiv](https://arxiv.org/abs/1905.10996)      
+
+**Topologically Densified Distributions**     
+C. Hofer, F. Graf, M. Niethammer and R. Kwitt       
+[arXiv](https://arxiv.org/abs/2002.04805)      
 
 ## 2020
 
