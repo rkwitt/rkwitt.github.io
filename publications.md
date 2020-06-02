@@ -11,7 +11,7 @@ layout: default
 Publications are listed in *reverse-chronological* order. Find my Google Scholar
 profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
-- [2020](#2020) (1)
+- [2020](#2020) (3)
 - [2019](#2019) (7)
 - [2018](#2018) (6)
 - [2017](#2017) (10)
@@ -28,15 +28,22 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 ## Preprints
 
+**Deep Multi-View Learning via Task-Optimal CCA**    
+H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou, M. Niethammer     
+[arXiv](https://arxiv.org/abs/1907.07739)
+
+## 2020
+
 **Graph Filtration Learning**     
 C. Hofer, R. Kwitt and M. Niethammer     
+*ICML 2020*    
 [arXiv](https://arxiv.org/abs/1905.10996)      
 
 **Topologically Densified Distributions**     
 C. Hofer, F. Graf, M. Niethammer and R. Kwitt       
+*ICML 2020*    
 [arXiv](https://arxiv.org/abs/2002.04805)      
 
-## 2020
 
 **An empirical assessment of appearance descriptors applied to MRI for automated diagnosis of TLE and MCI**     
 C. Hofer, R. Kwitt, Y. Hoeller, E. Trinka and A. Uhl    
