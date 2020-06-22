@@ -28,6 +28,10 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 ## Preprints
 
+**A Shooting Formulation of Deep Learning**    
+F.-X. Vialard, R. Kwitt, S. Wei and M. Niethammer     
+[arXiv](https://arxiv.org/abs/2006.10330)    
+
 **Deep Multi-View Learning via Task-Optimal CCA**    
 H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou, M. Niethammer     
 [arXiv](https://arxiv.org/abs/1907.07739)
