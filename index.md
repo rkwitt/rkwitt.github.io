@@ -11,6 +11,10 @@ I am an associate professor in the [Department of Computer Science](https://info
 allow to leverage and control structural characteristics of
 data.
 
+## News
+
+- **June 2020**: Two papers accepted at [ICML '20](https://icml.cc/Conferences/2020/) (congrats Chris and Florian)
+
 ## Research interests
 
 - Machine learning
