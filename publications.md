@@ -40,12 +40,12 @@ H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou, M. Niethammer
 
 **Graph Filtration Learning**     
 C. Hofer, R. Kwitt and M. Niethammer     
-*ICML 2020*    
+*ICML 2020* (accepted)      
 [arXiv](https://arxiv.org/abs/1905.10996)      
 
 **Topologically Densified Distributions**     
 C. Hofer, F. Graf, M. Niethammer and R. Kwitt       
-*ICML 2020*    
+*ICML 2020* (accepted)       
 [arXiv](https://arxiv.org/abs/2002.04805)      
 
 
