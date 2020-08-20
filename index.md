@@ -13,7 +13,7 @@ data.
 
 ## News
 
-- **August 2020**: We will be organizing a [NeurIPS '20](https://nips.cc/Conferences/2020/) workshop on [**Topological Data Analysis and Beyond**](https://nips.cc/Conferences/2020/Schedule?showEvent=16159) (with B. Rieck, F. Chazal, S. Krishnaswamy, K.N. Ramamurthy, Y. Umeda and G. Wolf)
+- **August 2020**: We will be organizing a [NeurIPS '20](https://nips.cc/Conferences/2020/) workshop on [Topological Data Analysis and Beyond](https://nips.cc/Conferences/2020/Schedule?showEvent=16159) (with B. Rieck, F. Chazal, S. Krishnaswamy, K.N. Ramamurthy, Y. Umeda and G. Wolf)
 
 - **June 2020**: Two papers accepted at [ICML '20](https://icml.cc/Conferences/2020/) (congrats Chris and Florian)
 
@@ -26,6 +26,7 @@ data.
 ## Group
 
 - Christoph D. Hofer (PostDoc)
+- Günther Eder (PostDoc)
 - Florian Graf (PhD student)
 - Sebastian Zeng (PhD student)
 
