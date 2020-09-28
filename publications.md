@@ -30,13 +30,13 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 **Deep Multi-View Learning via Task-Optimal CCA**    
 H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou, M. Niethammer     
-[arXiv (July 2019)](https://arxiv.org/abs/1907.07739)
+[arXiv](https://arxiv.org/abs/1907.07739)
 
 ## 2020
 
 **A Shooting Formulation of Deep Learning**    
 F.-X. Vialard, R. Kwitt, S. Wei and M. Niethammer     
-[arXiv (June 2020)](https://arxiv.org/abs/2006.10330)    
+[arXiv](https://arxiv.org/abs/2006.10330)    
 *NeurIPS 2020 (accepted for oral presentation)*
 
 **Graph Filtration Learning**     
