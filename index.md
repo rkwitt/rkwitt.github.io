@@ -13,6 +13,8 @@ data.
 
 ## News
 
+- **September 2020**: One paper (joint work with S. Wei, F.-X. Vialard and M. Niethammer) accepted (as oral) for [NeurIPS '20](https://neurips.cc)
+
 - **August 2020**: We will be organizing a [NeurIPS '20](https://nips.cc/Conferences/2020/) workshop on [Topological Data Analysis and Beyond](https://nips.cc/Conferences/2020/Schedule?showEvent=16159) (with B. Rieck, F. Chazal, S. Krishnaswamy, K.N. Ramamurthy, Y. Umeda and G. Wolf)
 
 - **June 2020**: Two papers accepted at [ICML '20](https://icml.cc/Conferences/2020/) (congrats Chris and Florian)
