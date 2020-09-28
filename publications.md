@@ -53,7 +53,7 @@ C. Hofer, F. Graf, M. Niethammer and R. Kwitt
 **An empirical assessment of appearance descriptors applied to MRI for automated diagnosis of TLE and MCI**     
 C. Hofer, R. Kwitt, Y. Hoeller, E. Trinka and A. Uhl    
 *Comput. Biol. Med.*    
-vol. 117, 2020 (accepted)     
+vol. 117, 2020   
 [Publisher link](https://www.sciencedirect.com/science/article/abs/pii/S0010482519304421)
 
 ## 2019
