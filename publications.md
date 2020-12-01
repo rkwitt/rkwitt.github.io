@@ -39,7 +39,7 @@ F.-X. Vialard, R. Kwitt, S. Wei and M. Niethammer
 [arXiv](https://arxiv.org/abs/2006.10330) &nbsp;&#183;&nbsp; 
 [Publisher link](https://papers.nips.cc/paper/2020/file/89562dccfeb1d0394b9ae7e09544dc70-Paper.pdf) &nbsp;&#183;&nbsp; 
 [Source code](https://github.com/uncbiag/neuro_shooting.git)     
-*NeurIPS 2020 (accepted for oral presentation)*
+*NeurIPS 2020 (Oral)*
 
 **Graph Filtration Learning**     
 C. Hofer, R. Kwitt and M. Niethammer     
