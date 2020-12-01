@@ -11,7 +11,7 @@ layout: default
 Publications are listed in *reverse-chronological* order. Find my Google Scholar
 profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
-- [2020](#2020) (3)
+- [2020](#2020) (4)
 - [2019](#2019) (7)
 - [2018](#2018) (6)
 - [2017](#2017) (10)
