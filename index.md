@@ -114,6 +114,10 @@ Lightweight Probabilistic Texture Retrieval</dt>
 
 ## Short biography
 
+- since Dec. 2020  
+*Full Professor* \\
+Department of Computer Science\\
+Univ. of Salzburg
 - since Aug. 2017  
 *Associate Professor* \\
 Department of Computer Science\\
