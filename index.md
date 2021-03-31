@@ -144,6 +144,7 @@ Advisor: [Prof. Andreas Uhl](https://www.uni-salzburg.at/index.php?id=53927&L=1)
 
 ## Professional service
 
+- Area Chair for NeurIPS 2021
 - General Chair: OAGM/AAPR Workshop 2015 (Salzburg, Austria)
 - PC Chair: ACM IH & MMSEC 2014 (Salzburg, Austria)
 
