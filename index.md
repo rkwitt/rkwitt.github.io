@@ -11,6 +11,8 @@ I am a full professor for machine learning in the [Department of Computer Scienc
 
 ## News
 
+- **Feb. 2021**: Our new preprint *Dissecting Supervised Contrastive Learning* (joint work with F. Graf, C. Hofer and M. Niethammer) is available at [here](https://arxiv.org/abs/2102.08817)
+
 - **September 2020**: One paper (joint work with S. Wei, F.-X. Vialard and M. Niethammer) accepted (as oral) for [NeurIPS '20](https://neurips.cc)
 
 - **August 2020**: We will be organizing a [NeurIPS '20](https://nips.cc/Conferences/2020/) workshop on [Topological Data Analysis and Beyond](https://nips.cc/Conferences/2020/Schedule?showEvent=16159) (with B. Rieck, F. Chazal, S. Krishnaswamy, K.N. Ramamurthy, Y. Umeda and G. Wolf)
