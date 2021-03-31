@@ -28,6 +28,10 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 ## Preprints
 
+**Dissecting Supervised Constrastive Learning**   
+F. Graf, C. Hofer, M. Niethammer, R. Kwitt    
+[arXiv](https://arxiv.org/abs/2102.08817)
+
 **Deep Multi-View Learning via Task-Optimal CCA**    
 H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou, M. Niethammer     
 [arXiv](https://arxiv.org/abs/1907.07739)
