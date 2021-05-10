@@ -38,7 +38,7 @@ H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou, M. Niethammer
 
 **Dissecting Supervised Constrastive Learning**   
 F. Graf, C. Hofer, M. Niethammer, R. Kwitt     
-*ICML 2021* (long presentation) 
+*ICML 2021* (long presentation)      
 [arXiv](https://arxiv.org/abs/2102.08817)
 
 
@@ -59,8 +59,7 @@ C. Hofer, R. Kwitt and M. Niethammer
 **Topologically Densified Distributions**     
 C. Hofer, F. Graf, M. Niethammer and R. Kwitt       
 *ICML 2020*      
-[arXiv](https://arxiv.org/abs/2002.04805) &nbsp;&#183;&nbsp;      
-[Publisher link](http://proceedings.mlr.press/v119/hofer20a.html)
+[arXiv](https://arxiv.org/abs/2002.04805) &nbsp;&#183;&nbsp; [Publisher link](http://proceedings.mlr.press/v119/hofer20a.html)
 
 
 **An empirical assessment of appearance descriptors applied to MRI for automated diagnosis of TLE and MCI**     
