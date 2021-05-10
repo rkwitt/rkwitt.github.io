@@ -11,6 +11,7 @@ layout: default
 Publications are listed in *reverse-chronological* order. Find my Google Scholar
 profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
+- [2021](#2021) (1)
 - [2020](#2020) (4)
 - [2019](#2019) (7)
 - [2018](#2018) (6)
@@ -28,13 +29,18 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 ## Preprints
 
-**Dissecting Supervised Constrastive Learning**   
-F. Graf, C. Hofer, M. Niethammer, R. Kwitt    
-[arXiv](https://arxiv.org/abs/2102.08817)
 
 **Deep Multi-View Learning via Task-Optimal CCA**    
 H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou, M. Niethammer     
 [arXiv](https://arxiv.org/abs/1907.07739)
+
+## 2021
+
+**Dissecting Supervised Constrastive Learning**   
+F. Graf, C. Hofer, M. Niethammer, R. Kwitt     
+*ICML 2021* (long presentation) 
+[arXiv](https://arxiv.org/abs/2102.08817)
+
 
 ## 2020
 
@@ -48,12 +54,13 @@ F.-X. Vialard, R. Kwitt, S. Wei and M. Niethammer
 **Graph Filtration Learning**     
 C. Hofer, R. Kwitt and M. Niethammer     
 *ICML 2020*       
-[arXiv](https://arxiv.org/abs/1905.10996)      
+[arXiv](https://arxiv.org/abs/1905.10996) &nbsp;&#183;&nbsp; [Publisher link](http://proceedings.mlr.press/v119/hofer20b.html)    
 
 **Topologically Densified Distributions**     
 C. Hofer, F. Graf, M. Niethammer and R. Kwitt       
 *ICML 2020*      
-[arXiv](https://arxiv.org/abs/2002.04805)      
+[arXiv](https://arxiv.org/abs/2002.04805) &nbsp;&#183;&nbsp;      
+[Publisher link](http://proceedings.mlr.press/v119/hofer20a.html)
 
 
 **An empirical assessment of appearance descriptors applied to MRI for automated diagnosis of TLE and MCI**     
