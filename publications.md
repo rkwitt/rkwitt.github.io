@@ -2,13 +2,13 @@
 layout: default
 ---
 
-<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
 <a href="./"><i class='fa fa-arrow-left'></i> Back</a>
 
 # Publications
 
-Publications are listed in *reverse-chronological* order. Find my Google Scholar
+Publications are listed in *reverse-chronological* order.  Please find my Google Scholar
 profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 - [2021](#2021) (1)
@@ -31,11 +31,12 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 **ICON: Learning Regular Maps Through Inverse Consistency**    
 H. Greer, R. Kwitt, F.-X. Vialard and M. Niethammer    
-[arXiv](https://arxiv.org/abs/2105.04459)
+[arXiv](https://arxiv.org/abs/2105.04459) &nbsp;&#183;&nbsp; [Source code](https://github.com/uncbiag/ICON) 
 
 **Deep Multi-View Learning via Task-Optimal CCA**    
 H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou, M. Niethammer     
 [arXiv](https://arxiv.org/abs/1907.07739)
+
 
 ## 2021
 
@@ -50,19 +51,19 @@ F. Graf, C. Hofer, M. Niethammer, R. Kwitt
 **A Shooting Formulation of Deep Learning**    
 F.-X. Vialard, R. Kwitt, S. Wei and M. Niethammer     
 [arXiv](https://arxiv.org/abs/2006.10330) &nbsp;&#183;&nbsp; 
-[Publisher link](https://papers.nips.cc/paper/2020/file/89562dccfeb1d0394b9ae7e09544dc70-Paper.pdf) &nbsp;&#183;&nbsp; 
+[Publisher link](https://papers.nips.cc/paper/2020/file/89562dccfeb1d0394b9ae7e09544dc70-Paper.pdf) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp; 
 [Source code](https://github.com/uncbiag/neuro_shooting.git)     
 *NeurIPS 2020 (Oral)*
 
 **Graph Filtration Learning**     
 C. Hofer, F. Graf, R. Kwitt and M. Niethammer     
 *ICML 2020*       
-[arXiv](https://arxiv.org/abs/1905.10996) &nbsp;&#183;&nbsp; [Publisher link](http://proceedings.mlr.press/v119/hofer20b.html)    
+[arXiv](https://arxiv.org/abs/1905.10996) &nbsp;&#183;&nbsp; [Publisher link](http://proceedings.mlr.press/v119/hofer20b.html) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp;[Source code](https://github.com/c-hofer/graph_filtration_learning)   
 
 **Topologically Densified Distributions**     
 C. Hofer, F. Graf, M. Niethammer and R. Kwitt       
 *ICML 2020*      
-[arXiv](https://arxiv.org/abs/2002.04805) &nbsp;&#183;&nbsp; [Publisher link](http://proceedings.mlr.press/v119/hofer20a.html)
+[arXiv](https://arxiv.org/abs/2002.04805) &nbsp;&#183;&nbsp; [Publisher link](http://proceedings.mlr.press/v119/hofer20a.html) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp; [Source code](https://github.com/c-hofer/topologically_densified_distributions)
 
 
 **An empirical assessment of appearance descriptors applied to MRI for automated diagnosis of TLE and MCI**     
@@ -78,7 +79,7 @@ N. Stanley, T. Bonacci, R. Kwitt, M. Niethammer and P. J. Mucha
 *Appl. Netw. Sci.*       
 vol. 4 (54), 2019      
 [arXiv](https://arxiv.org/abs/1803.02726) &nbsp;&#183;&nbsp;
-[Publisher link](https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0170-z) &nbsp;&#183;&nbsp;
+[Publisher link](https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0170-z) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp;
 [Source code](https://github.com/stanleyn/AttributedSBM)
 
 
@@ -86,26 +87,28 @@ vol. 4 (54), 2019
 C. Hofer, R. Kwitt and M. Niethammer      
 *JMLR*    
 vol. 20(126), pp. 1-45, 2019       
-[Publisher link](http://jmlr.org/papers/v20/18-358.html)  
+[Publisher link](http://jmlr.org/papers/v20/18-358.html) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp;
+[Source code](https://github.com/c-hofer/torchph)
 
 
 **Fast Predictive Simple Geodesic Regression**    
 Z. Ding, G. Fleishman, X. Yang, P. Thompson, R. Kwitt and Marc Niethammer     
 *Med. Image Anal. (MedIA)*     
 vol. 56, pp. 192-209, 2019    
-[arXiv](https://arxiv.org/abs/1711.05766) &nbsp;&#183;&nbsp; [Publisher link](https://www.sciencedirect.com/science/article/pii/S1361841518301099)
+[arXiv](https://arxiv.org/abs/1711.05766) &nbsp;&#183;&nbsp; [Publisher link](https://www.sciencedirect.com/science/article/pii/S1361841518301099) <i class="fa fa-unlock" style="color:#115740"></i>
 
 **Connectivity-Optimized Representation Learning via Persistent Homology**    
 C. Hofer, R. Kwitt, M. Dixit and M. Niethammer    
 *ICML 2019*     
-[Publisher link](http://proceedings.mlr.press/v97/hofer19a.html)
+[Publisher link](http://proceedings.mlr.press/v97/hofer19a.html) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp;
+[Source code](https://github.com/c-hofer/COREL_icml2019)
 
 **Metric Learning for Image Registration**    
 M. Niethammer, F.-X. Vialard and R. Kwitt    
 *CVPR 2019*        
 [arXiv](https://arxiv.org/abs/1904.09524)
 &nbsp;&#183;&nbsp;
-[Publisher link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Niethammer_Metric_Learning_for_Image_Registration_CVPR_2019_paper.pdf) &nbsp;&#183;&nbsp;
+[Publisher link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Niethammer_Metric_Learning_for_Image_Registration_CVPR_2019_paper.pdf) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp;
 [Supplementary material](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Niethammer_Metric_Learning_for_CVPR_2019_supplemental.pdf) &nbsp;&#183;&nbsp;
 [Source code](https://github.com/uncbiag/registration)
 
@@ -113,13 +116,13 @@ M. Niethammer, F.-X. Vialard and R. Kwitt
 D.R. Chittajallu, M., McCormick, S. Gerber, T.J.  Czernuszewicz, R. Gessner, M.S. Willis, M. Niethammer, R. Kwitt and S.R. Aylward     
 *IEEE Transactions on Biomedical Engineering*        
 vol. 66(1), pp. 72-79, 2019    
-[Publisher link](https://ieeexplore.ieee.org/document/8345790)
+[Publisher link](https://ieeexplore.ieee.org/document/8345790) <i class="fa fa-unlock" style="color:#115740"></i>
 
 **Quest for the best endoscopic imaging modality for computer-assisted colonic polyp staging**    
 G. Wimmer, M. Gadermayr, G. Wolkersdörfer, R. Kwitt, T. Tamaki, J. Tischendorf, M. Häfner, S. Yoshida, S. Tanaka, D. Merhof, and A. Uhl    
 *World J Gastroenterol.*     
-vol. 25(10), pp. 1197–1209, 2019    
-[DOI](10.3748/wjg.v25.i10.1197)
+vol. 25(10), pp. 1197–1209, 2019   
+[Publisher link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6421240/) <i class="fa fa-unlock" style="color:#115740"></i>
 
 
 ## 2018
@@ -133,32 +136,32 @@ vol. 102, pp. 251-259, 2018
 **Image-based methods for phase estimation, gating and temporal super-resolution of cardiac ultrasound**    
 D. Chittajallu, M. McCormick, S. Gerber, T. Czernuszewicz, R. Gessner, M. Willis, M. Niethammer, R. Kwitt, S. Aylward    
 *IEEE Transactions on Biomedical Engineering*    
-[DOI](10.1109/TBME.2018.2823279)
+[Publisher link](https://ieeexplore.ieee.org/document/8345790)
+<i class="fa fa-unlock" style="color:#115740"></i>
 
 **Compressing Networks with Super Nodes**  
 Natalie Stanley, Roland Kwitt, Marc Niethammer, Peter J. Mucha  
 *Nature Scientific Reports*    
 Nr. 10892, 2018    
-[arXiv](https://arxiv.org/abs/1706.04110)    
+[arXiv](https://arxiv.org/abs/1706.04110) &nbsp;&#183;&nbsp; [Publisher link](https://www.nature.com/articles/s41598-018-29174-3) <i class="fa fa-unlock" style="color:#115740"></i>
 
 **Brain Extraction from Normal and Pathological Images: A Joint PCA/Image-Reconstruction Approach**   
 X. Han, R. Kwitt, S. Aylward, S. Bakas, B. Menze, A. Asturias, P. Vespas, J. Van Horn and M. Niethammer   
 *NeuroImage*     
 vol. 176, pp. 431-445, 2018        
-[arXiv](https://arxiv.org/pdf/1711.05702.pdf)    
+[arXiv](https://arxiv.org/pdf/1711.05702.pdf) &nbsp;&#183;&nbsp; [Publisher link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6036616/) <i class="fa fa-unlock" style="color:#115740"></i>
 
 **Feature Space Transfer for Data Augmentation**   
 B. Liu, M. Dixit, R. Kwitt and N. Vasconcelos   
 *CVPR 2018 (Oral)*   
-[arXiv](https://arxiv.org/abs/1801.04356)
-&nbsp;&#183;&nbsp;
-[Publisher link](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Feature_Space_Transfer_CVPR_2018_paper.pdf)
+[arXiv](https://arxiv.org/abs/1801.04356) &nbsp;&#183;&nbsp;
+[Publisher link](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Feature_Space_Transfer_CVPR_2018_paper.pdf) <i class="fa fa-unlock" style="color:#115740"></i>
 
 
 **Scoliosis Screening and Monitoring Using Self Contained Ultrasound and Neural Networks**    
 H. Greer, S. Gerber, M. Niethammer, R. Kwitt, M. McCormick, D. Chittajallu, N. Siekierski, M. Oetgen, K. Cleary and S. Aylward    
 *ISBI 2018*    
-[Preprint](https://blog.kitware.com/wp-content/uploads/2018/01/Scoliosis-Screening-and-Monitoring-Using-Self-Contained-Ultrasound-and-Neural-Networks.pdf)
+[Preprint](https://blog.kitware.com/wp-content/uploads/2018/01/Scoliosis-Screening-and-Monitoring-Using-Self-Contained-Ultrasound-and-Neural-Networks.pdf) &nbsp;&#183;&nbsp;[Publisher link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5994762/) <i class="fa fa-unlock" style="color:#115740"></i>
 
 ## 2017
 
@@ -172,27 +175,29 @@ C. Hofer, R. Kwitt, M. Niethammer and A. Uhl
 *NIPS 2017*  
 [arXiv](https://arxiv.org/abs/1707.04041)
 &nbsp;&#183;&nbsp;
-[Publisher link](https://papers.nips.cc/paper/6761-deep-learning-with-topological-signatures)
+[Publisher link](https://papers.nips.cc/paper/6761-deep-learning-with-topological-signatures) <i class="fa fa-unlock" style="color:#115740"></i>
 &nbsp;&#183;&nbsp;
-[Code](https://github.com/c-hofer/nips2017)  
+[Source code](https://github.com/c-hofer/nips2017)  
 Supporting packages (+ tutorials): [tda-toolkit](https://github.com/c-hofer/tda-toolkit)
 &nbsp;&#183;&nbsp;
-[chofer-torchex](https://github.com/c-hofer/chofer_torchex)
+[chofer-torchex](https://github.com/c-hofer/chofer_torchex) &nbsp;&#183;&nbsp; [torchph](https://github.com/c-hofer/torchph)
+
 
 **AGA: Attribute-Guided Augmentation**  
 M. Dixit, R. Kwitt, M. Niethammer and N. Vasconcelos   
 *CVPR 2017 (Oral)*     
 [arXiv](https://arxiv.org/abs/1612.02559)
-&nbsp;&#183;&nbsp;
-[Talk video](https://youtu.be/F3ThW3RLSAU?t=26)
+&nbsp;&#183;&nbsp; [Publisher link](https://openaccess.thecvf.com/content_cvpr_2017/papers/Dixit_AGA_Attribute-Guided_Augmentation_CVPR_2017_paper.pdf) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp; [Talk video](https://youtu.be/F3ThW3RLSAU?t=26)
 
 **Quicksilver: Fast Predictive Image Registration - a Deep Learning Approach**  
 X. Yang, R. Kwitt, M. Styner and M. Niethammer  
 *NeuroImage*  
 vol. 158, pp. 378-396, 2017   
-[arXiv](https://arxiv.org/abs/1703.10908)
+[arXiv](https://arxiv.org/abs/1703.10908) &nbsp;&#183;&nbsp;
+[Publisher link](https://pubmed.ncbi.nlm.nih.gov/28705497/)
+<i class="fa fa-unlock" style="color:#115740"></i>
 &nbsp;&#183;&nbsp;
-[Code](https://github.com/rkwitt/quicksilver)
+[Source code](https://github.com/rkwitt/quicksilver)
 
 **Fast Predictive Simple Geodesic Regression**  
 Z. Ding, G. Fleischman, P. Thomson, R. Kwitt, M. Niethammer and ADNI  
@@ -202,23 +207,23 @@ Z. Ding, G. Fleischman, P. Thomson, R. Kwitt, M. Niethammer and ADNI
 **Regression Uncertainty on the Grassmannian**  
 Y. Hong, X. Yang, R. Kwitt, M. Styner and M. Niethammer  
 *AISTATS 2017 (Oral)*  
-[Publisher link](http://proceedings.mlr.press/v54/hong17b/hong17b.pdf)
+[Publisher link](http://proceedings.mlr.press/v54/hong17b/hong17b.pdf) <i class="fa fa-unlock" style="color:#115740"></i>
 
 **Constructing Shape Spaces from a Topological Perspective**  
 C. Hofer, R. Kwitt, Y. Höller, E. Trinka, M. Niethammer and A. Uhl  
 *IPMI 2017 (Oral)*  
-[Publisher link](https://link.springer.com/chapter/10.1007/978-3-319-59050-9_9)  
+[Publisher link](https://link.springer.com/chapter/10.1007/978-3-319-59050-9_9) &nbsp;&#183;&nbsp;
 Code included in [tda-toolkit](https://github.com/c-hofer/tda-toolkit)
 
 **Simple Domain Adaptation for Cross-Dataset Analyses of Brain MRI Data**  
 C. Hofer, R. Kwitt, Y. Höller, E. Trinka and A. Uhl  
 *ISBI 2017*    
-[DOI](10.1109/ISBI.2017.7950556)
+[Publisher link](https://ieeexplore.ieee.org/document/7950556)
 
 **Efficient Registration of Pathological Images: A joint PCA/Image-Reconstruction Approach**  
 X. Han, X. Yang, S. Aylward, R. Kwitt and M. Niethammer  
 *ISBI 2017*    
-[Preprint](http://wwwx.cs.unc.edu/~mn/sites/default/files/han_isib2017.pdf)
+[Preprint](http://wwwx.cs.unc.edu/~mn/sites/default/files/han_isib2017.pdf)  &nbsp;&#183;&nbsp; [Publisher link](https://pubmed.ncbi.nlm.nih.gov/29887971/) <i class="fa fa-unlock" style="color:#115740"></i>
 
 **Fast Predictive Multimodal Image Registration**  
 X. Yang, R. Kwitt, M. Styner and M. Niethammer   
