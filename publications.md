@@ -29,6 +29,9 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 ## Preprints
 
+**ICON: Learning Regular Maps Through Inverse Consistency**    
+H. Greer, R. Kwitt, F.-X. Vialard and M. Niethammer    
+[arXiv](https://arxiv.org/abs/2105.04459)
 
 **Deep Multi-View Learning via Task-Optimal CCA**    
 H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou, M. Niethammer     
@@ -52,7 +55,7 @@ F.-X. Vialard, R. Kwitt, S. Wei and M. Niethammer
 *NeurIPS 2020 (Oral)*
 
 **Graph Filtration Learning**     
-C. Hofer, R. Kwitt and M. Niethammer     
+C. Hofer, F. Graf, R. Kwitt and M. Niethammer     
 *ICML 2020*       
 [arXiv](https://arxiv.org/abs/1905.10996) &nbsp;&#183;&nbsp; [Publisher link](http://proceedings.mlr.press/v119/hofer20b.html)    
 
