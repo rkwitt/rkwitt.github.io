@@ -31,7 +31,7 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 **ICON: Learning Regular Maps Through Inverse Consistency**    
 H. Greer, R. Kwitt, F.-X. Vialard and M. Niethammer    
-[arXiv](https://arxiv.org/abs/2105.04459) &nbsp;&#183;&nbsp; [Source code](https://github.com/uncbiag/ICON) 
+[arXiv](https://arxiv.org/abs/2105.04459) &nbsp;&#183;&nbsp; [Source code](https://github.com/uncbiag/ICON)
 
 **Deep Multi-View Learning via Task-Optimal CCA**    
 H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou, M. Niethammer     
@@ -50,8 +50,8 @@ F. Graf, C. Hofer, M. Niethammer, R. Kwitt
 
 **A Shooting Formulation of Deep Learning**    
 F.-X. Vialard, R. Kwitt, S. Wei and M. Niethammer     
-[arXiv](https://arxiv.org/abs/2006.10330) &nbsp;&#183;&nbsp; 
-[Publisher link](https://papers.nips.cc/paper/2020/file/89562dccfeb1d0394b9ae7e09544dc70-Paper.pdf) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp; 
+[arXiv](https://arxiv.org/abs/2006.10330) &nbsp;&#183;&nbsp;
+[Publisher link](https://papers.nips.cc/paper/2020/file/89562dccfeb1d0394b9ae7e09544dc70-Paper.pdf) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp;
 [Source code](https://github.com/uncbiag/neuro_shooting.git)     
 *NeurIPS 2020 (Oral)*
 
@@ -500,6 +500,12 @@ R. Kwitt, P. Meerwald, and A. Uhl
 
 ## 2007
 
+**Multi-directional Multi-resolution Transforms for Zoom-Endoscopy Image Classification**      
+R. Kwitt, and A. Uhl     
+*Computer Recognition Systems 2 (Advances in Soft Computing)*    
+[Publisher link](https://link.springer.com/chapter/10.1007/978-3-540-75175-5_5) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt07a.pdf)
+
 **Modeling the Marginal Distributions of Complex Wavelet Coefficient Magnitudes for the Classification of Zoom-Endoscopy Images**  
 R. Kwitt, and A. Uhl  
-*MMBIA 2007*
+*MMBIA 2007*     
+[Preprint](/media/files/Kwitt07a.pdf)
