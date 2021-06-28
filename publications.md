@@ -498,7 +498,8 @@ R. Kwitt and A. Uhl
 
 **A Lightweight Rao-Cauchy Detector for Additive Watermarking in the DWT-Domain**  
 R. Kwitt, P. Meerwald, and A. Uhl  
-*ACM MMSEC 2008*
+*ACM MMSEC 2008*    
+[Publisher link](https://dl.acm.org/doi/10.1145/1411328.1411337) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt08e.pdf)
 
 **Color Wavelet Cross Co-Occurrence Matrices for Endoscopy Image Classification**    
 R. Kwitt, and A. Uhl    
