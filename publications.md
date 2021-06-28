@@ -24,7 +24,7 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 - [2011](#2011) (6)
 - [2010](#2010) (4)
 - [2009](#2009) (4)
-- [2008](#2008) (5)
+- [2008](#2008) (6)
 - [2007](#2007) (2)
 
 ## Preprints
@@ -473,14 +473,17 @@ R. Kwitt, P. Meerwald, and A. Uhl
 **Feature-Extraction from Multi-Directional Multi-Resolution Image Transformations for the Classification of Zoom-Endoscopy Images**  
 M. Häfner, R. Kwitt, A. Uhl, A. Gangl, F. Wrba, and A. Vecsei  
 *Pattern Analysis and Applications (PAA)*  
-vol. 12(4), pp. 407-413, 2009  
+vol. 12(4), pp. 407-413, 2009     
+[Publisher link](https://link.springer.com/article/10.1007/s10044-008-0136-8) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt08f.pdf)
 
 ## 2008
 
 **Computer-assisted Pit-Pattern Classification in Different Wavelet Domains for Supporting Dignity Assessment of Colonic Polyps**  
 M. Häfner, R. Kwitt, A. Uhl, A. Gangl, and F. Wrba  
 *Pattern Recognition (PR)*  
-vol. 42(6), pp. 1180-1191, 2008  
+vol. 42(6), pp. 1180-1191, 2008    
+[Publisher link](https://dl.acm.org/doi/10.1016/j.patcog.2008.07.012) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt08g.pdf)
+
 
 **One-Against-One Classification for Zoom-Endoscopy Images**   
 M. Häfner, R. Kwitt, F. Wrba, A. Gangl, and A. Vecsei  
