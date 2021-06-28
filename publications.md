@@ -436,7 +436,6 @@ vol. 20(2), pp. 474-484, 2011
 R. Kwitt  
 *PhD thesis* (Univ. of Salzburg) 2010   
 (short-listed for the *"Heinz-Zemanek Preis 2012"*)  
-[Thesis](http://www.rkwitt.org/media/files/Kwitt10a-paper.pdf)
 
 **Watermarking of 2D Vector Graphics with Distortion Constraint**  
 S. Huber, R. Kwitt, P. Meerwald, M. Held, and A. Uhl  
@@ -462,8 +461,8 @@ R. Kwitt, A. Uhl, M. Häfner, A. Gangl, and F. Wrba
 M. Häfner, A. Gangl, R. Kwitt, A. Uhl, and A. Vecsei  
 *MICCAI 2009*  
 
-**A Joint Model of Complex Wavelet Coefficients for Texture Retrieval**
-R. Kwitt, P. Meerwald, and A. Uhl  
+**A Joint Model of Complex Wavelet Coefficients for Texture Retrieval**    
+R. Kwitt, P. Meerwald, and A. Uhl     
 *ICIP 2009*
 
 **Efficient Detection of Additive Watermarking in the DWT-Domain**  
