@@ -25,7 +25,7 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 - [2010](#2010) (4)
 - [2009](#2009) (4)
 - [2008](#2008) (5)
-- [2007](#2007) (1)
+- [2007](#2007) (2)
 
 ## Preprints
 
@@ -488,19 +488,27 @@ M. Häfner, R. Kwitt, F. Wrba, A. Gangl, and A. Vecsei
 
 **Color Eigen-Subband Features for Endoscopy Image Classification**  
 R. Kwitt and A. Uhl  
-*ICASSP 2008*  
+*ICASSP 2008*     
+[Publisher link](https://ieeexplore.ieee.org/document/4517678) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt08a.pdf)
 
 **Image Similarity Measurement By Kullback-Leibler Divergences between Complex Wavelet Subband Statistics for Texture Retrieval**  
-R. Kwitt and A. Uhl  
-*ICIP 2008*  
+R. Kwitt and A. Uhl     
+*ICIP 2008*    
+[Publisher link](https://ieeexplore.ieee.org/document/4711909) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt08d.pdf)
 
 **A Lightweight Rao-Cauchy Detector for Additive Watermarking in the DWT-Domain**  
 R. Kwitt, P. Meerwald, and A. Uhl  
 *ACM MMSEC 2008*
 
+**Color Wavelet Cross Co-Occurrence Matrices for Endoscopy Image Classification**    
+R. Kwitt, and A. Uhl    
+*ISCCSP 2008*    
+[Publisher link](https://ieeexplore.ieee.org/document/4537316) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt08b.pdf)
+
+
 ## 2007
 
-**Multi-directional Multi-resolution Transforms for Zoom-Endoscopy Image Classification**      
+**Multi-Directional Multi-Resolution Transforms for Zoom-Endoscopy Image Classification**      
 R. Kwitt, and A. Uhl     
 *Computer Recognition Systems 2 (Advances in Soft Computing)*    
 [Publisher link](https://link.springer.com/chapter/10.1007/978-3-540-75175-5_5) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt07a.pdf)
