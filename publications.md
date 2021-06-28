@@ -468,7 +468,9 @@ R. Kwitt, P. Meerwald, and A. Uhl
 
 **Efficient Detection of Additive Watermarking in the DWT-Domain**  
 R. Kwitt, P. Meerwald, and A. Uhl  
-*DSP 2009*
+*EUSIPCO 2009*    
+[Publisher link](https://ieeexplore.ieee.org/document/7077563) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt09b.pdf)
+
 
 **Feature-Extraction from Multi-Directional Multi-Resolution Image Transformations for the Classification of Zoom-Endoscopy Images**  
 M. Häfner, R. Kwitt, A. Uhl, A. Gangl, F. Wrba, and A. Vecsei  
