@@ -427,8 +427,9 @@ vol. 20(7), pp. 2063-2077, 2011
 **Lightweight Detection of Additive Watermarking in the DWT-Domain**  
 R. Kwitt, P. Meerwald, and A. Uhl  
 *IEEE Trans. Image Process. (TIP)*  
-vol. 20(2), pp. 474-484, 2011  
-[Tech-Report](http://www.rkwitt.org/media/files/Kwitt11f-tr.pdf)
+vol. 20(2), pp. 474-484, 2011      
+[Publisher link](https://ieeexplore.ieee.org/document/5545430) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt10c.pdf)    
+(CORE ranking: **A&ast;**)
 
 ## 2010
 
@@ -445,16 +446,14 @@ S. Huber, R. Kwitt, P. Meerwald, M. Held, and A. Uhl
 **Lightweight Probabilistic Texture Retrieval**  
 R. Kwitt, and A. Uhl  
 *IEEE Trans. Image Process. (TIP)*  
-vol. 19(1), pp. 241-253, 2010  
-[Publisher link](https://ieeexplore.ieee.org/document/5238618) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt10a.pdf) &nbsp;&#183;&nbsp; [Errata](/media/files/Kwitt10a_errata.pdf)    
-<span style="color:#A6192E">(CORE ranking: &ast;)</span>
-
+vol. 19(1), pp. 241-253, 2010     
+[Publisher link](https://ieeexplore.ieee.org/document/5238618) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt10a.pdf) &nbsp;&#183;&nbsp; [Errata](/media/files/Kwitt10a_errata.pdf)     
+(CORE ranking: **A&ast;**)
 
 **Predicting the Histology of Colorectal Lesions in a Probabilistic Framework**  
 R. Kwitt, A. Uhl, M. Häfner, A. Gangl, and F. Wrba  
 *MMBIA 2010*    
-[Preprint](http://www.rkwitt.org/media/files/Kwitt10d-paper.pdf)
-
+[Publisher link](https://ieeexplore.ieee.org/document/5543146) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt10a.pdf)
 
 
 ## 2009
