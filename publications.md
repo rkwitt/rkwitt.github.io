@@ -447,7 +447,7 @@ R. Kwitt, and A. Uhl
 *IEEE Trans. Image Process. (TIP)*  
 vol. 19(1), pp. 241-253, 2010  
 [Publisher link](https://ieeexplore.ieee.org/document/5238618) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt10a.pdf) &nbsp;&#183;&nbsp; [Errata](/media/files/Kwitt10a_errata.pdf)    
-<span style="color:#A6192E">(CORE ranking: **A&ast;**)</span>
+<span style="color:#A6192E">(CORE ranking: &ast;)</span>
 
 
 **Predicting the Histology of Colorectal Lesions in a Probabilistic Framework**  
