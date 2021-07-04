@@ -436,11 +436,12 @@ vol. 20(2), pp. 474-484, 2011
 **Statistical Modeling in the Wavelet Domain and Applications**  
 R. Kwitt  
 *PhD thesis* (Univ. of Salzburg) 2010   
-(short-listed for the *"Heinz-Zemanek Preis 2012"*)  
+(short-listed for the *"Heinz-Zemanek Preis 2012"*)      
+[Thesis](/media/files/PhD_thesis.pdf)
 
 **Watermarking of 2D Vector Graphics with Distortion Constraint**  
-S. Huber, R. Kwitt, P. Meerwald, M. Held, and A. Uhl  
-*ICME 2010*  
+S. Huber, R. Kwitt, P. Meerwald, M. Held, and A. Uhl     
+*ICME 2010*      
 [Preprint](http://www.rkwitt.org/media/files/Kwitt10b-paper.pdf)
 
 **Lightweight Probabilistic Texture Retrieval**  
@@ -532,3 +533,4 @@ R. Kwitt, and A. Uhl
 R. Kwitt, and A. Uhl  
 *MMBIA 2007*     
 [Preprint](/media/files/Kwitt07a.pdf)
+<i class="fa-solid fa-a" style="color:#115740"></i>
