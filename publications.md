@@ -23,7 +23,7 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 - [2012](#2012) (5)
 - [2011](#2011) (6)
 - [2010](#2010) (4)
-- [2009](#2009) (4)
+- [2009](#2009) (5)
 - [2008](#2008) (6)
 - [2007](#2007) (2)
 
@@ -446,7 +446,9 @@ S. Huber, R. Kwitt, P. Meerwald, M. Held, and A. Uhl
 R. Kwitt, and A. Uhl  
 *IEEE Trans. Image Process. (TIP)*  
 vol. 19(1), pp. 241-253, 2010  
-[Preprint](http://www.rkwitt.org/media/files/Kwitt11e-paper.pdf)
+[Publisher link](https://ieeexplore.ieee.org/document/5238618) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt10a.pdf) &nbsp;&#183;&nbsp; [Errata](/media/files/Kwitt10a_errata.pdf)    
+<span style="color:#A6192E">(CORE ranking: **A&ast;**)</span>
+
 
 **Predicting the Histology of Colorectal Lesions in a Probabilistic Framework**  
 R. Kwitt, A. Uhl, M. Häfner, A. Gangl, and F. Wrba  
@@ -459,11 +461,21 @@ R. Kwitt, A. Uhl, M. Häfner, A. Gangl, and F. Wrba
 
 **Improving Pit-Pattern Classification of Endoscopy Images by a Combination of Experts**  
 M. Häfner, A. Gangl, R. Kwitt, A. Uhl, and A. Vecsei  
-*MICCAI 2009*  
+*MICCAI 2009*      
+[Publisher link](https://link.springer.com/chapter/10.1007%2F978-3-642-04268-3_31) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt09c.pdf)
+
+
+**Color-Image Watermarking using Multivariate Power-Exponential Distribution**    
+R. Kwitt, P. Meerwald, and A. Uhl     
+*ICIP 2009*    
+[Publisher link](https://ieeexplore.ieee.org/document/5413715) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt09e.pdf)
+
 
 **A Joint Model of Complex Wavelet Coefficients for Texture Retrieval**    
 R. Kwitt, P. Meerwald, and A. Uhl     
-*ICIP 2009*
+*ICIP 2009*     
+[Publisher link](https://ieeexplore.ieee.org/document/5413656) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt09f.pdf)
+
 
 **Efficient Detection of Additive Watermarking in the DWT-Domain**  
 R. Kwitt, P. Meerwald, and A. Uhl  
@@ -484,7 +496,6 @@ M. Häfner, R. Kwitt, A. Uhl, A. Gangl, and F. Wrba
 *Pattern Recognition (PR)*  
 vol. 42(6), pp. 1180-1191, 2008    
 [Publisher link](https://dl.acm.org/doi/10.1016/j.patcog.2008.07.012) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt08g.pdf)
-
 
 **One-Against-One Classification for Zoom-Endoscopy Images**   
 M. Häfner, R. Kwitt, F. Wrba, A. Gangl, and A. Vecsei  
