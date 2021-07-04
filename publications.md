@@ -2,7 +2,9 @@
 layout: default
 ---
 
-<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
 
 <a href="./"><i class='fa fa-arrow-left'></i> Back</a>
 
@@ -419,17 +421,16 @@ M. Gschwandtner, R. Kwitt, W. Pree, and A. Uhl
 [Preprint](http://www.rkwitt.org/media/files/Kwitt11d-paper.pdf)
 
 **Efficient Texture Image Retrieval Using Copulas in a Bayesian Framework**  
-R. Kwitt, P. Meerwald, and A. Uhl  
-*IEEE Trans. Image Process. (TIP)*  
-vol. 20(7), pp. 2063-2077, 2011  
-[Preprint](http://www.rkwitt.org/media/files/Kwitt11e-paper.pdf)
+R. Kwitt, P. Meerwald, and A. Uhl     
+*IEEE Trans. Image Process. (TIP)*    
+vol. 20(7), pp. 2063-2077, 2011     
+[Publisher link](https://ieeexplore.ieee.org/document/5701774) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt11a.pdf)  
 
 **Lightweight Detection of Additive Watermarking in the DWT-Domain**  
 R. Kwitt, P. Meerwald, and A. Uhl  
 *IEEE Trans. Image Process. (TIP)*  
 vol. 20(2), pp. 474-484, 2011      
 [Publisher link](https://ieeexplore.ieee.org/document/5545430) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt10c.pdf)    
-(CORE ranking: **A&ast;**)
 
 ## 2010
 
@@ -449,7 +450,6 @@ R. Kwitt, and A. Uhl
 *IEEE Trans. Image Process. (TIP)*  
 vol. 19(1), pp. 241-253, 2010     
 [Publisher link](https://ieeexplore.ieee.org/document/5238618) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt10a.pdf) &nbsp;&#183;&nbsp; [Errata](/media/files/Kwitt10a_errata.pdf)     
-(CORE ranking: **A&ast;**)
 
 **Predicting the Histology of Colorectal Lesions in a Probabilistic Framework**  
 R. Kwitt, A. Uhl, M. Häfner, A. Gangl, and F. Wrba  
@@ -533,4 +533,3 @@ R. Kwitt, and A. Uhl
 R. Kwitt, and A. Uhl  
 *MMBIA 2007*     
 [Preprint](/media/files/Kwitt07a.pdf)
-<i class="fa fa-a" style="color:#A6192E"></i>
