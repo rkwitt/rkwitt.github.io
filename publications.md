@@ -533,5 +533,3 @@ R. Kwitt, and A. Uhl
 R. Kwitt, and A. Uhl  
 *MMBIA 2007*     
 [Preprint](/media/files/Kwitt07a.pdf)
-<style>p{color:red;}</style>
-*A**
