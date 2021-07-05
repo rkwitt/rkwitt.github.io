@@ -447,9 +447,10 @@ S. Huber, R. Kwitt, P. Meerwald, M. Held, and A. Uhl
 
 **Lightweight Probabilistic Texture Retrieval**  
 R. Kwitt, and A. Uhl  
-*IEEE Trans. Image Process. (TIP)*  
+*IEEE Trans. Image Process. (TIP)*   
 vol. 19(1), pp. 241-253, 2010     
 [Publisher link](https://ieeexplore.ieee.org/document/5238618) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt10a.pdf) &nbsp;&#183;&nbsp; [Errata](/media/files/Kwitt10a_errata.pdf)     
+CORE ranking: **<span style="color:#A6192E">A*</span>** 
 
 **Predicting the Histology of Colorectal Lesions in a Probabilistic Framework**  
 R. Kwitt, A. Uhl, M. Häfner, A. Gangl, and F. Wrba  
@@ -532,4 +533,4 @@ R. Kwitt, and A. Uhl
 **Modeling the Marginal Distributions of Complex Wavelet Coefficient Magnitudes for the Classification of Zoom-Endoscopy Images**  
 R. Kwitt, and A. Uhl  
 *MMBIA 2007*     
-[Preprint](/media/files/Kwitt07a.pdf)
+[Preprint](/media/files/Kwitt07a.pdf)    
