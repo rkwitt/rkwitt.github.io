@@ -361,7 +361,7 @@ Y. Hong, N. Singh, R. Kwitt, and M. Niethammer
 S. Huber, P. Meerwald, M. Held and R. Kwitt  
 *Int. J. Comput. Geom. Appl.*  
 vol. 24(1), pp. 61-86, 2014  
-[Preprint](http://www.rkwitt.org/media/files/Huber14a-paper.pdf)
+[Publisher](https://www.worldscientific.com/doi/pdf/10.1142/S0218195914500034) <i class="fa fa-unlock" style="color:#115740"></i>
 
 ## 2013
 
@@ -389,12 +389,13 @@ vol. 17, pp. 712-722, 2013
 
 **PCL and ParaView - Connecting the Dots**  
 P. Marion, R. Kwitt, B. Davis, and M. Gschwandtner  
-*CVPR Workshop on Point Cloud Processing (PCP) 2012*  
+*CVPR Workshop on Point Cloud Processing (PCP) 2012*      
+[Publisher link](https://ieeexplore.ieee.org/document/6238918) &nbsp;&#183;&nbsp;  [Preprint](https://www.paraview.org/Wiki/images/1/1e/Paper.pdf) &nbsp;&#183;&nbsp;  [ParaView/PCL Plugin](https://www.paraview.org/Wiki/ParaView/PCL_Plugin)
 
 **Scene Recognition on the Semantic Manifold**  
 R. Kwitt, N. Vasconcelos and N. Rasiwasia  
 *ECCV 2012*     
-[Publisher link](https://link.springer.com/chapter/10.1007/978-3-642-33765-9_26) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt12b.pdf)
+[Publisher link](https://link.springer.com/chapter/10.1007/978-3-642-33765-9_26) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt12b.pdf)    
 CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **Recognition in Ultrasound Videos: Where Am I?**     
@@ -411,7 +412,8 @@ vol. 16(7), pp. 1415-1422, 2012
 
 **Topology-Preserving Watermarking of Vector Data**  
 S. Huber, M. Held, R. Kwitt, and P. Meerwald  
-*EuroCG 2012*  
+*EuroCG 2012*      
+[Preprint](https://www.sthu.org/research/publications/files/eurocg2012-watermarking.pdf) &nbsp;&#183;&nbsp; [Slides](https://www.sthu.org/research/publications/files/eurocg2012-watermarking-slides.pdf)
 
 ## 2011
 
