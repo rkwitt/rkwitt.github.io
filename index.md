@@ -6,8 +6,8 @@
 
 ![](uni.png)
 
-I am a full professor for machine learning in the [Department of Computer Science](https://informatik.uni-salzburg.at/) at the
-[Univ. of Salzburg](https://www.uni-salzburg.at/), Austria. Prior to that, I was part of the medical imaging and computer vision group at [Kitware Inc.](https://www.kitware.com/), North Carolina, USA. My research spans multiple areas, but mostly focusses on theoretical and practical aspects of learning methods that allow to leverage and control structural characteristics of data.
+I am a full professor for **machine learning** in the [Department of Computer Science](https://informatik.uni-salzburg.at/) at the
+[Univ. of Salzburg (PLUS)](https://www.uni-salzburg.at/), Austria. Prior to that, I was part of the medical imaging and computer vision group at [Kitware Inc.](https://www.kitware.com/), North Carolina, USA. My research spans multiple areas, but mostly focusses on theoretical and practical aspects of learning methods that allow to leverage and control structural characteristics of data.
 
 ## News
 

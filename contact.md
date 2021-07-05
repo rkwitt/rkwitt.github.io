@@ -18,4 +18,4 @@ Phone: +43 662 8044 6311
 E-Mail: <Roland.Kwitt@sbg.ac.at>  
 
 **Information for students**: The best way to contact me is via e-mail. Please *do not*
-drop by my office without an appointment.
+drop by my office *without* an appointment.
