@@ -10,7 +10,7 @@ layout: default
 
 # Publications
 
-Publications are listed in *reverse-chronological* order.  Please find my Google Scholar
+Publications are listed in *reverse-chronological* order. Publications ranked  **<span style="color:#A6192E">A*</span>**  according to the well-established [CORE journal/conference ranking](https://www.core.edu.au/conference-portal) are marked. Please find my Google Scholar
 profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 - [2021](#2021) (1)
@@ -45,27 +45,32 @@ H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou, M. Niethammer
 **Dissecting Supervised Constrastive Learning**   
 F. Graf, C. Hofer, M. Niethammer, R. Kwitt     
 *ICML 2021* (long presentation)      
-[arXiv](https://arxiv.org/abs/2102.08817)
+[arXiv](https://arxiv.org/abs/2102.08817)    
+CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 
 ## 2020
 
 **A Shooting Formulation of Deep Learning**    
-F.-X. Vialard, R. Kwitt, S. Wei and M. Niethammer     
+F.-X. Vialard, R. Kwitt, S. Wei and M. Niethammer    
+*NeurIPS 2020 (Oral)*     
 [arXiv](https://arxiv.org/abs/2006.10330) &nbsp;&#183;&nbsp;
 [Publisher link](https://papers.nips.cc/paper/2020/file/89562dccfeb1d0394b9ae7e09544dc70-Paper.pdf) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp;
-[Source code](https://github.com/uncbiag/neuro_shooting.git)     
-*NeurIPS 2020 (Oral)*
+[Source code](https://github.com/uncbiag/neuro_shooting.git)      
+CORE ranking: **<span style="color:#A6192E">A*</span>**  
+
 
 **Graph Filtration Learning**     
 C. Hofer, F. Graf, R. Kwitt and M. Niethammer     
 *ICML 2020*       
-[arXiv](https://arxiv.org/abs/1905.10996) &nbsp;&#183;&nbsp; [Publisher link](http://proceedings.mlr.press/v119/hofer20b.html) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp;[Source code](https://github.com/c-hofer/graph_filtration_learning)   
+[arXiv](https://arxiv.org/abs/1905.10996) &nbsp;&#183;&nbsp; [Publisher link](http://proceedings.mlr.press/v119/hofer20b.html) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp;[Source code](https://github.com/c-hofer/graph_filtration_learning)      
+CORE ranking: **<span style="color:#A6192E">A*</span>**s
 
 **Topologically Densified Distributions**     
 C. Hofer, F. Graf, M. Niethammer and R. Kwitt       
 *ICML 2020*      
-[arXiv](https://arxiv.org/abs/2002.04805) &nbsp;&#183;&nbsp; [Publisher link](http://proceedings.mlr.press/v119/hofer20a.html) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp; [Source code](https://github.com/c-hofer/topologically_densified_distributions)
+[arXiv](https://arxiv.org/abs/2002.04805) &nbsp;&#183;&nbsp; [Publisher link](http://proceedings.mlr.press/v119/hofer20a.html) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp; [Source code](https://github.com/c-hofer/topologically_densified_distributions)     
+CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 
 **An empirical assessment of appearance descriptors applied to MRI for automated diagnosis of TLE and MCI**     
@@ -90,7 +95,8 @@ C. Hofer, R. Kwitt and M. Niethammer
 *JMLR*    
 vol. 20(126), pp. 1-45, 2019       
 [Publisher link](http://jmlr.org/papers/v20/18-358.html) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp;
-[Source code](https://github.com/c-hofer/torchph)
+[Source code](https://github.com/c-hofer/torchph)     
+CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 
 **Fast Predictive Simple Geodesic Regression**    
@@ -103,7 +109,8 @@ vol. 56, pp. 192-209, 2019
 C. Hofer, R. Kwitt, M. Dixit and M. Niethammer    
 *ICML 2019*     
 [Publisher link](http://proceedings.mlr.press/v97/hofer19a.html) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp;
-[Source code](https://github.com/c-hofer/COREL_icml2019)
+[Source code](https://github.com/c-hofer/COREL_icml2019)      
+CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **Metric Learning for Image Registration**    
 M. Niethammer, F.-X. Vialard and R. Kwitt    
@@ -112,7 +119,8 @@ M. Niethammer, F.-X. Vialard and R. Kwitt
 &nbsp;&#183;&nbsp;
 [Publisher link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Niethammer_Metric_Learning_for_Image_Registration_CVPR_2019_paper.pdf) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp;
 [Supplementary material](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Niethammer_Metric_Learning_for_CVPR_2019_supplemental.pdf) &nbsp;&#183;&nbsp;
-[Source code](https://github.com/uncbiag/registration)
+[Source code](https://github.com/uncbiag/registration)       
+CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **Image-Based Methods for Phase Estimation, Gating, and Temporal Superresolution of Cardiac Ultrasound**    
 D.R. Chittajallu, M., McCormick, S. Gerber, T.J.  Czernuszewicz, R. Gessner, M.S. Willis, M. Niethammer, R. Kwitt and S.R. Aylward     
@@ -157,7 +165,8 @@ vol. 176, pp. 431-445, 2018
 B. Liu, M. Dixit, R. Kwitt and N. Vasconcelos   
 *CVPR 2018 (Oral)*   
 [arXiv](https://arxiv.org/abs/1801.04356) &nbsp;&#183;&nbsp;
-[Publisher link](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Feature_Space_Transfer_CVPR_2018_paper.pdf) <i class="fa fa-unlock" style="color:#115740"></i>
+[Publisher link](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Feature_Space_Transfer_CVPR_2018_paper.pdf) <i class="fa fa-unlock" style="color:#115740"></i>    
+CORE ranking: **<span style="color:#A6192E">A*</span>**  
 
 
 **Scoliosis Screening and Monitoring Using Self Contained Ultrasound and Neural Networks**    
@@ -182,14 +191,16 @@ C. Hofer, R. Kwitt, M. Niethammer and A. Uhl
 [Source code](https://github.com/c-hofer/nips2017)  
 Supporting packages (+ tutorials): [tda-toolkit](https://github.com/c-hofer/tda-toolkit)
 &nbsp;&#183;&nbsp;
-[chofer-torchex](https://github.com/c-hofer/chofer_torchex) &nbsp;&#183;&nbsp; [torchph](https://github.com/c-hofer/torchph)
+[chofer-torchex](https://github.com/c-hofer/chofer_torchex) &nbsp;&#183;&nbsp; [torchph](https://github.com/c-hofer/torchph)     
+CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 
 **AGA: Attribute-Guided Augmentation**  
 M. Dixit, R. Kwitt, M. Niethammer and N. Vasconcelos   
 *CVPR 2017 (Oral)*     
 [arXiv](https://arxiv.org/abs/1612.02559)
-&nbsp;&#183;&nbsp; [Publisher link](https://openaccess.thecvf.com/content_cvpr_2017/papers/Dixit_AGA_Attribute-Guided_Augmentation_CVPR_2017_paper.pdf) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp; [Talk video](https://youtu.be/F3ThW3RLSAU?t=26)
+&nbsp;&#183;&nbsp; [Publisher link](https://openaccess.thecvf.com/content_cvpr_2017/papers/Dixit_AGA_Attribute-Guided_Augmentation_CVPR_2017_paper.pdf) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp; [Talk video](https://youtu.be/F3ThW3RLSAU?t=26)      
+CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **Quicksilver: Fast Predictive Image Registration - a Deep Learning Approach**  
 X. Yang, R. Kwitt, M. Styner and M. Niethammer  
@@ -239,7 +250,8 @@ R. Kwitt, S. Hegenbart and M. Niethammer
 *CVPR 2016* (Spotlight)    
 [Publisher link](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kwitt_One-Shot_Learning_of_CVPR_2016_Preprint.html)
 &nbsp;&#183;&nbsp;
-[Code](https://github.com/rkwitt/TrajectoryTransfer)
+[Code](https://github.com/rkwitt/TrajectoryTransfer)     
+CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **Parametric Regression on the Grassmannian**  
 Y. Hong, R. Kwitt, N. Singh, N. Vasconcelos and M. Niethammer  
@@ -247,7 +259,8 @@ Y. Hong, R. Kwitt, N. Singh, N. Vasconcelos and M. Niethammer
 vol. 34(12), pp. 2284-2297, 2016   
 [Preprint](http://cobweb.cs.uga.edu/~yihong/Preprints/parametric_regression_on_the_grassmannian.pdf)
 &nbsp;&#183;&nbsp;
-[Code](https://bitbucket.org/yi_hong/ggr_all.git)
+[Code](https://bitbucket.org/yi_hong/ggr_all.git)      
+CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **Fast Predictive Image Registration**  
 X. Yang, R. Kwitt and M. Niethammer  
@@ -276,7 +289,8 @@ R. Kwitt, S. Huber, M. Niethammer, W. Lin and U. Bauer
 *NIPS 2015*  
 [Publisher link](http://papers.nips.cc/paper/5887-statistical-topological-data-analysis-a-kernel-perspective)
 &nbsp;&#183;&nbsp;
-[Code](https://github.com/rkwitt/persistence-learning)
+[Code](https://github.com/rkwitt/persistence-learning)       
+CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **A Stable Multi-Scale Kernel for Topological Machine Learning**  
 J. Reininghaus, U. Bauer, S. Huber, and R. Kwitt  
@@ -285,7 +299,8 @@ J. Reininghaus, U. Bauer, S. Huber, and R. Kwitt
 &nbsp;&#183;&nbsp;
 [Code](https://github.com/rkwitt/persistence-learning)
 &nbsp;&#183;&nbsp;
-[Poster](http://www.rkwitt.org/media/files/Reininghaus15a-poster.pdf)
+[Poster](http://www.rkwitt.org/media/files/Reininghaus15a-poster.pdf)      
+CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **Group Testing for Longitudinal Data**  
 Y. Hong, N. Singh, R. Kwitt, and M. Niethammer  
@@ -296,7 +311,8 @@ Y. Hong, N. Singh, R. Kwitt, and M. Niethammer
 X. Liu, M. Niethammer, R. Kwitt, N. Singh, M. McCormick and S. Aylward  
 *IEEE Trans. Med. Imag. (TMI)*  
 vol. 34(12), pp. 2583-2591, 2015   
-[Publisher link](http://ieeexplore.ieee.org/document/7130619/authors)
+[Publisher link](http://ieeexplore.ieee.org/document/7130619/authors)       
+CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **Model Criticism for Regression on the Grassmannian**  
 Y. Hong, R. Kwitt, and M. Niethammer  
@@ -308,7 +324,8 @@ MICCAI 2015
 **Geodesic Regression on the Grassmannian**  
 Y. Hong, R. Kwitt, N. Singh, and M. Niethammer  
 *ECCV 2014*  
-[Preprint](http://www.rkwitt.org/media/files/Hong14c-paper.pdf)
+[Preprint](http://www.rkwitt.org/media/files/Hong14c-paper.pdf)      
+CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **Low-Rank to the Rescue: Atlas-based Analyses in the Presence of Pathologies**    
 X. Liu, M. Niethammer, R. Kwitt, M. McCormick, and S. Aylward  
@@ -360,8 +377,8 @@ Y. Hong, B. Davis, J.S. Marron, R. Kwitt, and M. Niethammer
 MICCAI 2013   
 [Preprint](http://www.rkwitt.org/media/files/Hong13a-paper.pdf)
 
-**Localizing Target Structures in Ultrasound Video - A Phantom Study**  
-R. Kwitt, N. Vasconcelos, S. Razzaque, and S. Aylward  
+**Localizing Target Structures in Ultrasound Video - A Phantom Study**     
+R. Kwitt, N. Vasconcelos, S. Razzaque, and S. Aylward      
 Med. Image Anal. (MedIA)  
 vol. 17, pp. 712-722, 2013  
 [Preprint](http://www.rkwitt.org/publications/foo)
@@ -376,9 +393,10 @@ P. Marion, R. Kwitt, B. Davis, and M. Gschwandtner
 
 **Scene Recognition on the Semantic Manifold**  
 R. Kwitt, N. Vasconcelos and N. Rasiwasia  
-*ECCV 2012*  
+*ECCV 2012*     
+CORE ranking: **<span style="color:#A6192E">A*</span>**
 
-**Recognition in Ultrasound Videos: Where Am I?**
+**Recognition in Ultrasound Videos: Where Am I?**     
 R. Kwitt, N. Vasconcelos, S. Razzaque, and S. Aylward  
 *MICCAI 2012*   
 [Preprint](http://www.rkwitt.org/media/files/Kwitt12a-paper.pdf)
@@ -424,13 +442,15 @@ M. Gschwandtner, R. Kwitt, W. Pree, and A. Uhl
 R. Kwitt, P. Meerwald, and A. Uhl     
 *IEEE Trans. Image Process. (TIP)*    
 vol. 20(7), pp. 2063-2077, 2011     
-[Publisher link](https://ieeexplore.ieee.org/document/5701774) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt11a.pdf)  
+[Publisher link](https://ieeexplore.ieee.org/document/5701774) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt11a.pdf)      
+CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **Lightweight Detection of Additive Watermarking in the DWT-Domain**  
 R. Kwitt, P. Meerwald, and A. Uhl  
 *IEEE Trans. Image Process. (TIP)*  
 vol. 20(2), pp. 474-484, 2011      
-[Publisher link](https://ieeexplore.ieee.org/document/5545430) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt10c.pdf)    
+[Publisher link](https://ieeexplore.ieee.org/document/5545430) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt10c.pdf)      
+CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 ## 2010
 
@@ -450,7 +470,7 @@ R. Kwitt, and A. Uhl
 *IEEE Trans. Image Process. (TIP)*   
 vol. 19(1), pp. 241-253, 2010     
 [Publisher link](https://ieeexplore.ieee.org/document/5238618) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt10a.pdf) &nbsp;&#183;&nbsp; [Errata](/media/files/Kwitt10a_errata.pdf)     
-CORE ranking: **<span style="color:#A6192E">A*</span>** 
+CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **Predicting the Histology of Colorectal Lesions in a Probabilistic Framework**  
 R. Kwitt, A. Uhl, M. Häfner, A. Gangl, and F. Wrba  
@@ -496,7 +516,8 @@ vol. 12(4), pp. 407-413, 2009
 M. Häfner, R. Kwitt, A. Uhl, A. Gangl, and F. Wrba  
 *Pattern Recognition (PR)*  
 vol. 42(6), pp. 1180-1191, 2008    
-[Publisher link](https://dl.acm.org/doi/10.1016/j.patcog.2008.07.012) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt08g.pdf)
+[Publisher link](https://dl.acm.org/doi/10.1016/j.patcog.2008.07.012) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt08g.pdf)     
+CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **One-Against-One Classification for Zoom-Endoscopy Images**   
 M. Häfner, R. Kwitt, F. Wrba, A. Gangl, and A. Vecsei  
