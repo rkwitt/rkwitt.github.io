@@ -64,7 +64,7 @@ CORE ranking: **<span style="color:#A6192E">A*</span>**
 C. Hofer, F. Graf, R. Kwitt and M. Niethammer     
 *ICML 2020*       
 [arXiv](https://arxiv.org/abs/1905.10996) &nbsp;&#183;&nbsp; [Publisher link](http://proceedings.mlr.press/v119/hofer20b.html) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp;[Source code](https://github.com/c-hofer/graph_filtration_learning)      
-CORE ranking: **<span style="color:#A6192E">A*</span>**s
+CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **Topologically Densified Distributions**     
 C. Hofer, F. Graf, M. Niethammer and R. Kwitt       
@@ -394,6 +394,7 @@ P. Marion, R. Kwitt, B. Davis, and M. Gschwandtner
 **Scene Recognition on the Semantic Manifold**  
 R. Kwitt, N. Vasconcelos and N. Rasiwasia  
 *ECCV 2012*     
+[Publisher link](https://link.springer.com/chapter/10.1007/978-3-642-33765-9_26) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt12b.pdf)
 CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **Recognition in Ultrasound Videos: Where Am I?**     
@@ -416,27 +417,28 @@ S. Huber, M. Held, R. Kwitt, and P. Meerwald
 
 **BlenSor: Blender Sensor Simulation Toolbox**  
 M. Gschwandtner, R. Kwitt, and A. Uhl  
-*ISVC 2011*  
-[Preprint](http://www.rkwitt.org/media/files/Kwitt11a-paper.pdf)
-&nbsp;&#183;&nbsp;
+*ISVC 2011*    
 [Project](http://www.blensor.org/)
 
 **Testing a Multivariate Model for Wavelet Coefficients**  
 R. Kwitt, P. Meerwald, A. Uhl, and G. Verdoolaege  
-*ICIP 2011*  
-[Preprint](http://www.rkwitt.org/media/files/Kwitt11b-paper.pdf)
+*ICIP 2011*     
+[Publisher link](https://ieeexplore.ieee.org/document/6115667) &nbsp;&#183;&nbsp;
+[Preprint](/media/files/Kwitt11b.pdf) &nbsp;&#183;&nbsp;
+[Slides](/media/files/Kwitt11b_slides.pdf)
+
 
 **Learning Pit Pattern Concepts for Gastroenterological Training**  
 R. Kwitt, N. Rasiwasia, N. Vasconcelos, A. Uhl, M. Häfner, and F. Wrba  
 *MICCAI 2011*  
-[Preprint](http://www.rkwitt.org/media/files/Kwitt11c-paper.pdf)
-&nbsp;&#183;&nbsp;
-[Slides](http://www.rkwitt.org/media/files/Kwitt11c-talk.pdf)
+[Publisher link](https://link.springer.com/chapter/10.1007/978-3-642-23626-6_35) &nbsp;&#183;&nbsp;
+[Preprint](/media/files/Kwitt11c.pdf) &nbsp;&#183;&nbsp;
+[Slides](/media/files/Kwitt11c_slides.pdf)
 
 **Infrared Camera Calibration for Dense Depth Map Construction**  
 M. Gschwandtner, R. Kwitt, W. Pree, and A. Uhl  
 *IEEE Intelligent Vehicles 2011*  
-[Preprint](http://www.rkwitt.org/media/files/Kwitt11d-paper.pdf)
+[Publisher link](https://ieeexplore.ieee.org/document/5940515) &nbsp;&#183;&nbsp; [Preprint](/media/files/Gschwandtner11a.pdf)
 
 **Efficient Texture Image Retrieval Using Copulas in a Bayesian Framework**  
 R. Kwitt, P. Meerwald, and A. Uhl     
