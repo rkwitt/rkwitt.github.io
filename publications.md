@@ -257,6 +257,7 @@ CORE ranking: **<span style="color:#A6192E">A*</span>**
 Y. Hong, R. Kwitt, N. Singh, N. Vasconcelos and M. Niethammer  
 *IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI)*  
 vol. 34(12), pp. 2284-2297, 2016   
+[Publisher link](https://ieeexplore.ieee.org/document/7378521) &nbsp;&#183;&nbsp;
 [Preprint](http://cobweb.cs.uga.edu/~yihong/Preprints/parametric_regression_on_the_grassmannian.pdf)
 &nbsp;&#183;&nbsp;
 [Code](https://bitbucket.org/yi_hong/ggr_all.git)      
@@ -316,15 +317,18 @@ CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **Model Criticism for Regression on the Grassmannian**  
 Y. Hong, R. Kwitt, and M. Niethammer  
-MICCAI 2015  
-[Preprint](http://www.rkwitt.org/media/files/Hong15b-paper.pdf)
+MICCAI 2015    
+[Publisher link](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_87) &nbsp;&#183;&nbsp; 
+[Preprint](/media/files/Hong15a.pdf)
 
 ## 2014
 
 **Geodesic Regression on the Grassmannian**  
 Y. Hong, R. Kwitt, N. Singh, and M. Niethammer  
 *ECCV 2014*  
-[Preprint](http://www.rkwitt.org/media/files/Hong14c-paper.pdf)      
+[Publisher link](https://link.springer.com/chapter/10.1007/978-3-319-10605-2_41)
+&nbsp;&#183;&nbsp;
+[Preprint](/media/files/Hong14a.pdf)      
 CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **Low-Rank to the Rescue: Atlas-based Analyses in the Presence of Pathologies**    
@@ -381,7 +385,7 @@ MICCAI 2013
 R. Kwitt, N. Vasconcelos, S. Razzaque, and S. Aylward      
 Med. Image Anal. (MedIA)  
 vol. 17, pp. 712-722, 2013  
-[Preprint](http://www.rkwitt.org/publications/foo)
+[Preprint](/media/files/Kwitt13a.pdf)
 &nbsp;&#183;&nbsp;
 [Code](https://github.com/rkwitt/PyDSTK)
 

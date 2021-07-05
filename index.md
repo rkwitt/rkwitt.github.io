@@ -142,7 +142,7 @@ Univ. of Salzburg
 *PhD student*\\
 Department of Computer Science\\
 Univ. of Salzburg\\
-Advisor: [Prof. Andreas Uhl](https://www.uni-salzburg.at/index.php?id=53927&L=1)    
+Advisor: Univ.-Prof. Dr. Andreas Uhl
 
 [Curriculum Vitae (CV)](cv-kwitt.pdf)
 
@@ -154,7 +154,7 @@ Advisor: [Prof. Andreas Uhl](https://www.uni-salzburg.at/index.php?id=53927&L=1)
 - PC Chair: ACM IH & MMSEC 2014 (Salzburg, Austria)
 
 I regularly serve as a reviewer for the major vision and machine learning
-conferences (e.g., CVPR, ICCV, ECCV, BMVC, NIPS, AISTATS, ICIP, ICPR, MICCAI) as
+conferences (e.g., CVPR, ICCV, ECCV, BMVC, NIPS, AISTATS, ICIP, ICPR, MICCAI, ICLR) as
 well as the major journals in the field (e.g.,TPAMI, JMLR, IJCV, TMI, TIP, TSP, MedIA).
 
 ## Awards
