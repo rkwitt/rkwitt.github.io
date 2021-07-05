@@ -11,6 +11,8 @@ I am a full professor for machine learning in the [Department of Computer Scienc
 
 ## News
 
+- **July 2021**: Chris has left our group to work in industry - Thanks for all the great work over the years!
+
 - **May 2021**: One paper accepted (as long presentation) at [ICML '21](https://icml.cc/) (congrats Chris and Florian)      
 
 - **Feb. 2021**: Our new preprint *Dissecting Supervised Contrastive Learning* (joint work with F. Graf, C. Hofer and M. Niethammer) is available at [here](https://arxiv.org/abs/2102.08817)
@@ -29,7 +31,6 @@ I am a full professor for machine learning in the [Department of Computer Scienc
 
 ## Group
 
-- Christoph D. Hofer (PostDoc)
 - Günther Eder (PostDoc)
 - Florian Graf (PhD student)
 - Sebastian Zeng (PhD student)
