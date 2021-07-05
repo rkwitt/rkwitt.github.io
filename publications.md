@@ -318,7 +318,7 @@ CORE ranking: **<span style="color:#A6192E">A*</span>**
 **Model Criticism for Regression on the Grassmannian**  
 Y. Hong, R. Kwitt, and M. Niethammer  
 MICCAI 2015    
-[Publisher link](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_87) &nbsp;&#183;&nbsp; 
+[Publisher link](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_87) &nbsp;&#183;&nbsp;
 [Preprint](/media/files/Hong15a.pdf)
 
 ## 2014
@@ -372,9 +372,9 @@ vol. 24(1), pp. 61-86, 2014
 **Studying Cerebral Vasculature Using Structure Proximity and Graph Kernels**  
 R. Kwitt, D. Pace, M. Niethammer, and S. Aylward  
 MICCAI 2013    
-[Preprint](http://www.rkwitt.org/media/files/Kwitt13a-paper.pdf)
-&nbsp;&#183;&nbsp;
-[Code](https://github.com/KitwareMedical/TubeTK-Experiments)
+[Preprint](/media/files/Kwitt13b.pdf)
+&nbsp;&#183;&nbsp; [Supplementary material](/media/files/Kwitt13b_supp.pdf) &nbsp;&#183;&nbsp;
+[Code](https://github.com/KitwareMedical/TubeTK-pypbm)
 
 **Weighted Functional Boxplot with Application to Statistical Atlas Construction**  
 Y. Hong, B. Davis, J.S. Marron, R. Kwitt, and M. Niethammer  
