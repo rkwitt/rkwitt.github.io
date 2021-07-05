@@ -220,7 +220,7 @@ Z. Ding, G. Fleischman, P. Thomson, R. Kwitt, M. Niethammer and ADNI
 **Regression Uncertainty on the Grassmannian**  
 Y. Hong, X. Yang, R. Kwitt, M. Styner and M. Niethammer  
 *AISTATS 2017 (Oral)*  
-[Publisher link](http://proceedings.mlr.press/v54/hong17b/hong17b.pdf) <i class="fa fa-unlock" style="color:#115740"></i>
+[Publisher link](http://proceedings.mlr.press/v54/hong17b/hong17b.pdf) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp; [Preprint](https://cs.sjtu.edu.cn/~yihong/papers/regression_uncertainty.pdf)
 
 **Constructing Shape Spaces from a Topological Perspective**  
 C. Hofer, R. Kwitt, Y. Höller, E. Trinka, M. Niethammer and A. Uhl  
@@ -306,7 +306,7 @@ CORE ranking: **<span style="color:#A6192E">A*</span>**
 **Group Testing for Longitudinal Data**  
 Y. Hong, N. Singh, R. Kwitt, and M. Niethammer  
 *IPMI 2015 (Oral)*  
-[Preprint](http://www.rkwitt.org/media/files/Hong15a-paper.pdf)
+[Preprint](https://cs.sjtu.edu.cn/~yihong/papers/trajectory_distribution.pdf)
 
 **Low-rank Atlas Image Analyses in the Presence of Pathologies**  
 X. Liu, M. Niethammer, R. Kwitt, N. Singh, M. McCormick and S. Aylward  
@@ -350,16 +350,17 @@ R. Kwitt, S. Hegenbart, N. Rasiwasia, A. Vecsei, and A. Uhl
 &nbsp;&#183;&nbsp;
 [Poster](http://www.rkwitt.org/media/files/Kwitt14b-poster.pdf)
 
-**Statistical Atlas Consruction via Weighted Functional Boxplots**  
+**Statistical Atlas Construction via Weighted Functional Boxplots**  
 Y. Hong, B. Davis, J.S. Marron, R. Kwitt, N. Singh, J. Kimbell, E. Pitkina, R. Superfine, S. Davis, C. Zdanski, and M. Niethammer  
 *Med. Image Anal. (MedIA)*  
 vol. 18, pp. 684-698, 2014  
-[Preprint](http://www.rkwitt.org/media/files/Hong14a-paper.pdf)
+[Preprint](https://cs.sjtu.edu.cn/~yihong/papers/weighted_functional_boxplot_media.pdf)
 
 **Time-warped Geodesic Regression**  
 Y. Hong, N. Singh, R. Kwitt, and M. Niethammer  
 *MICCAI 2014*  
-[Preprint](http://www.rkwitt.org/media/files/Hong14b-paper.pdf)
+[Publisher link](https://link.springer.com/chapter/10.1007/978-3-319-10470-6_14) &nbsp;&#183;&nbsp;
+[Preprint](https://cs.sjtu.edu.cn/~yihong/papers/time_warped_geodesic_regression.pdf)
 
 **Topology-Preserving Watermarking of Vector Graphics**  
 S. Huber, P. Meerwald, M. Held and R. Kwitt  
@@ -379,7 +380,7 @@ MICCAI 2013
 **Weighted Functional Boxplot with Application to Statistical Atlas Construction**  
 Y. Hong, B. Davis, J.S. Marron, R. Kwitt, and M. Niethammer  
 MICCAI 2013   
-[Preprint](http://www.rkwitt.org/media/files/Hong13a-paper.pdf)
+[Preprint](https://cs.sjtu.edu.cn/~yihong/papers/weighted_functional_boxplot_miccai_2013.pdf)
 
 **Localizing Target Structures in Ultrasound Video - A Phantom Study**     
 R. Kwitt, N. Vasconcelos, S. Razzaque, and S. Aylward      
@@ -405,9 +406,8 @@ CORE ranking: **<span style="color:#A6192E">A*</span>**
 **Recognition in Ultrasound Videos: Where Am I?**     
 R. Kwitt, N. Vasconcelos, S. Razzaque, and S. Aylward  
 *MICCAI 2012*   
-[Preprint](http://www.rkwitt.org/media/files/Kwitt12a-paper.pdf)
-&nbsp;&#183;&nbsp;
-[Talk](http://www.miccai2012.org/conference-program/oral-program/57)
+[Preprint](https://public.kitware.com/Wiki/images/a/af/Kwitt12aMICCAI.pdf) &nbsp;&#183;&nbsp; [Example videos](https://vimeo.com/43983554)      
+<span style="color:#A6192E">Winner of MICCAI Young Scientist Award</span>
 
 **Endoscopic Image Analysis in Semantic Space**  
 R. Kwitt, N. Vasconcelos, N. Rasiwasia, M. Häfner, F. Wrba, and A. Uhl  
