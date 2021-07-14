@@ -42,7 +42,7 @@ H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer
 
 ## 2021
 
-**Dissecting Supervised Constrastive Learning**   
+**Dissecting Supervised Contrastive Learning**   
 F. Graf, C. Hofer, M. Niethammer, R. Kwitt     
 *ICML 2021* (long presentation)      
 [arXiv](https://arxiv.org/abs/2102.08817)    
