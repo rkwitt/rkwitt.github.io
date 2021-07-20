@@ -31,6 +31,10 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 ## Preprints
 
+**Topological Attention for Time Series Forecasting**    
+S. Zeng, F. Graf, C. Hofer and R. Kwitt   
+[arXiv](https://arxiv.org/abs/2107.09031)
+
 **ICON: Learning Regular Maps Through Inverse Consistency**    
 H. Greer, R. Kwitt, F.-X. Vialard and M. Niethammer    
 [arXiv](https://arxiv.org/abs/2105.04459) &nbsp;&#183;&nbsp; [Source code](https://github.com/uncbiag/ICON)
