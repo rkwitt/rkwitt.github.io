@@ -35,16 +35,17 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 S. Zeng, F. Graf, C. Hofer and R. Kwitt   
 [arXiv](https://arxiv.org/abs/2107.09031)
 
-**ICON: Learning Regular Maps Through Inverse Consistency**    
-H. Greer, R. Kwitt, F.-X. Vialard and M. Niethammer    
-[arXiv](https://arxiv.org/abs/2105.04459) &nbsp;&#183;&nbsp; [Source code](https://github.com/uncbiag/ICON)
-
 **Deep Multi-View Learning via Task-Optimal CCA**    
 H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer     
 [arXiv](https://arxiv.org/abs/1907.07739)
 
 
 ## 2021
+
+**ICON: Learning Regular Maps Through Inverse Consistency**    
+H. Greer, R. Kwitt, F.-X. Vialard and M. Niethammer    
+*ICCV 2021* (accepted)    
+[arXiv](https://arxiv.org/abs/2105.04459) &nbsp;&#183;&nbsp; [Source code](https://github.com/uncbiag/ICON)
 
 **Dissecting Supervised Contrastive Learning**   
 F. Graf, C. Hofer, M. Niethammer, R. Kwitt     
