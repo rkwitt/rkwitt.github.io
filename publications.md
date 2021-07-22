@@ -45,7 +45,9 @@ H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer
 **ICON: Learning Regular Maps Through Inverse Consistency**    
 H. Greer, R. Kwitt, F.-X. Vialard and M. Niethammer    
 *ICCV 2021* (accepted)    
-[arXiv](https://arxiv.org/abs/2105.04459) &nbsp;&#183;&nbsp; [Source code](https://github.com/uncbiag/ICON)
+[arXiv](https://arxiv.org/abs/2105.04459) &nbsp;&#183;&nbsp; [Source code](https://github.com/uncbiag/ICON)    
+CORE ranking: **<span style="color:#A6192E">A*</span>**    
+
 
 **Dissecting Supervised Contrastive Learning**   
 F. Graf, C. Hofer, M. Niethammer, R. Kwitt     
