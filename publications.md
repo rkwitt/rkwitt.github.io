@@ -13,7 +13,7 @@ layout: default
 Publications are listed in *reverse-chronological* order. Publications ranked  **<span style="color:#A6192E">A*</span>**  according to the well-established [CORE journal/conference ranking](https://www.core.edu.au/conference-portal) are marked. Please find my Google Scholar
 profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
-- [2021](#2021) (1)
+- [2021](#2021) (2)
 - [2020](#2020) (4)
 - [2019](#2019) (7)
 - [2018](#2018) (6)

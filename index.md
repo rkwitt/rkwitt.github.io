@@ -11,6 +11,8 @@ I am a full professor for **machine learning** in the [Department of Computer Sc
 
 ## News
 
+- **July 2021**: Hastings Greer's paper *ICON: Learning Regular Maps Through Inverse Consistency* has been accepted at [ICCV '21'](http://iccv2021.thecvf.com/home) - joint work with Marc Niethammer and F.-X. Vialard      
+
 - **July 2021**: Chris has left our group to work in industry - Thanks for all the great work over the years!
 
 - **May 2021**: One paper accepted (as long presentation) at [ICML '21](https://icml.cc/) (congrats Chris and Florian)      
