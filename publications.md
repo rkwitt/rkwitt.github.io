@@ -31,6 +31,10 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 ## Preprints
 
+**Comparing object recognition in humans and deep convolutional neural networks -- An eye tracking study**    
+L.E. van Dyck, R. Kwitt, S.J. Denzler and W.R. Gruber    
+[arXiv](https://arxiv.org/abs/2108.00107)    
+
 **Topological Attention for Time Series Forecasting**    
 S. Zeng, F. Graf, C. Hofer and R. Kwitt   
 [arXiv](https://arxiv.org/abs/2107.09031)
