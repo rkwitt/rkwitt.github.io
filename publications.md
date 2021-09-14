@@ -31,10 +31,6 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 ## Preprints
 
-**Comparing object recognition in humans and deep convolutional neural networks -- An eye tracking study**    
-L.E. van Dyck, R. Kwitt, S.J. Denzler and W.R. Gruber    
-[arXiv](https://arxiv.org/abs/2108.00107)    
-
 **Topological Attention for Time Series Forecasting**    
 S. Zeng, F. Graf, C. Hofer and R. Kwitt   
 [arXiv](https://arxiv.org/abs/2107.09031)
@@ -45,6 +41,11 @@ H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer
 
 
 ## 2021
+
+**Comparing object recognition in humans and deep convolutional neural networks -- An eye tracking study**    
+L.E. van Dyck, R. Kwitt, S.J. Denzler and W.R. Gruber    
+(accepted to *Frontiers in Neuroscience*)     
+[arXiv](https://arxiv.org/abs/2108.00107)    
 
 **ICON: Learning Regular Maps Through Inverse Consistency**    
 H. Greer, R. Kwitt, F.-X. Vialard and M. Niethammer    
