@@ -44,7 +44,7 @@ S. Zeng, F. Graf, C. Hofer and R. Kwitt
 CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **Comparing object recognition in humans and deep convolutional neural networks -- An eye tracking study**    
-L.E. van Dyck, R. Kwitt, S.J. Denzler and W.R. Gruber    *Frontiers in Neuroscience* (accepted)       
+L.E. van Dyck, R. Kwitt, S.J. Denzler and W.R. Gruber       *Frontiers in Neuroscience* (accepted)       
 [arXiv](https://arxiv.org/abs/2108.00107)     
 
 **ICON: Learning Regular Maps Through Inverse Consistency**    
