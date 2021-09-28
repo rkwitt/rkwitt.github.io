@@ -13,9 +13,9 @@ I am a full professor for **machine learning** in the [Department of Computer Sc
 
 - **September 2021**: I gave a talk within the [Thematic Mini-Conference on Computational Topology and Machine Learning](https://www3.math.tu-berlin.de/mathplus/TES-Summer2021/) at the TU Berlin - Slides are available [here](http://www.rkwitt.org/media/files/TUBerlin_270921.pdf)
 
-- **September 2021**: Sebastian Zeng's paper *Topological Attention for Time Series Forecasting* has been accepted at [NeurIPS '21'](https://nips.cc/Conferences/2021/) - joint work with F. Graf, C. Hofer and myself   
+- **September 2021**: Sebastian Zeng's paper *Topological Attention for Time Series Forecasting* has been accepted at [NeurIPS '21](https://nips.cc/Conferences/2021/) - joint work with F. Graf, C. Hofer and myself   
 
-- **July 2021**: Hastings Greer's paper *ICON: Learning Regular Maps Through Inverse Consistency* has been accepted at [ICCV '21'](http://iccv2021.thecvf.com/home) - joint work with Marc Niethammer, F.-X. Vialard and myself
+- **July 2021**: Hastings Greer's paper *ICON: Learning Regular Maps Through Inverse Consistency* has been accepted at [ICCV '21](http://iccv2021.thecvf.com/home) - joint work with Marc Niethammer, F.-X. Vialard and myself
 
 - **July 2021**: Chris has left our group to work in industry - Thanks for all the great work over the years!
 
