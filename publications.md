@@ -13,7 +13,7 @@ layout: default
 Publications are listed in *reverse-chronological* order. Publications ranked  **<span style="color:#A6192E">A*</span>**  according to the well-established [CORE journal/conference ranking](https://www.core.edu.au/conference-portal) are marked. Please find my Google Scholar
 profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
-- [2021](#2021) (2)
+- [2021](#2021) (4)
 - [2020](#2020) (4)
 - [2019](#2019) (7)
 - [2018](#2018) (6)
@@ -31,28 +31,28 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 ## Preprints
 
-**Topological Attention for Time Series Forecasting**    
-S. Zeng, F. Graf, C. Hofer and R. Kwitt   
-[arXiv](https://arxiv.org/abs/2107.09031)
-
 **Deep Multi-View Learning via Task-Optimal CCA**    
 H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer     
 [arXiv](https://arxiv.org/abs/1907.07739)
 
-
 ## 2021
+
+**Topological Attention for Time Series Forecasting**    
+S. Zeng, F. Graf, C. Hofer and R. Kwitt    
+(accepted to *NeurIPS '21*)     
+[arXiv](https://arxiv.org/abs/2107.09031)    
+CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **Comparing object recognition in humans and deep convolutional neural networks -- An eye tracking study**    
 L.E. van Dyck, R. Kwitt, S.J. Denzler and W.R. Gruber    
 (accepted to *Frontiers in Neuroscience*)     
-[arXiv](https://arxiv.org/abs/2108.00107)    
+[arXiv](https://arxiv.org/abs/2108.00107)     
 
 **ICON: Learning Regular Maps Through Inverse Consistency**    
 H. Greer, R. Kwitt, F.-X. Vialard and M. Niethammer    
 *ICCV 2021* (accepted)    
 [arXiv](https://arxiv.org/abs/2105.04459) &nbsp;&#183;&nbsp; [Source code](https://github.com/uncbiag/ICON)    
 CORE ranking: **<span style="color:#A6192E">A*</span>**    
-
 
 **Dissecting Supervised Contrastive Learning**   
 F. Graf, C. Hofer, M. Niethammer, R. Kwitt     
