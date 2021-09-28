@@ -39,7 +39,7 @@ H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer
 
 **Topological Attention for Time Series Forecasting**    
 S. Zeng, F. Graf, C. Hofer and R. Kwitt    
-(accepted to *NeurIPS '21*)     
+*NeurIPS 2021* (accepted)     
 [arXiv](https://arxiv.org/abs/2107.09031)    
 CORE ranking: **<span style="color:#A6192E">A*</span>**
 
