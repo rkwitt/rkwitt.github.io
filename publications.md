@@ -39,26 +39,33 @@ H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer
 
 **Topological Attention for Time Series Forecasting**    
 S. Zeng, F. Graf, C. Hofer and R. Kwitt    
-*NeurIPS 2021* (accepted)     
-[arXiv](https://arxiv.org/abs/2107.09031)    
+*NeurIPS 2021*     
+[arXiv](https://arxiv.org/abs/2107.09031) &nbsp;&#183;&nbsp;
+[Publisher link](https://papers.nips.cc/paper/2021/hash/d062f3e278a1fbba2303ff5a22e8c75e-Abstract.html) <i class="fa fa-unlock" style="color:#115740"></i>       
 CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **Comparing object recognition in humans and deep convolutional neural networks -- An eye tracking study**    
 L.E. van Dyck, R. Kwitt, S.J. Denzler and W.R. Gruber       
-*Frontiers in Neuroscience* (accepted)       
-[arXiv](https://arxiv.org/abs/2108.00107)     
+*Frontiers in Neuroscience*       
+vol. 15, 2021    
+[arXiv](https://arxiv.org/abs/2108.00107) &nbsp;&#183;&nbsp;
+[Publisher link](https://www.frontiersin.org/articles/10.3389/fnins.2021.750639/full) <i class="fa fa-unlock" style="color:#115740"></i>   
 
 **ICON: Learning Regular Maps Through Inverse Consistency**    
 H. Greer, R. Kwitt, F.-X. Vialard and M. Niethammer    
-*ICCV 2021* (accepted)    
-[arXiv](https://arxiv.org/abs/2105.04459) &nbsp;&#183;&nbsp; [Source code](https://github.com/uncbiag/ICON)    
+*ICCV 2021*       
+[arXiv](https://arxiv.org/abs/2105.04459) &nbsp;&#183;&nbsp;
+[Publisher link](https://openaccess.thecvf.com/content/ICCV2021/html/Greer_ICON_Learning_Regular_Maps_Through_Inverse_Consistency_ICCV_2021_paper.html) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp; [Source code](https://github.com/uncbiag/ICON)    
 CORE ranking: **<span style="color:#A6192E">A*</span>**    
+
 
 **Dissecting Supervised Contrastive Learning**   
 F. Graf, C. Hofer, M. Niethammer, R. Kwitt     
 *ICML 2021* (long presentation)      
-[arXiv](https://arxiv.org/abs/2102.08817)    
+[arXiv](https://arxiv.org/abs/2102.08817) &nbsp;&#183;&nbsp;
+[Publisher link](https://proceedings.mlr.press/v139/graf21a.html) <i class="fa fa-unlock" style="color:#115740"></i>  
 CORE ranking: **<span style="color:#A6192E">A*</span>**
+
 
 
 ## 2020

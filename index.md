@@ -23,7 +23,7 @@ I am a full professor for **machine learning** in the [Department of Artificial 
 
 - **May 2021**: One paper accepted (as long presentation) at [ICML '21](https://icml.cc/) (congrats Chris and Florian)      
 
-- **Feb. 2021**: Our new preprint *Dissecting Supervised Contrastive Learning* (joint work with F. Graf, C. Hofer and M. Niethammer) is available at [here](https://arxiv.org/abs/2102.08817)
+- **February 2021**: Our new preprint *Dissecting Supervised Contrastive Learning* (joint work with F. Graf, C. Hofer and M. Niethammer) is available at [here](https://arxiv.org/abs/2102.08817)
 
 - **September 2020**: One paper (joint work with S. Wei, F.-X. Vialard and M. Niethammer) accepted (as oral) for [NeurIPS '20](https://neurips.cc)
 
