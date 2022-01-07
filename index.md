@@ -6,10 +6,12 @@
 
 ![](uni.png)
 
-I am a full professor for **machine learning** in the [Department of Computer Science](https://informatik.uni-salzburg.at/) at the
-[Univ. of Salzburg (PLUS)](https://www.uni-salzburg.at/), Austria. Prior to that, I was part of the medical imaging and computer vision group at [Kitware Inc.](https://www.kitware.com/), North Carolina, USA. My research spans multiple areas, but mostly focusses on theoretical and practical aspects of learning methods that allow to leverage and control structural characteristics of data. I am also a member of the [ELLIS society](https://ellis.eu).
+I am a full professor for **machine learning** in the [Department of Artificial Intelligence and Human Interfaces (AIHI)](https://plus.ac.at/aihi) at the
+[University of Salzburg (PLUS)](https://www.uni-salzburg.at/), Austria. Prior to that, I was part of the medical imaging and computer vision group at [Kitware Inc.](https://www.kitware.com/), North Carolina, USA. My research spans multiple areas, but mostly focusses on theoretical and practical aspects of learning methods that allow to leverage and control structural characteristics of data. I am also a member of the [ELLIS society](https://ellis.eu).
 
 ## News
+
+- **January 2022**: As of 01/2022, I will serve as deputy head of the newly founded *Department of Artificial Intelligence and Human Interfaces (AIHI)* at the University of Salzburg.
 
 - **September 2021**: I gave a talk within the [Thematic Mini-Conference on Computational Topology and Machine Learning](https://www3.math.tu-berlin.de/mathplus/TES-Summer2021/) at the TU Berlin - Slides are available [here](http://www.rkwitt.org/media/files/TUBerlin_270921.pdf)
 
@@ -125,6 +127,10 @@ Lightweight Probabilistic Texture Retrieval</dt>
 
 ## Short biography
 
+- since Jan. 2022
+*Full Professor* \\
+Department of Artificial Intelligence and Human Interfaces\\
+Univ. of Salzburg
 - since Dec. 2020  
 *Full Professor* \\
 Department of Computer Science\\
