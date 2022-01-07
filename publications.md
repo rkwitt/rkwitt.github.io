@@ -80,7 +80,7 @@ CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 
 **Graph Filtration Learning**     
-C. Hofer, F. Graf, R. Kwitt and M. Niethammer     
+C. Hofer, F. Graf, B. Rieck, M. Niethammer and R. Kwitt     
 *ICML 2020*       
 [arXiv](https://arxiv.org/abs/1905.10996) &nbsp;&#183;&nbsp; [Publisher link](http://proceedings.mlr.press/v119/hofer20b.html) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp;[Source code](https://github.com/c-hofer/graph_filtration_learning)      
 CORE ranking: **<span style="color:#A6192E">A*</span>**
