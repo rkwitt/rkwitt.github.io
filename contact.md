@@ -9,13 +9,13 @@ layout: default
 * * *
 
 Univ.-Prof. Dr. Dipl.-Ing. Roland Kwitt        
-Department of Computer Science    
+Department of Artificial Intelligence and Human Interfaces        
 University of Salzburg    
 Jakob-Haringer Str. 2  
 A-5020 Salzburg  
 Office: 1.18b    
 Phone: +43 662 8044 6311  
-E-Mail: <Roland.Kwitt@sbg.ac.at>, <roland.kwitt@gmail.com>
+E-Mail: <Roland.Kwitt@plus.ac.at>, <roland.kwitt@gmail.com>
 
 **Information for students**: The best way to contact me is via e-mail. Please *do not*
 drop by my office *without* an appointment.
