@@ -1,6 +1,6 @@
 # Site settings
 title: Roland Kwitt
-description: <p><b>Full Professor</b><br>Department of Computer Science<br>University of Salzburg</p>
+description: <p><b>Full Professor</b><br>Department of Artificial Intelligence and Human Interfaces<br>University of Salzburg</p>
 email: roland.kwitt@gmail.com
 markdown: kramdown
 theme: jekyll-theme-minimal
