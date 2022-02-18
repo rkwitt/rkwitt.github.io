@@ -31,8 +31,13 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 ## Preprints
 
+**On Measuring Excess Capacity in Neural Networks**    
+F. Graf, S. Zeng, M. Niethammer and R. Kwitt      
+[arXiv]
+
+
 **Deep Multi-View Learning via Task-Optimal CCA**    
-H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer     
+H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer           
 [arXiv](https://arxiv.org/abs/1907.07739)
 
 ## 2021
