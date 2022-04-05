@@ -33,7 +33,7 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 **On Measuring Excess Capacity in Neural Networks**    
 F. Graf, S. Zeng, M. Niethammer and R. Kwitt      
-[arXiv]
+[arXiv](https://arxiv.org/abs/2202.08070)
 
 
 **Deep Multi-View Learning via Task-Optimal CCA**    
