@@ -167,12 +167,6 @@ G. Wimmer, M. Gadermayr, R. Kwitt, M. Häfner, T. Tamaki, S. Yoshida, S. Tanaka,
 vol. 102, pp. 251-259, 2018    
 [Publisher link](https://www.sciencedirect.com/science/article/pii/S0010482518301100)
 
-**Image-based methods for phase estimation, gating and temporal super-resolution of cardiac ultrasound**    
-D. Chittajallu, M. McCormick, S. Gerber, T. Czernuszewicz, R. Gessner, M. Willis, M. Niethammer, R. Kwitt, S. Aylward    
-*IEEE Transactions on Biomedical Engineering*    
-[Publisher link](https://ieeexplore.ieee.org/document/8345790)
-<i class="fa fa-unlock" style="color:#115740"></i>
-
 **Compressing Networks with Super Nodes**  
 Natalie Stanley, Roland Kwitt, Marc Niethammer, Peter J. Mucha  
 *Nature Scientific Reports*    
