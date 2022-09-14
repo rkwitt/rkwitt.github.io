@@ -13,6 +13,8 @@ I am a full professor for **machine learning** in the [Department of Artificial 
 
 - **Sep. 2022**: Check out our latest work *On Measuring Excess Capacity in Neural Networks* on [arXiv](https://arxiv.org/abs/2202.08070) - a joint effort of Florian Graf, Sebastian Zeng, Bastian Rieck, Marc Niethammer and myself - *now accepted at NeurIPS '22*
 
+- **Aug. 2022**: My group hosted the [Biannual Austrian TDA meeting](https://biannual-austrian-tda.github.io/) this year, a joint effort by Herbert Edelsbrunner (IST Austria), Michael Kerber (TU Graz) and myself. Great meeting and great talks!
+
 - **January 2022**: As of 01/2022, I will serve as deputy head of the newly founded *Department of Artificial Intelligence and Human Interfaces (AIHI)* at the University of Salzburg.
 
 - **September 2021**: I gave a talk within the [Thematic Mini-Conference on Computational Topology and Machine Learning](https://www3.math.tu-berlin.de/mathplus/TES-Summer2021/) at the TU Berlin - Slides are available [here](http://www.rkwitt.org/media/files/TUBerlin_270921.pdf)
