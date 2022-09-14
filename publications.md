@@ -45,7 +45,7 @@ H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer
 
 **On Measuring Excess Capacity in Neural Networks**      
 F. Graf, S. Zeng, B. Rieck, M. Niethammer and R. Kwitt     
-*(accepted to NeurIPS '22)          
+*(accepted to NeurIPS '22)*          
 [arXiv](https://arxiv.org/abs/2202.08070)      
 
 
