@@ -11,6 +11,8 @@ I am a full professor for **machine learning** in the [Department of Artificial 
 
 ## News
 
+- **November 2022**: Check out our latest preprint *GradICON: Approximate Diffeomorphisms via Gradient Inverse Consistency* by Hastings Greer, Lin Tian, F.X.-Vialard, myself, R. Estépar, R. Rushmore, N. Makris, S. Bouix and M. Niethammer on [arXiv](https://arxiv.org/pdf/2206.05897.pdf)
+
 - **September 2022**: Check out our latest work *On Measuring Excess Capacity in Neural Networks* on [arXiv](https://arxiv.org/abs/2202.08070) - a joint effort of Florian Graf, Sebastian Zeng, Bastian Rieck, Marc Niethammer and myself - *now accepted at [NeurIPS '22](https://nips.cc/Conferences/2022/Schedule?showEvent=53355)*
 
 - **August 2022**: My group hosted the [Biannual Austrian TDA meeting](https://biannual-austrian-tda.github.io/) this year, a joint effort by Herbert Edelsbrunner (IST Austria), Michael Kerber (TU Graz) and myself. Great meeting and great talks!
