@@ -43,11 +43,15 @@ I am a full professor for **machine learning** in the [Department of Artificial 
 - Computer vision
 - Medical image analysis
 
-## Group
+## Current group members
 
-- Günther Eder (PostDoc)
 - Florian Graf (PhD student)
 - Sebastian Zeng (PhD student)
+
+## Past group members
+
+- Günther Eder (PostDoc, now in industry)
+- Christoph Hofer (PhD student and PostDoc, now in industry)
 
 ## Selected publications
 
@@ -167,7 +171,7 @@ Advisor: Univ.-Prof. Dr. Andreas Uhl
 
 ## Professional service
 
-- Area Chair for NeurIPS 2021
+- Area Chair for NeurIPS 2021 & 2022 and ICML 2021 & 2022
 - General Chair: OAGM/AAPR Workshop 2015 (Salzburg, Austria)
 - PC Chair: ACM IH & MMSEC 2014 (Salzburg, Austria)
 
