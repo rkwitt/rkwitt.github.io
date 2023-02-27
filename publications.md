@@ -13,7 +13,8 @@ layout: default
 Publications are listed in *reverse-chronological* order. Publications ranked  **<span style="color:#A6192E">A*</span>**  according to the well-established [CORE journal/conference ranking](https://www.core.edu.au/conference-portal) are marked. Please find my Google Scholar
 profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
-- [2021](#2022) (1)
+- [2023](#2023) (1)
+- [2022](#2022) (1)
 - [2021](#2021) (4)
 - [2020](#2020) (4)
 - [2019](#2019) (7)
@@ -32,14 +33,19 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 ## Preprints
 
-**GradICON: Approximate Diffeomorphisms via Gradient Inverse Consistency**    
-L. Tian, H. Greer, F.-X. Vialard, R. Kwitt, R. Estepar and M. Niethammer     
-[arXiv](https://arxiv.org/abs/2206.05897)     
-
-
 **Deep Multi-View Learning via Task-Optimal CCA**    
 H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer           
 [arXiv](https://arxiv.org/abs/1907.07739)     
+
+## 2023
+
+**GradICON: Approximate Diffeomorphisms via Gradient Inverse Consistency**    
+H. Greer, L. Tian, F.X.-Vialard, R. Kwitt, R. Estépar, R. Rushmore, N. Makris, S. Bouix and M. Niethammer      
+*accepted at CVPR '23*     
+[arXiv](https://arxiv.org/abs/2206.05897)      
+CORE ranking: **<span style="color:#A6192E">A*</span>**
+
+
 
 ## 2022
 

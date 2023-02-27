@@ -9,7 +9,7 @@ layout: default
 * * *
 
 Univ.-Prof. Dr. Dipl.-Ing. Roland Kwitt        
-Department of Artificial Intelligence and Human Interfaces        
+Department of Artificial Intelligence and Human Interfaces (AIHI)        
 University of Salzburg    
 Jakob-Haringer Str. 2  
 A-5020 Salzburg  
@@ -38,4 +38,3 @@ lAE=
 =0RRc
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-
