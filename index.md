@@ -11,6 +11,8 @@ I am a full professor for **machine learning** in the [Department of Artificial 
 
 ## News
 
+- **July 2023**: *Multistep Inverse Consistency by Construction* by Hastings Greer, Lin Tian, F.X.-Vialard, myself, Sylvain Bouix, R. Estépar, R. Rushmore and M. Niethammer got *accepted at [MICCAI '23](https://conferences.miccai.org/2023/en/)* - checkout the preprint on [arXiv](https://arxiv.org/abs/2305.00087)   
+
 - **February 2023**: *GradICON: Approximate Diffeomorphisms via Gradient Inverse Consistency* by Hastings Greer, Lin Tian, F.X.-Vialard, myself, R. Estépar, R. Rushmore, N. Makris, S. Bouix and M. Niethammer got *accepted at [CVPR '23](https://cvpr2023.thecvf.com/)*    
 
 - **November 2022**: Check out our latest preprint *GradICON: Approximate Diffeomorphisms via Gradient Inverse Consistency* by Hastings Greer, Lin Tian, F.X.-Vialard, myself, R. Estépar, R. Rushmore, N. Makris, S. Bouix and M. Niethammer on [arXiv](https://arxiv.org/pdf/2206.05897.pdf)
