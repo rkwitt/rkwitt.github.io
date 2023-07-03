@@ -58,7 +58,8 @@ CORE ranking: **<span style="color:#A6192E">A*</span>**
 **On Measuring Excess Capacity in Neural Networks**      
 F. Graf, S. Zeng, B. Rieck, M. Niethammer and R. Kwitt     
 *NeurIPS '22*          
-[arXiv](https://arxiv.org/abs/2202.08070) &nbsp;&#183;&nbsp; [OpenReview](https://openreview.net/forum?id=l2CVt1ySC2Q) &nbsp;&#183;&nbsp; [Source code](https://github.com/rkwitt/excess_capacity)     
+[arXiv](https://arxiv.org/abs/2202.08070) &nbsp;&#183;&nbsp; [OpenReview](https://openreview.net/forum?id=l2CVt1ySC2Q) &nbsp;&#183;&nbsp; [Source code](https://github.com/rkwitt/excess_capacity) &nbsp;&#183;&nbsp;
+[Publisher link](https://papers.nips.cc/paper_files/paper/2022/hash/420492060687ca7448398c4c3fa10366-Abstract-Conference.html) <i class="fa fa-unlock" style="color:#115740"></i>       
 CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 
