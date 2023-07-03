@@ -52,7 +52,7 @@ I am a full professor for **machine learning** in the [Department of Artificial 
 
 ## Current group members
 
-- Florian Graf (PhD student)
+- Florian Graf (PostDoc, graduated 2023)
 - Sebastian Zeng (PhD student)
 
 ## Past group members
