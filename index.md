@@ -11,6 +11,8 @@ I am a full professor for **machine learning** in the [Department of Artificial 
 
 ## News
 
+- **September 2023**: *Latent SDEs on Homogeneous Spaces* got *accepted at [NeurIPS '23](https://nips.cc/)* - see our preprint on [arXiv](https://arxiv.org/abs/2306.16248) - congrats Sebastian Zeng and Florian Graf      
+
 - **July 2023**: Checkout my group's latest work on *Latent SDEs on Homogeneous Spaces* on [arXiv](https://arxiv.org/abs/2306.16248) - joint work with Sebastian Zeng and Florian Graf
 
 

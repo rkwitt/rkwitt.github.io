@@ -13,7 +13,7 @@ layout: default
 Publications are listed in *reverse-chronological* order. Publications ranked  **<span style="color:#A6192E">A*</span>**  according to the well-established [CORE journal/conference ranking](https://www.core.edu.au/conference-portal) are marked. Please find my Google Scholar
 profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
-- [2023](#2023) (2)
+- [2023](#2023) (3)
 - [2022](#2022) (1)
 - [2021](#2021) (4)
 - [2020](#2020) (4)
@@ -39,12 +39,17 @@ H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer
 
 ## 2023
 
+**Latent SDEs on Homogeneous Spaces**     
+S. Zeng, F. Graf and R. Kwitt      
+*accepted at NeurIPS '23*     
+[arXiv](https://arxiv.org/abs/2306.16248)      
+CORE ranking: **<span style="color:#A6192E">A*</span>**    
+
 **Multistep Inverse Consistency by Construction**        
 H. Greer, L. Tian, F.X.-Vialard, R. Kwitt, S. Bouix, R. Estépar, R. Rushmore and M. Niethammer      
 *accepted at MICCAI '23*      
 [arXiv](https://arxiv.org/abs/2305.00087)  
 CORE ranking: **<span style="color:#A6192E">A</span>**
-
 
 **GradICON: Approximate Diffeomorphisms via Gradient Inverse Consistency**    
 H. Greer, L. Tian, F.X.-Vialard, R. Kwitt, R. Estépar, R. Rushmore, N. Makris, S. Bouix and M. Niethammer      
