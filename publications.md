@@ -41,21 +41,21 @@ H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer
 
 **Latent SDEs on Homogeneous Spaces**     
 S. Zeng, F. Graf and R. Kwitt      
-*accepted at NeurIPS '23*     
+*NeurIPS '23*     
 [arXiv](https://arxiv.org/abs/2306.16248)      
 CORE ranking: **<span style="color:#A6192E">A*</span>**    
 
-**Multistep Inverse Consistency by Construction**        
+**Inverse Consistency by Construction for Multistep Deep Registration**       
 H. Greer, L. Tian, F.X.-Vialard, R. Kwitt, S. Bouix, R. Estépar, R. Rushmore and M. Niethammer      
-*accepted at MICCAI '23*      
-[arXiv](https://arxiv.org/abs/2305.00087)  
+*MICCAI '23*      
+[arXiv](https://arxiv.org/abs/2305.00087)      
 CORE ranking: **<span style="color:#A6192E">A</span>**
 
-**GradICON: Approximate Diffeomorphisms via Gradient Inverse Consistency**    
+**GradICON: Approximate Diffeomorphisms via Gradient Inverse Consistency**     
 H. Greer, L. Tian, F.X.-Vialard, R. Kwitt, R. Estépar, R. Rushmore, N. Makris, S. Bouix and M. Niethammer      
-*accepted at CVPR '23*     
+*CVPR '23*     
 [arXiv](https://arxiv.org/abs/2206.05897)      
-CORE ranking: **<span style="color:#A6192E">A*</span>**
+CORE ranking: **<span style="color:#A6192E">A*</span>**      
 
 
 ## 2022
