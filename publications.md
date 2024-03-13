@@ -36,13 +36,13 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 **Deep Multi-View Learning via Task-Optimal CCA**    
 H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer           
-[arXiv](https://arxiv.org/abs/1907.07739)     
+[arXiv](https://arxiv.org/abs/1907.07739)   
 
 ## 2024
 
 **uniGradICON: A Foundation Model for Medical Image Registration**     
 L. Tian, H. Greer, R. Kwitt, F.-X. Vialard, R.S.J. Estepar, S. Bouix, R. Rushmore, and M. Niethammer    
-[arXiv](https://arxiv.org/abs/2403.05780)      
+[arXiv](https://arxiv.org/abs/2403.05780) &nbsp;&#183;&nbsp; [Source code](https://github.com/uncbiag/uniGradICON/tree/main)
 
 ## 2023
 

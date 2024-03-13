@@ -11,7 +11,7 @@ I am a full professor for **machine learning** in the [Department of Artificial 
 
 ## News
 
-- **March 2024**: New preprint on [arXiv](https://arxiv.org/abs/2403.05780) *uniGradICON: A Foundation Model for Medical Image Registration* with L. Tian, H. Greer, R. Kwitt, F.-X. Vialard, R. San Jose Estepar, S. Bouix, R. Rushmore and Marc Niethammer - thanks Lin and Hastings for the great work on getting the first **foundation** model for medical image registration out there!
+- **March 2024**: New preprint on [arXiv](https://arxiv.org/abs/2403.05780) *uniGradICON: A Foundation Model for Medical Image Registration* with L. Tian, H. Greer, R. Kwitt, F.-X. Vialard, R. San Jose Estepar, S. Bouix, R. Rushmore and Marc Niethammer - thanks Lin and Hastings for the great work on getting the first **foundation** model for medical image registration out there! 
 
 - **September 2023**: *Latent SDEs on Homogeneous Spaces* got *accepted at [NeurIPS '23](https://nips.cc/)* - see our preprint on [arXiv](https://arxiv.org/abs/2306.16248) - congrats Sebastian Zeng and Florian Graf      
 
