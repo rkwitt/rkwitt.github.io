@@ -13,6 +13,7 @@ layout: default
 Publications are listed in *reverse-chronological* order. Publications ranked  **<span style="color:#A6192E">A*</span>**  according to the well-established [CORE journal/conference ranking](https://www.core.edu.au/conference-portal) are marked. Please find my Google Scholar
 profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
+- [2024](#2024) (1)
 - [2023](#2023) (3)
 - [2022](#2022) (1)
 - [2021](#2021) (4)
@@ -36,6 +37,12 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 **Deep Multi-View Learning via Task-Optimal CCA**    
 H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer           
 [arXiv](https://arxiv.org/abs/1907.07739)     
+
+## 2024
+
+**uniGradICON: A Foundation Model for Medical Image Registration**     
+L. Tian, H. Greer, R. Kwitt, F.-X. Vialard, R.S.J. Estepar, S. Bouix, R. Rushmore, and M. Niethammer    
+[arXiv](https://arxiv.org/abs/2403.05780)      
 
 ## 2023
 
