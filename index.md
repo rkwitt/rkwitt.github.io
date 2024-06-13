@@ -11,6 +11,11 @@ I am a full professor for **machine learning** in the [Department of Artificial 
 
 ## News
 
+- **June 2024**: *Neural Persistence Dynamics* just dropped; check out the preprint on [arXiv](https://arxiv.org/abs/2405.15732); joint work 
+with F. Graf, M. Uray, S. Huber and myself (code to be released soon - stay tuned!)
+
+- **May 2024**: Check out Hastings Greer's latest preprint on [arXiv](https://arxiv.org/abs/2405.16738) *CARL: A Framework for Equivariant Image Registration* with L. Tian, F.-X. Vialard, myself, R.S.J. Estepar and M. Niethammer  
+
 - **March 2024**: New preprint on [arXiv](https://arxiv.org/abs/2403.05780) *uniGradICON: A Foundation Model for Medical Image Registration* with L. Tian, H. Greer, R. Kwitt, F.-X. Vialard, R. San Jose Estepar, S. Bouix, R. Rushmore and Marc Niethammer - thanks Lin and Hastings for the great work on getting the first **foundation** model for medical image registration out there! 
 
 - **Feb. 2024**: Our position paper *Challenges and Opportunities in Topological Deep Learning* with a lot of great 

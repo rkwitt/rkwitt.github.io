@@ -13,7 +13,7 @@ layout: default
 Publications are listed in *reverse-chronological* order. Publications ranked  **<span style="color:#A6192E">A*</span>**  according to the well-established [CORE journal/conference ranking](https://www.core.edu.au/conference-portal) are marked. Please find my Google Scholar
 profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
-- [2024](#2024) (2)
+- [2024](#2024) (3)
 - [2023](#2023) (3)
 - [2022](#2022) (1)
 - [2021](#2021) (4)
@@ -34,6 +34,18 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 ## Preprints
 
+**Neural Persistence Dynamics**      
+S. Zeng, F. Graf, M. Uray, S. Huber and R. Kwitt       
+[arXiv](https://arxiv.org/abs/2405.15732)     
+
+**CARL: A Framework for Equivariant Image Registration**     
+H. Greer, L. Tian, F.-X. Vialard, R. Kwitt, R.S.J. Estepar and M. Niethammer      
+[arXiv](https://arxiv.org/abs/2405.16738)
+
+**uniGradICON: A Foundation Model for Medical Image Registration**     
+L. Tian, H. Greer, R. Kwitt, F.-X. Vialard, R.S.J. Estepar, S. Bouix, R. Rushmore, and M. Niethammer    
+[arXiv](https://arxiv.org/abs/2403.05780) &nbsp;&#183;&nbsp; [Source code](https://github.com/uncbiag/uniGradICON/tree/main)
+
 **Deep Multi-View Learning via Task-Optimal CCA**    
 H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer           
 [arXiv](https://arxiv.org/abs/1907.07739)   
@@ -41,13 +53,10 @@ H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer
 ## 2024
 
 **Position Paper: Challenges and Opportunities in Topological Deep Learning**      
-T. Papamarkou, T. Birdal, M. Bronstein, G. Carlsson, J. Curry, Y. Gao, M. Hajij, R. Kwitt, P. Liò, P. Di Lorenzo, V. Maroulas, N. Miolane, F. Nasrin, K.N. Ramamurthy, B. Rieck, S. Scardapane, M.T. Schaub, P. Veličković, B. Wang, Y. Wang, G.-W. Wei and G. Zamzmi     
-[arXiv](https://arxiv.org/abs/2402.08871)
-
-
-**uniGradICON: A Foundation Model for Medical Image Registration**     
-L. Tian, H. Greer, R. Kwitt, F.-X. Vialard, R.S.J. Estepar, S. Bouix, R. Rushmore, and M. Niethammer    
-[arXiv](https://arxiv.org/abs/2403.05780) &nbsp;&#183;&nbsp; [Source code](https://github.com/uncbiag/uniGradICON/tree/main)
+T. Papamarkou, T. Birdal, M. Bronstein, G. Carlsson, J. Curry, Y. Gao, M. Hajij, R. Kwitt, P. Liò, P. Di Lorenzo, V. Maroulas, N. Miolane, F. Nasrin, K.N. Ramamurthy, B. Rieck, S. Scardapane, M.T. Schaub, P. Veličković, B. Wang, Y. Wang, G.-W. Wei and G. Zamzmi      
+*ICML '24*    
+[arXiv](https://arxiv.org/abs/2402.08871)      
+CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 ## 2023
 
