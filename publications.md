@@ -42,15 +42,17 @@ S. Zeng, F. Graf, M. Uray, S. Huber and R. Kwitt
 H. Greer, L. Tian, F.-X. Vialard, R. Kwitt, R.S.J. Estepar and M. Niethammer      
 [arXiv](https://arxiv.org/abs/2405.16738)
 
-**uniGradICON: A Foundation Model for Medical Image Registration**     
-L. Tian, H. Greer, R. Kwitt, F.-X. Vialard, R.S.J. Estepar, S. Bouix, R. Rushmore, and M. Niethammer    
-[arXiv](https://arxiv.org/abs/2403.05780) &nbsp;&#183;&nbsp; [Source code](https://github.com/uncbiag/uniGradICON/tree/main)
-
 **Deep Multi-View Learning via Task-Optimal CCA**    
 H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer           
 [arXiv](https://arxiv.org/abs/1907.07739)   
 
 ## 2024
+
+**uniGradICON: A Foundation Model for Medical Image Registration**     
+L. Tian, H. Greer, R. Kwitt, F.-X. Vialard, R.S.J. Estepar, S. Bouix, R. Rushmore, and M. Niethammer       
+*MICCAI '24*     
+[arXiv](https://arxiv.org/abs/2403.05780) &nbsp;&#183;&nbsp; [Source code](https://github.com/uncbiag/uniGradICON/tree/main)      
+CORE ranking: **<span style="color:#A6192E">A</span>**
 
 **Position Paper: Challenges and Opportunities in Topological Deep Learning**      
 T. Papamarkou, T. Birdal, M. Bronstein, G. Carlsson, J. Curry, Y. Gao, M. Hajij, R. Kwitt, P. Liò, P. Di Lorenzo, V. Maroulas, N. Miolane, F. Nasrin, K.N. Ramamurthy, B. Rieck, S. Scardapane, M.T. Schaub, P. Veličković, B. Wang, Y. Wang, G.-W. Wei and G. Zamzmi      

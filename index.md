@@ -11,6 +11,8 @@ I am a full professor for **machine learning** in the [Department of Artificial 
 
 ## News
 
+- **June 2024**: *uniGradICON: A Foundation Model for Medical Image Registration* will be presented at [MICCAI '24](https://conferences.miccai.org/2024/en/) - Congrats Lin and Hastings!
+
 - **June 2024**: *Neural Persistence Dynamics* just dropped; check out the preprint on [arXiv](https://arxiv.org/abs/2405.15732); joint work 
 with F. Graf, M. Uray, S. Huber and myself (code to be released soon - stay tuned!)
 
