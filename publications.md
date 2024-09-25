@@ -34,10 +34,6 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 ## Preprints
 
-**Neural Persistence Dynamics**      
-S. Zeng, F. Graf, M. Uray, S. Huber and R. Kwitt       
-[arXiv](https://arxiv.org/abs/2405.15732)     
-
 **CARL: A Framework for Equivariant Image Registration**     
 H. Greer, L. Tian, F.-X. Vialard, R. Kwitt, R.S.J. Estepar and M. Niethammer      
 [arXiv](https://arxiv.org/abs/2405.16738)
@@ -47,6 +43,13 @@ H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer
 [arXiv](https://arxiv.org/abs/1907.07739)   
 
 ## 2024
+
+**Neural Persistence Dynamics**      
+S. Zeng, F. Graf, M. Uray, S. Huber and R. Kwitt       
+*NeurIPS '24 (accepted)*     
+[arXiv](https://arxiv.org/abs/2405.15732) &nbsp;&#183;&nbsp; [Source code](https://github.com/plus-rkwitt/neural_persistence_dynamics)     
+CORE ranking: **<span style="color:#A6192E">A*</span>**
+
 
 **uniGradICON: A Foundation Model for Medical Image Registration**     
 L. Tian, H. Greer, R. Kwitt, F.-X. Vialard, R.S.J. Estepar, S. Bouix, R. Rushmore, and M. Niethammer       

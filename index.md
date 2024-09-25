@@ -11,6 +11,8 @@ I am a full professor for **machine learning** in the [Department of Artificial 
 
 ## News
 
+- **September 2024**: *Neural Persistence Dynamics* will be presented at [NeurIPS](https://neurips.cc/) this year! A great collaboration between my group and Stefan Huber's group at the FH Salzburg; congrats to Sebastian, Florian and Martin! Preprint on [arXiv](https://arxiv.org/abs/2405.15732)
+
 - **June 2024**: *uniGradICON: A Foundation Model for Medical Image Registration* will be presented at [MICCAI '24](https://conferences.miccai.org/2024/en/) - Congrats Lin and Hastings!
 
 - **June 2024**: *Neural Persistence Dynamics* just dropped; check out the preprint on [arXiv](https://arxiv.org/abs/2405.15732); joint work 
