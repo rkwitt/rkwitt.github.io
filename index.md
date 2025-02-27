@@ -11,6 +11,10 @@ I am a full professor for **machine learning** in the [Department of Artificial 
 
 ## News
 
+- **Feb. 2025**: Hastings Greer's and Lin Tian's paper *CARL: A Framework for Equivariant Image Registration* accepted at [CVPR](https://cvpr.thecvf.com/Conferences/2025); joint work with F.-X. Vialard, myself, R. Estepar and M. Niethammer - congrats Hastings and Lin!      
+
+- **Feb. 2025**: Sebastian Zeng successfully defended his PhD thesis - Congrats Sebastian!    
+
 - **September 2024**: *Neural Persistence Dynamics* will be presented at [NeurIPS](https://neurips.cc/) this year! A great collaboration between my group and Stefan Huber's group at the FH Salzburg; congrats to Sebastian, Florian and Martin! Preprint on [arXiv](https://arxiv.org/abs/2405.15732)
 
 - **June 2024**: *uniGradICON: A Foundation Model for Medical Image Registration* will be presented at [MICCAI '24](https://conferences.miccai.org/2024/en/) - Congrats Lin and Hastings!

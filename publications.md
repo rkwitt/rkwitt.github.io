@@ -13,6 +13,7 @@ layout: default
 Publications are listed in *reverse-chronological* order. Publications ranked  **<span style="color:#A6192E">A*</span>**  according to the well-established [CORE journal/conference ranking](https://www.core.edu.au/conference-portal) are marked. Please find my Google Scholar
 profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
+- [2025](#2025) (1)
 - [2024](#2024) (3)
 - [2023](#2023) (3)
 - [2022](#2022) (1)
@@ -34,13 +35,17 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 ## Preprints
 
-**CARL: A Framework for Equivariant Image Registration**     
-H. Greer, L. Tian, F.-X. Vialard, R. Kwitt, R.S.J. Estepar and M. Niethammer      
-[arXiv](https://arxiv.org/abs/2405.16738)
-
 **Deep Multi-View Learning via Task-Optimal CCA**    
 H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer           
 [arXiv](https://arxiv.org/abs/1907.07739)   
+
+## 2025
+
+**CARL: A Framework for Equivariant Image Registration**     
+H. Greer, L. Tian, F.-X. Vialard, R. Kwitt, R.S.J. Estepar and M. Niethammer      
+*CVPR '25*     
+CORE ranking: **<span style="color:#A6192E">A*</span>**      
+[arXiv](https://arxiv.org/abs/2405.16738)
 
 ## 2024
 
