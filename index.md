@@ -11,6 +11,8 @@ I am a full professor for **machine learning** in the [Department of Artificial 
 
 ## News
 
+- **March 2025**: Paolo Pellizzoni (from [Karsten Borgwardt's group](https://www.biochem.mpg.de/borgwardt) at the MPI for Biochemistry completed his 6 month research visit with my group. **We already miss u!** Stay tuned, as there will be some great work coming out of this collaboration!     
+
 - **Feb. 2025**: Hastings Greer's and Lin Tian's paper *CARL: A Framework for Equivariant Image Registration* accepted at [CVPR](https://cvpr.thecvf.com/Conferences/2025); joint work with F.-X. Vialard, myself, R. Estepar and M. Niethammer - congrats Hastings and Lin!      
 
 - **Feb. 2025**: Sebastian Zeng successfully defended his PhD thesis - Congrats Sebastian!    
@@ -198,7 +200,7 @@ Advisor: Univ.-Prof. Dr. Andreas Uhl
 
 ## Professional service
 
-- Area Chair for NeurIPS 2021 & 2022 and ICML 2021 & 2022
+- Area Chair (AC) for NeurIPS 2021-now and ICML 2021-now
 - General Chair: OAGM/AAPR Workshop 2015 (Salzburg, Austria)
 - PC Chair: ACM IH & MMSEC 2014 (Salzburg, Austria)
 
