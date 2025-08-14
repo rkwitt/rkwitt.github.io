@@ -11,6 +11,8 @@ I am a full professor for **machine learning** in the [Department of Artificial 
 
 ## News
 
+- **Aug. 2025**: We have release our v1.0rc3 of [flooder](https://github.com/plus-rkwitt/flooder), a lightweight Python package to compute persistent homology on millions of points in low-dimensional Euclidean space. Check it out (`pip install flooder`)- Preprint coming soon!
+
 - **March 2025**: Paolo Pellizzoni (from [Karsten Borgwardt's group](https://www.biochem.mpg.de/borgwardt) at the MPI for Biochemistry completed his 6 month research visit with my group. **We already miss u!** Stay tuned, as there will be some great work coming out of this collaboration!     
 
 - **Feb. 2025**: Hastings Greer's and Lin Tian's paper *CARL: A Framework for Equivariant Image Registration* accepted at [CVPR](https://cvpr.thecvf.com/Conferences/2025); joint work with F.-X. Vialard, myself, R. Estepar and M. Niethammer - congrats Hastings and Lin!      
@@ -74,11 +76,12 @@ authors (from various communities) is available on [arXiv](https://arxiv.org/abs
 
 ## Current group members
 
+- Dominik Geng (PhD student)
 - Florian Graf (PostDoc, graduated 2023)
-- Sebastian Zeng (PhD student)
 
 ## Past group members
 
+- Sebastian Zeng (PhD student, now PostDoc at Linnaeus University)
 - Günther Eder (PostDoc, now in industry)
 - Christoph Hofer (PhD student and PostDoc, now in industry)
 
@@ -166,41 +169,40 @@ Lightweight Probabilistic Texture Retrieval</dt>
 
 ## Short biography
 
-- since Jan. 2022
-*Full Professor* \\
-Department of Artificial Intelligence and Human Interfaces\\
-Univ. of Salzburg
-- since Dec. 2020  
-*Full Professor* \\
-Department of Computer Science\\
-Univ. of Salzburg
-- since Aug. 2017  
-*Associate Professor* \\
-Department of Computer Science\\
-Univ. of Salzburg
-- Nov. 2013 - Aug. 2017  
-*Assistant Professor*\\
-Department of Computer Science\\
-Univ. of Salzburg
-- Nov. 2011 - Oct. 2013   
-*R&D Engineer*\\
-Kitware Inc., NC, USA
+- since Jan. 2022     
+*Full Professor*     
+Department of Artificial Intelligence and Human Interfaces    
+Univ. of Salzburg    
+- Dec. 2020 to Jan. 2022  
+*Full Professor*      
+Department of Computer Science     
+Univ. of Salzburg      
+- Aug. 2017 to Dec. 2020    
+*Associate Professor*      
+Department of Computer Science     
+Univ. of Salzburg     
+- Nov. 2013 to Aug. 2017  
+*Assistant Professor*     
+Department of Computer Science     
+Univ. of Salzburg     
+- Nov. 2011 to Oct. 2013   
+*R&D Engineer*     
+Kitware Inc., NC, USA     
 - Aug. 2010 - Oct. 2011   
-*PostDoc*\\
-Department of Computer Science\\
-Univ. of Salzburg
-- May 2007 - Aug. 2010  
-*PhD student*\\
-Department of Computer Science\\
-Univ. of Salzburg\\
-Advisor: Univ.-Prof. Dr. Andreas Uhl
+*PostDoc*      
+Department of Computer Science      
+Univ. of Salzburg     
+- May 2007 to Aug. 2010  
+*PhD student*     
+Department of Computer Science     
+Univ. of Salzburg     
 
 [Curriculum Vitae (CV)](cv-kwitt.pdf)
 
 
 ## Professional service
 
-- Area Chair (AC) for NeurIPS 2021-now and ICML 2021-now
+- Area Chair (AC) for NeurIPS 2021-now, ICML 2021-now, AAAI 2023-now
 - General Chair: OAGM/AAPR Workshop 2015 (Salzburg, Austria)
 - PC Chair: ACM IH & MMSEC 2014 (Salzburg, Austria)
 
