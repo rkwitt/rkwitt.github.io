@@ -10,9 +10,6 @@ description: <p><b>Full Professor</b><br>Department of Artificial Intelligence a
   <a href="https://bsky.app/profile/rkwitt.bsky.social" target="_blank" aria-label="Bluesky">
       <i class="fa-brands fa-bluesky"></i>
     </a>
-  <a href="https://dblp.org/pid/60/4140.html" target="_blank" aria-label="DBLP" style="color: inherit;">
-    <img src="/assets/icons/dblp.svg" alt="DBLP" style="width:20px; height:20px; vertical-align:middle;">
-  </a>
   </p>
 email: roland.kwitt@gmail.com
 markdown: kramdown
