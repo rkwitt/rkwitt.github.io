@@ -13,7 +13,7 @@ I am a full professor for **machine learning** in the [Department of Artificial 
 
 - **Aug. 2025**: We have released our v1.0rc3 of [flooder](https://github.com/plus-rkwitt/flooder), a lightweight Python package to compute persistent homology on millions of points in low-dimensional Euclidean space. Check it out (`pip install flooder`)- Preprint coming soon (on arXiv)!      
 
-- **March 2025**: Paolo Pellizzoni (from [Karsten Borgwardt's group](https://www.biochem.mpg.de/borgwardt) at the MPI for Biochemistry completed his 6 month research visit with my group. **We already miss u!** Stay tuned, as there will be some great work coming out of this collaboration!     
+- **March 2025**: Paolo Pellizzoni (from [Karsten Borgwardt's group](https://www.biochem.mpg.de/borgwardt) at the MPI for Biochemistry) completed his 6 month research visit with my group. **We already miss u!** Stay tuned, as there will be some great work coming out of this collaboration!     
 
 - **Feb. 2025**: Hastings Greer's and Lin Tian's paper *CARL: A Framework for Equivariant Image Registration* accepted at [CVPR](https://cvpr.thecvf.com/Conferences/2025); joint work with F.-X. Vialard, myself, R. Estepar and M. Niethammer - congrats Hastings and Lin!      
 
