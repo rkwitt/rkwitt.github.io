@@ -1,17 +1,17 @@
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
-[Publications](publications) - [Teaching](https://github.com/rkwitt/teaching) - [Contact](contact) - [Blog](blog)
+[Publications](publications) - [Teaching](https://github.com/rkwitt/teaching) - [Contact](contact)
 
 * * *
 
 ![](uni.png)
 
 I am a full professor for **machine learning** in the [Department of Artificial Intelligence and Human Interfaces (AIHI)](https://plus.ac.at/aihi) at the
-[University of Salzburg (PLUS)](https://www.uni-salzburg.at/), Austria (and currently deputy head of the department). Prior to that, I was part of the medical imaging and computer vision group at [Kitware Inc.](https://www.kitware.com/), North Carolina, USA. My research spans multiple areas, but mostly focusses on theoretical and practical aspects of learning methods that allow to leverage and control structural characteristics of data. I am also a member of the [ELLIS society](https://ellis.eu).
+[University of Salzburg (PLUS)](https://www.uni-salzburg.at/), Austria (and currently deputy head of the department). Prior to that, I was part of the medical imaging and computer vision group at [Kitware Inc.](https://www.kitware.com/), North Carolina, USA. My research spans multiple areas, but mostly focusses on **theoretical** (and practical :) aspects of learning methods that allow to leverage and control structural characteristics of data. I am also a member of the [ELLIS society](https://ellis.eu).
 
 ## News
 
-- **Aug. 2025**: We have release our v1.0rc3 of [flooder](https://github.com/plus-rkwitt/flooder), a lightweight Python package to compute persistent homology on millions of points in low-dimensional Euclidean space. Check it out (`pip install flooder`)- Preprint coming soon!
+- **Aug. 2025**: We have released our v1.0rc3 of [flooder](https://github.com/plus-rkwitt/flooder), a lightweight Python package to compute persistent homology on millions of points in low-dimensional Euclidean space. Check it out (`pip install flooder`)- Preprint coming soon (on arXiv)!      
 
 - **March 2025**: Paolo Pellizzoni (from [Karsten Borgwardt's group](https://www.biochem.mpg.de/borgwardt) at the MPI for Biochemistry completed his 6 month research visit with my group. **We already miss u!** Stay tuned, as there will be some great work coming out of this collaboration!     
 
@@ -76,8 +76,9 @@ authors (from various communities) is available on [arXiv](https://arxiv.org/abs
 
 ## Current group members
 
-- Dominik Geng (PhD student)
 - Florian Graf (PostDoc, graduated 2023)
+- Dominik Geng (PhD student)
+- Martin Uray (PhD student; co-supervision with Stefan Huber)
 
 ## Past group members
 
@@ -87,8 +88,29 @@ authors (from various communities) is available on [arXiv](https://arxiv.org/abs
 
 ## Selected publications
 
-For a complete list of all papers, go to [Publications](publications), or
-visit my [Google Scholar](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de) profile.
+Below is a list of (from my perspective) noteworthy publications from the past decade. For a complete list of all papers, go to [Publications](publications), or visit my [Google Scholar](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de) profile.
+
+
+<dl>
+<dt>
+<a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/3a509449a73fd0aab8c0cf5705827036-Paper-Conference.pdf">
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+Neural Persistence Dynamics</dt>
+<dd> NeurIPS 2024, ranked <span style="font-weight: bold; color:#A6192E">A*</span></dd>   
+
+<dl>
+<dt>
+<a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/420492060687ca7448398c4c3fa10366-Supplemental-Conference.pdf">
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+On Measuring Excess Capacity in Neural Networks</dt>
+<dd> NeurIPS 2022, ranked <span style="font-weight: bold; color:#A6192E">A*</span></dd>    
+
+<dl>
+<dt>
+<a href="https://proceedings.mlr.press/v139/graf21a.html">
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+Dissecting Supervised Contrastive Learning</dt>
+<dd> ICML 2021 (long presentation), ranked <span style="font-weight: bold; color:#A6192E">A*</span></dd>    
 
 
 <dl>
@@ -96,76 +118,43 @@ visit my [Google Scholar](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&
 <a href="http://proceedings.mlr.press/v97/hofer19a.html">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 Connectivity-Optimized Representation Learning via Persistent Homology</dt>
-<dd>ICML 2019</dd>    
+<dd>ICML 2019, ranked <span style="font-weight: bold; color:#A6192E">A*</span></dd>    
 
 <dt>
 <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Feature_Space_Transfer_CVPR_2018_paper.pdf">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 Feature-Space Transfer for Data Augmentation</dt>
-<dd>CVPR 2018 (Oral)</dd>     
+<dd>CVPR 2018 (Oral), ranked <span style="font-weight: bold; color:#A6192E">A*</span></dd>     
 
 <dt>
 <a href="https://arxiv.org/abs/1707.04041">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 Deep Learning With Topological Signatures</dt>
-<dd>NIPS 2017</dd>
+<dd>NIPS (now NeurIPS) 2017, ranked <span style="font-weight: bold; color:#A6192E">A*</span></dd>
 
 <dt>
 <a href="https://arxiv.org/abs/1612.02559">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 AGA: Attribute-Guided Augmentation</dt>
-<dd>CVPR 2017 (Oral)</dd>
-
-
-<dt>
-<a href="http://proceedings.mlr.press/v54/hong17b/hong17b.pdf">
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
-Regression Uncertainty on the Grassmannian</dt>
-<dd>AISTATS 2017 (Oral)</dd>
-
+<dd>CVPR 2017 (Oral), ranked <span style="font-weight: bold; color:#A6192E">A*</span></dd>
 
 <dt>
 <a href="http://openaccess.thecvf.com/content_cvpr_2016/papers/Kwitt_One-Shot_Learning_of_CVPR_2016_paper.pdf">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 One-Shot Learning of Scene Locations via Feature Trajectory Transfer</dt>
-<dd>CVPR 2016 (Spotlight)</dd>
-
-<dt>
-<a href="https://ieeexplore.ieee.org/document/7378521">
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  
-Parametric Regression on the Grassmannian</dt>
-<dd>IEEE Trans. Pattern Anal. Mach. Intell. 2016</dd>
+<dd>CVPR 2016 (Spotlight), ranked <span style="font-weight: bold; color:#A6192E">A*</span></dd>
 
 <dt>
 <a href="http://papers.nips.cc/paper/5887-statistical-topological-data-analysis-a-kernel-perspective">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 Statistical Topological Data Analysis - A Kernel Perspective</dt>
-<dd>NIPS 2015</dd>
+<dd>NIPS (now NeurIPS) 2015, ranked <span style="font-weight: bold; color:#A6192E">A*</span></dd>
 
 <dt>
 <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Reininghaus_A_Stable_Multi-Scale_2015_CVPR_paper.pdf">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 A Stable Multi-Scale Kernel for Topological Machine Learning</dt>
-<dd>CVPR 2015</dd>
-
-<dt>
-<a href="http://www.cvpapers.com/papers/SceneRecognition-eccv2012.pdf">
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
-Scene Recognition on the Semantic Manifold</dt>
-<dd> ECCV 2012</dd>
-
-<dt>
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/23286117">
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
-Recognition in Ultrasound Videos: Where Am I?</dt>
-<dd>MICCAI 2012 (Oral)</dd>
-
-<dt>
-<a href="https://ieeexplore.ieee.org/document/5238618">
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
-Lightweight Probabilistic Texture Retrieval</dt>
-<dd>IEEE Trans. Image Process. 2010</dd>
-</dl>
+<dd>CVPR 2015, ranked <span style="font-weight: bold; color:#A6192E">A*</span></dd>
 
 ## Short biography
 
@@ -202,13 +191,14 @@ Univ. of Salzburg
 
 ## Professional service
 
-- Area Chair (AC) for NeurIPS 2021-now, ICML 2021-now, AAAI 2023-now
-- General Chair: OAGM/AAPR Workshop 2015 (Salzburg, Austria)
+- Area Chair (AC) for NeurIPS 2021-now, ICML 2021-now, AAAI 2023-now, ICLR 2025
+-  General Chair: OAGM/AAPR Workshop 2015 (Salzburg, Austria)
 - PC Chair: ACM IH & MMSEC 2014 (Salzburg, Austria)
+- Organized the *Biannual Austrian TDA Meeting* in 2022 (in Salzburg, Austria)
+- Reviewer for the ERC grant applications
 
-I regularly serve as a reviewer for the major vision and machine learning
-conferences (e.g., CVPR, ICCV, ECCV, BMVC, NIPS, AISTATS, ICIP, ICPR, MICCAI, ICLR) as
-well as the major journals in the field (e.g.,TPAMI, JMLR, IJCV, TMI, TIP, TSP, MedIA).
+I regularly also serve as a reviewer for the major vision and machine learning
+conferences (e.g., ICML, NeurIPS, CVPR, ICCV, ECCV, BMVC, AISTATS, MICCAI, ICLR) as well as the flagship journals in the field (e.g., TPAMI, JMLR, IJCV, TMI, TIP, TSP, MedIA).
 
 ## Awards
 

@@ -51,7 +51,7 @@ CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **Neural Persistence Dynamics**      
 S. Zeng, F. Graf, M. Uray, S. Huber and R. Kwitt       
-*NeurIPS '24 (accepted)*     
+*NeurIPS '24*     
 [arXiv](https://arxiv.org/abs/2405.15732) &nbsp;&#183;&nbsp; [Source code](https://github.com/plus-rkwitt/neural_persistence_dynamics)     
 CORE ranking: **<span style="color:#A6192E">A*</span>**
 
