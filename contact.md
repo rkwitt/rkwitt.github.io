@@ -13,12 +13,11 @@ Department of Artificial Intelligence and Human Interfaces (AIHI)
 University of Salzburg    
 Jakob-Haringer Str. 2  
 A-5020 Salzburg  
-Office: 1.18b    
+Office: 1.12     
 Phone: +43 662 8044 6311  
 E-Mail: <Roland.Kwitt@plus.ac.at>, <roland.kwitt@gmail.com>
 
-**Information for students**: The best way to contact me is via e-mail. Please *do not*
-drop by my office *without* an appointment.
+**Information for students**: The best way to contact me is via e-mail. Please *do not* drop by my office *without* an appointment.
 
 Just in case, here is my public GPG key:
 
