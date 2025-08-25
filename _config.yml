@@ -14,3 +14,8 @@ description: <p><b>Full Professor</b><br>Department of Artificial Intelligence a
 email: roland.kwitt@gmail.com
 markdown: kramdown
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-redirect-from
