@@ -1,6 +1,10 @@
 # Site settings
 title: Roland Kwitt
-description: <p><b>Full Professor</b><br>Department of Artificial Intelligence and Human Interfaces<br>University of Salzburg</p>
+description: <p><b>Full Professor</b><br>Department of Artificial Intelligence and Human Interfaces<br>University of Salzburg<br><a href="https://github.com/rkwitt" target="_blank">
+    <i class="fab fa-github"></i> GitHub
+  </a> <a href="https://x.com/rkwitt1982/" target="_blank" aria-label="Twitter">
+    <i class="fab fa-twitter"></i>
+  </a></p>
 email: roland.kwitt@gmail.com
 markdown: kramdown
 theme: jekyll-theme-minimal
