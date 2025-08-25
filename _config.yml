@@ -1,10 +1,16 @@
 # Site settings
 title: Roland Kwitt
 description: <p><b>Full Professor</b><br>Department of Artificial Intelligence and Human Interfaces<br>University of Salzburg<br><a href="https://github.com/rkwitt" target="_blank">
-    <i class="fab fa-github"></i> GitHub
-  </a> <a href="https://x.com/rkwitt1982/" target="_blank" aria-label="Twitter">
-    <i class="fab fa-twitter"></i>
-  </a></p>
+    <i class="fa-brands fa-github"></i> </a> <a href="https://x.com/rkwitt1982/" target="_blank" aria-label="Twitter">
+    <i class="fa-brands fa-twitter"></i>
+  </a>
+  <a href="https://orcid.org/0000-0001-9947-4465" target="_blank" aria-label="ORCID">
+      <i class="ai ai-orcid"></i>
+    </a>
+  <a href="https://bsky.app/profile/rkwitt.bsky.social" target="_blank" aria-label="Bluesky">
+      <i class="fa-brands fa-bluesky"></i>
+    </a>
+  </p>
 email: roland.kwitt@gmail.com
 markdown: kramdown
 theme: jekyll-theme-minimal
