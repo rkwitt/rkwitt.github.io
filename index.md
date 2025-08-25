@@ -90,7 +90,6 @@ authors (from various communities) is available on [arXiv](https://arxiv.org/abs
 
 Below is a list of (from my perspective) noteworthy publications from the past decade. For a complete list of all papers, go to [Publications](publications), or visit my [Google Scholar](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de) profile.
 
-
 <dl>
 <dt>
 <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/3a509449a73fd0aab8c0cf5705827036-Paper-Conference.pdf">
@@ -98,22 +97,18 @@ Below is a list of (from my perspective) noteworthy publications from the past d
 Neural Persistence Dynamics</dt>
 <dd> NeurIPS 2024, ranked <span style="font-weight: bold; color:#A6192E">A*</span></dd>   
 
-<dl>
 <dt>
 <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/420492060687ca7448398c4c3fa10366-Supplemental-Conference.pdf">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 On Measuring Excess Capacity in Neural Networks</dt>
 <dd> NeurIPS 2022, ranked <span style="font-weight: bold; color:#A6192E">A*</span></dd>    
 
-<dl>
 <dt>
 <a href="https://proceedings.mlr.press/v139/graf21a.html">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 Dissecting Supervised Contrastive Learning</dt>
 <dd> ICML 2021 (long presentation), ranked <span style="font-weight: bold; color:#A6192E">A*</span></dd>    
 
-
-<dl>
 <dt>
 <a href="http://proceedings.mlr.press/v97/hofer19a.html">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
@@ -149,14 +144,13 @@ One-Shot Learning of Scene Locations via Feature Trajectory Transfer</dt>
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 Statistical Topological Data Analysis - A Kernel Perspective</dt>
 <dd>NIPS (now NeurIPS) 2015, ranked <span style="font-weight: bold; color:#A6192E">A*</span></dd>
-</dt>
 
 <dt>
 <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Reininghaus_A_Stable_Multi-Scale_2015_CVPR_paper.pdf">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 A Stable Multi-Scale Kernel for Topological Machine Learning</dt>
 <dd>CVPR 2015, ranked <span style="font-weight: bold; color:#A6192E">A*</span></dd>
-</dt>      
+</dl>
 
 ## Short biography
 
