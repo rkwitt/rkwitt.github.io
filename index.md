@@ -149,12 +149,14 @@ One-Shot Learning of Scene Locations via Feature Trajectory Transfer</dt>
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 Statistical Topological Data Analysis - A Kernel Perspective</dt>
 <dd>NIPS (now NeurIPS) 2015, ranked <span style="font-weight: bold; color:#A6192E">A*</span></dd>
+</dt>
 
 <dt>
 <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Reininghaus_A_Stable_Multi-Scale_2015_CVPR_paper.pdf">
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 A Stable Multi-Scale Kernel for Topological Machine Learning</dt>
 <dd>CVPR 2015, ranked <span style="font-weight: bold; color:#A6192E">A*</span></dd>
+</dt>      
 
 ## Short biography
 
@@ -188,11 +190,10 @@ Univ. of Salzburg
 
 [Curriculum Vitae (CV)](cv-kwitt.pdf)
 
-
 ## Professional service
 
 - Area Chair (AC) for NeurIPS 2021-now, ICML 2021-now, AAAI 2023-now, ICLR 2025
--  General Chair: OAGM/AAPR Workshop 2015 (Salzburg, Austria)
+- General Chair: OAGM/AAPR Workshop 2015 (Salzburg, Austria)
 - PC Chair: ACM IH & MMSEC 2014 (Salzburg, Austria)
 - Organized the *Biannual Austrian TDA Meeting* in 2022 (in Salzburg, Austria)
 - Reviewer for the ERC grant applications
