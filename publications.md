@@ -41,11 +41,17 @@ H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer
 
 ## 2025
 
+The Flood Complex - Large-Scale Persistent Homology on Millions of Points    
+F. Graf, P. Pellizzoni, M. Uray, S. Huber and R. Kwitt       
+*NeurIPS '25 (accepted)*     
+[Source code](https://github.com/plus-rkwitt/flooder)     
+CORE ranking: **<span style="color:#A6192E">A*</span>**     
+
 **CARL: A Framework for Equivariant Image Registration**     
 H. Greer, L. Tian, F.-X. Vialard, R. Kwitt, R.S.J. Estepar and M. Niethammer      
 *CVPR '25*     
 CORE ranking: **<span style="color:#A6192E">A*</span>**      
-[arXiv](https://arxiv.org/abs/2405.16738)
+[arXiv](https://arxiv.org/abs/2405.16738)     
 
 ## 2024
 
