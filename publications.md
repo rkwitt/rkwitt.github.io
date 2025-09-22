@@ -83,28 +83,28 @@ T. Papamarkou, T. Birdal, M. Bronstein, G. Carlsson, J. Curry, Y. Gao, M. Hajij,
 CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 
-
-
 ## 2023
 
 **Latent SDEs on Homogeneous Spaces**     
 S. Zeng, F. Graf and R. Kwitt      
 *NeurIPS '23*     
-[arXiv](https://arxiv.org/abs/2306.16248)      
+[arXiv](https://arxiv.org/abs/2306.16248) &nbsp;&#183;&nbsp;
+[Publisher link](https://proceedings.neurips.cc/paper_files/paper/2023/file/f0172a5da5a2611e3dc0fe9c6e9a7480-Paper-Conference.pdf) <i class="fa fa-unlock" style="color:#115740"></i>          
 CORE ranking: **<span style="color:#A6192E">A*</span>**    
 
 **Inverse Consistency by Construction for Multistep Deep Registration**       
 H. Greer, L. Tian, F.X.-Vialard, R. Kwitt, S. Bouix, R. Estépar, R. Rushmore and M. Niethammer      
 *MICCAI '23*      
-[arXiv](https://arxiv.org/abs/2305.00087)      
+[arXiv](https://arxiv.org/abs/2305.00087) &nbsp;&#183;&nbsp;
+[Publisher link](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_65) <i class="fa fa-unlock" style="color:#115740"></i>               
 CORE ranking: **<span style="color:#A6192E">A</span>**
 
 **GradICON: Approximate Diffeomorphisms via Gradient Inverse Consistency**     
 H. Greer, L. Tian, F.X.-Vialard, R. Kwitt, R. Estépar, R. Rushmore, N. Makris, S. Bouix and M. Niethammer      
 *CVPR '23*     
-[arXiv](https://arxiv.org/abs/2206.05897)      
+[arXiv](https://arxiv.org/abs/2206.05897)  &nbsp;&#183;&nbsp;
+[Publisher link](https://openaccess.thecvf.com/content/CVPR2023/papers/Tian_GradICON_Approximate_Diffeomorphisms_via_Gradient_Inverse_Consistency_CVPR_2023_paper.pdf) <i class="fa fa-unlock" style="color:#115740"></i>                   
 CORE ranking: **<span style="color:#A6192E">A*</span>**      
-
 
 ## 2022
 

@@ -13,6 +13,8 @@ I am a full professor for **machine learning** in the [Department of Artificial 
 
 - **Sep. 2025**: Happy to announce that our [flooder](https://github.com/plus-rkwitt/flooder) paper, entitled *The Flood Complex: Large-Scale Persistent Homology on Millions of Points* will be presented at [NeurIPS](https://neurips.cc/) this year in San Diego. Congrats to Florian, Paolo, Martin and Stefan!       
 
+- **Aug. 2025**: Thrilled to welcome [Dominik Geng](https://www.linkedin.com/in/dominik-geng-269253262/) in my group as a new PhD student, hailing from the University of Heidelberg. Looking forward to great stuff coming in the next months and years!     
+
 - **Aug. 2025**: We have released our v1.0rc3 of [flooder](https://github.com/plus-rkwitt/flooder), a lightweight Python package to compute persistent homology on millions of points in low-dimensional Euclidean space. Check it out (`pip install flooder`) - Preprint coming soon (on arXiv)!      
 
 - **March 2025**: Paolo Pellizzoni (from [Karsten Borgwardt's group](https://www.biochem.mpg.de/borgwardt) at the MPI for Biochemistry) completed his 6 month research visit with my group. **We already miss u!** Stay tuned, as there will be some great work coming out of this collaboration!     
