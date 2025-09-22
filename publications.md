@@ -51,28 +51,39 @@ CORE ranking: **<span style="color:#A6192E">A*</span>**
 H. Greer, L. Tian, F.-X. Vialard, R. Kwitt, R.S.J. Estepar and M. Niethammer      
 *CVPR '25*     
 CORE ranking: **<span style="color:#A6192E">A*</span>**      
-[arXiv](https://arxiv.org/abs/2405.16738)     
+[arXiv](https://arxiv.org/abs/2405.16738) &nbsp;&#183;&nbsp;
+[Publisher link](https://openaccess.thecvf.com/content/CVPR2025/papers/Greer_CARL_A_Framework_for_Equivariant_Image_Registration_CVPR_2025_paper.pdf) <i class="fa fa-unlock" style="color:#115740"></i>     
 
 ## 2024
 
 **Neural Persistence Dynamics**      
 S. Zeng, F. Graf, M. Uray, S. Huber and R. Kwitt       
 *NeurIPS '24*     
-[arXiv](https://arxiv.org/abs/2405.15732) &nbsp;&#183;&nbsp; [Source code](https://github.com/plus-rkwitt/neural_persistence_dynamics)     
+[arXiv](https://arxiv.org/abs/2405.15732) &nbsp;&#183;&nbsp; [Source code](https://github.com/plus-rkwitt/neural_persistence_dynamics) &nbsp;&#183;&nbsp;
+[Publisher link](https://proceedings.neurips.cc/paper_files/paper/2024/file/3a509449a73fd0aab8c0cf5705827036-Paper-Conference.pdf
+) <i class="fa fa-unlock" style="color:#115740"></i>    
 CORE ranking: **<span style="color:#A6192E">A*</span>**
+
+
 
 
 **uniGradICON: A Foundation Model for Medical Image Registration**     
 L. Tian, H. Greer, R. Kwitt, F.-X. Vialard, R.S.J. Estepar, S. Bouix, R. Rushmore, and M. Niethammer       
 *MICCAI '24*     
-[arXiv](https://arxiv.org/abs/2403.05780) &nbsp;&#183;&nbsp; [Source code](https://github.com/uncbiag/uniGradICON/tree/main)      
+[arXiv](https://arxiv.org/abs/2403.05780) &nbsp;&#183;&nbsp; [Source code](https://github.com/uncbiag/uniGradICON/tree/main) &nbsp;&#183;&nbsp;
+[Publisher link](https://papers.miccai.org/miccai-2024/816-Paper0527.html) <i class="fa fa-unlock" style="color:#115740"></i>     
 CORE ranking: **<span style="color:#A6192E">A</span>**
+
 
 **Position Paper: Challenges and Opportunities in Topological Deep Learning**      
 T. Papamarkou, T. Birdal, M. Bronstein, G. Carlsson, J. Curry, Y. Gao, M. Hajij, R. Kwitt, P. Liò, P. Di Lorenzo, V. Maroulas, N. Miolane, F. Nasrin, K.N. Ramamurthy, B. Rieck, S. Scardapane, M.T. Schaub, P. Veličković, B. Wang, Y. Wang, G.-W. Wei and G. Zamzmi      
 *ICML '24*    
-[arXiv](https://arxiv.org/abs/2402.08871)      
+[arXiv](https://arxiv.org/abs/2402.08871) &nbsp;&#183;&nbsp;
+[Publisher link](https://proceedings.mlr.press/v235/papamarkou24a.html) <i class="fa fa-unlock" style="color:#115740"></i>     
 CORE ranking: **<span style="color:#A6192E">A*</span>**
+
+
+
 
 ## 2023
 
