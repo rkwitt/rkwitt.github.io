@@ -70,7 +70,11 @@ L. Tian, H. Greer, R. Kwitt, F.-X. Vialard, R.S.J. Estepar, S. Bouix, R. Rushmor
 *MICCAI '24*     
 [arXiv](https://arxiv.org/abs/2403.05780) &nbsp;&#183;&nbsp; [Source code](https://github.com/uncbiag/uniGradICON/tree/main) &nbsp;&#183;&nbsp;
 [Publisher link](https://papers.miccai.org/miccai-2024/816-Paper0527.html) <i class="fa fa-unlock" style="color:#115740"></i>     
-CORE ranking: **<span style="color:#A6192E">A</span>**
+CORE ranking: **<span style="color:#A6192E">A</span>**    
+
+<div data-badge-type='medium-donut' class='altmetric-embed' data-badge-details='right' data-doi="10.1007/978-3-031-72069-7_70"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-031-72069-7_70" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 
 **Position Paper: Challenges and Opportunities in Topological Deep Learning**      
