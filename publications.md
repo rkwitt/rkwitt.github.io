@@ -267,7 +267,7 @@ vol. 176, pp. 431-445, 2018
 
 **Feature Space Transfer for Data Augmentation**   
 B. Liu, M. Dixit, R. Kwitt and N. Vasconcelos   
-*CVPR 2018 (Oral)*   
+*CVPR 2018 (Oral, 2% acceptance rate)*   
 [arXiv](https://arxiv.org/abs/1801.04356) &nbsp;&#183;&nbsp;
 [Publisher link](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Feature_Space_Transfer_CVPR_2018_paper.pdf) <i class="fa fa-unlock" style="color:#115740"></i>    
 CORE ranking: **<span style="color:#A6192E">A*</span>**  
