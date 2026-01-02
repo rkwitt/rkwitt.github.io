@@ -522,7 +522,8 @@ S. Huber, M. Held, R. Kwitt and P. Meerwald
 M. Gschwandtner, R. Kwitt and A. Uhl  
 *ISVC 2011*    
 [Project](http://www.blensor.org/)       
-<div data-badge-type='medium-donut' class='altmetric-embed' data-badge-details='right' data-doi="10.1007/978-3-642-24031-7_20"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-642-24031-7_20" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 **Testing a Multivariate Model for Wavelet Coefficients**  
 R. Kwitt, P. Meerwald, A. Uhl and G. Verdoolaege  
