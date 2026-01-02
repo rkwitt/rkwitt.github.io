@@ -41,8 +41,8 @@ H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer
 
 **The Flood Complex - Large-Scale Persistent Homology on Millions of Points**    
 F. Graf, P. Pellizzoni, M. Uray, S. Huber and R. Kwitt       
-*NeurIPS '25 (accepted)*     
-[Source code](https://github.com/plus-rkwitt/flooder)     
+*NeurIPS '25*     
+[arXiv](https://arxiv.org/abs/2509.22432) &nbsp;&#183;&nbsp; [Source code](https://github.com/plus-rkwitt/flooder)     
 CORE ranking: **<span style="color:#A6192E">A*</span>**     
 
 <div data-badge-type='medium-donut' class='altmetric-embed' data-badge-details='right' data-doi="10.48550/arXiv.2509.22432"></div>
