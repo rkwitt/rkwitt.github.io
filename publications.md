@@ -144,9 +144,8 @@ F. Graf, C. Hofer, M. Niethammer, R. Kwitt
 *ICML 2021* (long presentation)      
 [arXiv](https://arxiv.org/abs/2102.08817) &nbsp;&#183;&nbsp;
 [Publisher link](https://proceedings.mlr.press/v139/graf21a.html) <i class="fa fa-unlock" style="color:#115740"></i>      
-CORE ranking: **<span style="color:#A6192E">A*</span>**    
-<div class='altmetric-embed' data-badge-type='donut' data-arxiv-id="	arXiv:2102.08817"></div>
-
+CORE ranking: **<span style="color:#A6192E">A*</span>**     
+<div class='altmetric-embed' data-arxiv-id="arXiv:2102.08817"></div>
 
 
 ## 2020
