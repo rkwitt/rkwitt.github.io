@@ -306,6 +306,7 @@ vol. 158, pp. 378-396, 2017
 [Source code](https://github.com/rkwitt/quicksilver)      
 <div data-badge-type='medium-donut' class='altmetric-embed' data-badge-details='right' data-doi="10.1016/j.neuroimage.2017.07.008"></div>    
 
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2017.07.008" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 **Fast Predictive Simple Geodesic Regression**  
 Z. Ding, G. Fleischman, P. Thomson, R. Kwitt, M. Niethammer and ADNI  
