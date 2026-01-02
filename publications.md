@@ -359,9 +359,7 @@ X. Yang, R. Kwitt, M. Styner and M. Niethammer
 **One-Shot Learning of Scene Locations via Feature Trajectory Transfer**
 R. Kwitt, S. Hegenbart and M. Niethammer  
 *CVPR 2016* (Spotlight)    
-[Publisher link](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kwitt_One-Shot_Learning_of_CVPR_2016_Preprint.html)
-&nbsp;&#183;&nbsp;
-[Code](https://github.com/rkwitt/TrajectoryTransfer)     
+[Publisher link](https://openaccess.thecvf.com/content_cvpr_2016/papers/Kwitt_One-Shot_Learning_of_CVPR_2016_paper.pdf)       
 CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **Parametric Regression on the Grassmannian**  
@@ -571,7 +569,9 @@ R. Kwitt, P. Meerwald and A. Uhl
 *IEEE Trans. Image Process. (TIP)*  
 vol. 20(2), pp. 474-484, 2011      
 [Publisher link](https://ieeexplore.ieee.org/document/5545430) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt10c.pdf)      
-CORE ranking: **<span style="color:#A6192E">A*</span>**
+CORE ranking: **<span style="color:#A6192E">A*</span>**     
+
+<span class="__dimensions_badge_embed__" data-doi="10.1109/TIP.2010.2064327"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 ## 2010
 
