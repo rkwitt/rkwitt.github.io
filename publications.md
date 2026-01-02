@@ -398,7 +398,6 @@ J. Reininghaus, U. Bauer, S. Huber and R. Kwitt
 &nbsp;&#183;&nbsp;
 [Poster](http://www.rkwitt.org/media/files/Reininghaus15a-poster.pdf)      
 CORE ranking: **<span style="color:#A6192E">A*</span>**    
-<div data-badge-type='medium-donut' class='altmetric-embed' data-badge-details='right' data-doi="10.1109/CVPR.2015.7299106"></div>
 
 
 **Group Testing for Longitudinal Data**  
@@ -576,7 +575,10 @@ R. Kwitt and A. Uhl
 *IEEE Trans. Image Process. (TIP)*   
 vol. 19(1), pp. 241-253, 2010     
 [Publisher link](https://ieeexplore.ieee.org/document/5238618) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt10a.pdf) &nbsp;&#183;&nbsp; [Errata](/media/files/Kwitt10a_errata.pdf)     
-CORE ranking: **<span style="color:#A6192E">A*</span>**
+CORE ranking: **<span style="color:#A6192E">A*</span>**    
+<div data-badge-type='medium-donut' class='altmetric-embed' data-badge-details='right' data-doi="10.1109/TIP.2009.2032313"></div>
+
+
 
 **Predicting the Histology of Colorectal Lesions in a Probabilistic Framework**  
 R. Kwitt, A. Uhl, M. Häfner, A. Gangl and F. Wrba  
