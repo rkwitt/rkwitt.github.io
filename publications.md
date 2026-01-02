@@ -145,7 +145,7 @@ F. Graf, C. Hofer, M. Niethammer, R. Kwitt
 [arXiv](https://arxiv.org/abs/2102.08817) &nbsp;&#183;&nbsp;
 [Publisher link](https://proceedings.mlr.press/v139/graf21a.html) <i class="fa fa-unlock" style="color:#115740"></i>      
 CORE ranking: **<span style="color:#A6192E">A*</span>**     
-<div class='altmetric-embed' data-arxiv-id="arXiv:2102.08817"></div>
+<div data-badge-type='medium-donut' class='altmetric-embed' data-badge-details='right' data-arxiv-id="arXiv:2102.08817"></div>
 
 
 ## 2020
