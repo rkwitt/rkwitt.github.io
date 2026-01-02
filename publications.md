@@ -372,7 +372,9 @@ vol. 34(12), pp. 2284-2297, 2016
 [Preprint](http://cobweb.cs.uga.edu/~yihong/Preprints/parametric_regression_on_the_grassmannian.pdf)
 &nbsp;&#183;&nbsp;
 [Code](https://bitbucket.org/yi_hong/ggr_all.git)      
-CORE ranking: **<span style="color:#A6192E">A*</span>**
+CORE ranking: **<span style="color:#A6192E">A*</span>**     
+
+<span class="__dimensions_badge_embed__" data-doi="10.1109/TPAMI.2016.2516533"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 **Fast Predictive Image Registration**  
 X. Yang, R. Kwitt and M. Niethammer  
