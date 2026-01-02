@@ -109,6 +109,13 @@ H. Greer, L. Tian, F.X.-Vialard, R. Kwitt, R. Estépar, R. Rushmore, N. Makris, 
 [Publisher link](https://openaccess.thecvf.com/content/CVPR2023/papers/Tian_GradICON_Approximate_Diffeomorphisms_via_Gradient_Inverse_Consistency_CVPR_2023_paper.pdf) <i class="fa fa-unlock" style="color:#115740"></i>                   
 CORE ranking: **<span style="color:#A6192E">A*</span>**      
 
+<div data-badge-type='medium-donut' class='altmetric-embed' data-badge-details='right' data-doi="10.1109/cvpr52729.2023.01734"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1109/cvpr52729.2023.01734" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+
+
 ## 2022
 
 **On Measuring Excess Capacity in Neural Networks**      
