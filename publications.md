@@ -78,7 +78,8 @@ T. Papamarkou, T. Birdal, M. Bronstein, G. Carlsson, J. Curry, Y. Gao, M. Hajij,
 *ICML '24*    
 [arXiv](https://arxiv.org/abs/2402.08871) &nbsp;&#183;&nbsp;
 [Publisher link](https://proceedings.mlr.press/v235/papamarkou24a.html) <i class="fa fa-unlock" style="color:#115740"></i>     
-CORE ranking: **<span style="color:#A6192E">A*</span>**
+CORE ranking: **<span style="color:#A6192E">A*</span>**    
+<div data-badge-type='medium-donut' class='altmetric-embed' data-badge-details='right' data-arxiv-id="arXiv:2402.08871"></div>
 
 
 ## 2023
