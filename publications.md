@@ -397,7 +397,9 @@ J. Reininghaus, U. Bauer, S. Huber and R. Kwitt
 [Code](https://github.com/rkwitt/persistence-learning)
 &nbsp;&#183;&nbsp;
 [Poster](http://www.rkwitt.org/media/files/Reininghaus15a-poster.pdf)      
-CORE ranking: **<span style="color:#A6192E">A*</span>**
+CORE ranking: **<span style="color:#A6192E">A*</span>**    
+<div data-badge-type='medium-donut' class='altmetric-embed' data-badge-details='right' data-doi="10.1109/CVPR.2015.7299106"></div>
+
 
 **Group Testing for Longitudinal Data**  
 Y. Hong, N. Singh, R. Kwitt and M. Niethammer  
