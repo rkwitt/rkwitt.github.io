@@ -2,8 +2,6 @@
 layout: default
 ---
 
-
-
 <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
 
 <a href="./"><i class='fa fa-arrow-left'></i> Back</a>
@@ -97,7 +95,7 @@ H. Greer, L. Tian, F.X.-Vialard, R. Kwitt, S. Bouix, R. Estépar, R. Rushmore an
 *MICCAI '23*      
 [arXiv](https://arxiv.org/abs/2305.00087) &nbsp;&#183;&nbsp;
 [Publisher link](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_65) <i class="fa fa-unlock" style="color:#115740"></i>               
-CORE ranking: **<span style="color:#A6192E">A</span>**
+CORE ranking: **<span style="color:#A6192E">A</span>**     
 
 **GradICON: Approximate Diffeomorphisms via Gradient Inverse Consistency**     
 H. Greer, L. Tian, F.X.-Vialard, R. Kwitt, R. Estépar, R. Rushmore, N. Makris, S. Bouix and M. Niethammer      
@@ -139,13 +137,15 @@ H. Greer, R. Kwitt, F.-X. Vialard and M. Niethammer
 [Publisher link](https://openaccess.thecvf.com/content/ICCV2021/html/Greer_ICON_Learning_Regular_Maps_Through_Inverse_Consistency_ICCV_2021_paper.html) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp; [Source code](https://github.com/uncbiag/ICON)    
 CORE ranking: **<span style="color:#A6192E">A*</span>**    
 
+<script type='text/javascript' src='https://embed.altmetric.com/assets/embed.js'></script>
 
 **Dissecting Supervised Contrastive Learning**   
 F. Graf, C. Hofer, M. Niethammer, R. Kwitt     
 *ICML 2021* (long presentation)      
 [arXiv](https://arxiv.org/abs/2102.08817) &nbsp;&#183;&nbsp;
-[Publisher link](https://proceedings.mlr.press/v139/graf21a.html) <i class="fa fa-unlock" style="color:#115740"></i>  
-CORE ranking: **<span style="color:#A6192E">A*</span>**
+[Publisher link](https://proceedings.mlr.press/v139/graf21a.html) <i class="fa fa-unlock" style="color:#115740"></i>      
+CORE ranking: **<span style="color:#A6192E">A*</span>**    
+<div class='altmetric-embed' data-badge-type='donut' data-arxiv-id="	arXiv:2102.08817"></div>
 
 
 
