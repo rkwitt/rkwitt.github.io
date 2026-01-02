@@ -304,7 +304,7 @@ vol. 158, pp. 378-396, 2017
 <i class="fa fa-unlock" style="color:#115740"></i>
 &nbsp;&#183;&nbsp;
 [Source code](https://github.com/rkwitt/quicksilver)      
-<div class='altmetric-embed' data-doi="10.1016/j.neuroimage.2017.07.008"></div>>
+<div data-badge-type='medium-donut' class='altmetric-embed' data-badge-details='right' data-doi="10.1016/j.neuroimage.2017.07.008"></div>    
 
 
 **Fast Predictive Simple Geodesic Regression**  
