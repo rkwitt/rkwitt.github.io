@@ -290,7 +290,10 @@ C. Hofer, R. Kwitt, M. Niethammer and A. Uhl
 Supporting packages (+ tutorials): [tda-toolkit](https://github.com/c-hofer/tda-toolkit)
 &nbsp;&#183;&nbsp;
 [chofer-torchex](https://github.com/c-hofer/chofer_torchex) &nbsp;&#183;&nbsp; [torchph](https://github.com/c-hofer/torchph)     
-CORE ranking: **<span style="color:#A6192E">A*</span>**
+CORE ranking: **<span style="color:#A6192E">A*</span>**     
+
+<div data-badge-type='medium-donut' class='altmetric-embed' data-badge-details='right' data-arxiv-id="arXiv:1707.04041"></div>
+
 
 
 **AGA: Attribute-Guided Augmentation**  
@@ -647,7 +650,10 @@ R. Kwitt and A. Uhl
 **Image Similarity Measurement By Kullback-Leibler Divergences between Complex Wavelet Subband Statistics for Texture Retrieval**  
 R. Kwitt and A. Uhl     
 *ICIP 2008*    
-[Publisher link](https://ieeexplore.ieee.org/document/4711909) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt08d.pdf)
+[Publisher link](https://ieeexplore.ieee.org/document/4711909) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt08d.pdf)    
+
+<span class="__dimensions_badge_embed__" data-doi="10.1109/ICIP.2008.4711909" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
 
 **A Lightweight Rao-Cauchy Detector for Additive Watermarking in the DWT-Domain**  
 R. Kwitt, P. Meerwald and A. Uhl  
