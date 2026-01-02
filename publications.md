@@ -294,6 +294,7 @@ CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 <div data-badge-type='medium-donut' class='altmetric-embed' data-badge-details='right' data-arxiv-id="arXiv:1707.04041"></div>
 
+<span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.1707.04041" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 
 **AGA: Attribute-Guided Augmentation**  
