@@ -45,6 +45,9 @@ F. Graf, P. Pellizzoni, M. Uray, S. Huber and R. Kwitt
 [Source code](https://github.com/plus-rkwitt/flooder)     
 CORE ranking: **<span style="color:#A6192E">A*</span>**     
 
+<div data-badge-type='medium-donut' class='altmetric-embed' data-badge-details='right' data-doi="10.48550/arXiv.2509.22432"></div>
+
+
 **CARL: A Framework for Equivariant Image Registration**     
 H. Greer, L. Tian, F.-X. Vialard, R. Kwitt, R.S.J. Estepar and M. Niethammer      
 *CVPR '25*     
