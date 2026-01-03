@@ -356,7 +356,7 @@ X. Yang, R. Kwitt, M. Styner and M. Niethammer
 
 **One-Shot Learning of Scene Locations via Feature Trajectory Transfer**
 R. Kwitt, S. Hegenbart and M. Niethammer  
-*CVPR 2016* (Spotlight)    
+*CVPR 2016 (Spotlight, 6% acceptance rate)*    
 [Publisher link](https://openaccess.thecvf.com/content_cvpr_2016/papers/Kwitt_One-Shot_Learning_of_CVPR_2016_paper.pdf)       
 CORE ranking: **<span style="color:#A6192E">A*</span>**
 
