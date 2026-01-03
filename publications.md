@@ -39,7 +39,6 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer           
 [arXiv](https://arxiv.org/abs/1907.07739)   
 
-<a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-72069-7_70" class="plumx-plum-print-popup"></a>
 
 ## 2025
 
@@ -80,6 +79,7 @@ CORE ranking: **<span style="color:#A6192E">A</span>**
 <div data-badge-type='medium-donut' class='altmetric-embed' data-badge-details='right' data-doi="10.1007/978-3-031-72069-7_70"></div>
 
 <span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-031-72069-7_70" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-72069-7_70" class="plumx-plum-print-popup"></a>
 
 
 **Position Paper: Challenges and Opportunities in Topological Deep Learning**      
