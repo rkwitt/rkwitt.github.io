@@ -39,6 +39,8 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer           
 [arXiv](https://arxiv.org/abs/1907.07739)   
 
+<a href="https://plu.mx/plum/a/?doi=10.1371/journal.pone.0056506" class="plumx-plum-print-popup"></a>
+
 ## 2025
 
 **The Flood Complex - Large-Scale Persistent Homology on Millions of Points**    
