@@ -283,7 +283,7 @@ H. Greer, S. Gerber, M. Niethammer, R. Kwitt, M. McCormick, D. Chittajallu, N. S
 **Domain Adaptation for CNN Based Iris Segmentation**    
 E. Jalilian, R. Kwitt and A. Uhl    
 *BIOSIG 2017*    
-[Publisher link](https://ieeexplore.ieee.org/document/8053502/definitions?ctx=definitions)<i class="fa fa-unlock" style="color:#115740"></i>      
+[Publisher link](https://ieeexplore.ieee.org/document/8053502/definitions?ctx=definitions) <i class="fa fa-unlock" style="color:#115740"></i>      
 
 **Deep Learning with Topological Signatures**  
 C. Hofer, R. Kwitt, M. Niethammer and A. Uhl  
@@ -364,7 +364,7 @@ CORE ranking: **<span style="color:#A6192E">A*</span>**
 Y. Hong, R. Kwitt, N. Singh, N. Vasconcelos and M. Niethammer  
 *IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI)*  
 vol. 34(12), pp. 2284-2297, 2016   
-[Publisher link](https://ieeexplore.ieee.org/document/7378521) &nbsp;&#183;&nbsp; [Code](https://bitbucket.org/yi_hong/ggr_all.git)      
+[Publisher link](https://ieeexplore.ieee.org/document/7378521) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp; [Code](https://bitbucket.org/yi_hong/ggr_all.git)      
 CORE ranking: **<span style="color:#A6192E">A*</span>**     
 
 <span class="__dimensions_badge_embed__" data-doi="10.1109/TPAMI.2016.2516533" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -382,7 +382,7 @@ X. Yang, X. Han, E. Park, S. Aylward, R. Kwitt and M. Niethammer
 **Ultrasound Spectroscopy**  
 S. Alyward, M. McCormick, H.J. Kang, S. Razzaque, R. Kwitt and M. Niethammer  
 *ISBI 2016*  
-[Publisher link](http://ieeexplore.ieee.org/document/7493437/)
+[Publisher link](http://ieeexplore.ieee.org/document/7493437/) <i class="fa fa-unlock" style="color:#115740"></i>
 
 **Narrow Band Imaging Versus White-Light: What is best for Computer-Assisted Diagnosis of Celiac Disease?**  
 M. Gadermayr, S. Hegenbart , R. Kwitt and A. Uhl  
@@ -394,7 +394,7 @@ M. Gadermayr, S. Hegenbart , R. Kwitt and A. Uhl
 **Statistical Topological Data Analysis - A Kernel Perspective**  
 R. Kwitt, S. Huber, M. Niethammer, W. Lin and U. Bauer  
 *NIPS 2015*  
-[Publisher link](http://papers.nips.cc/paper/5887-statistical-topological-data-analysis-a-kernel-perspective)
+[Publisher link](http://papers.nips.cc/paper/5887-statistical-topological-data-analysis-a-kernel-perspective) <i class="fa fa-unlock" style="color:#115740"></i>
 &nbsp;&#183;&nbsp;
 [Code](https://github.com/rkwitt/persistence-learning)       
 CORE ranking: **<span style="color:#A6192E">A*</span>**
@@ -402,7 +402,7 @@ CORE ranking: **<span style="color:#A6192E">A*</span>**
 **A Stable Multi-Scale Kernel for Topological Machine Learning**  
 J. Reininghaus, U. Bauer, S. Huber and R. Kwitt  
 *CVPR 2015*  
-[Publisher link](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Reininghaus_A_Stable_Multi-Scale_2015_CVPR_paper.pdf)
+[Publisher link](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Reininghaus_A_Stable_Multi-Scale_2015_CVPR_paper.pdf) <i class="fa fa-unlock" style="color:#115740"></i>
 &nbsp;&#183;&nbsp;
 [Code](https://github.com/rkwitt/persistence-learning)
 &nbsp;&#183;&nbsp;
@@ -419,13 +419,13 @@ Y. Hong, N. Singh, R. Kwitt and M. Niethammer
 X. Liu, M. Niethammer, R. Kwitt, N. Singh, M. McCormick and S. Aylward  
 *IEEE Trans. Med. Imag. (TMI)*  
 vol. 34(12), pp. 2583-2591, 2015   
-[Publisher link](http://ieeexplore.ieee.org/document/7130619/authors)       
+[Publisher link](http://ieeexplore.ieee.org/document/7130619/authors) <i class="fa fa-unlock" style="color:#115740"></i>       
 CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **Model Criticism for Regression on the Grassmannian**  
 Y. Hong, R. Kwitt and M. Niethammer  
 MICCAI 2015    
-[Publisher link](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_87) &nbsp;&#183;&nbsp;
+[Publisher link](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_87) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp;
 [Preprint](/media/files/Hong15a.pdf)
 
 ## 2014
