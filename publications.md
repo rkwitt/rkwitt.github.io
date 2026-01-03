@@ -163,7 +163,7 @@ CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 **A Shooting Formulation of Deep Learning**    
 F.-X. Vialard, R. Kwitt, S. Wei and M. Niethammer    
-*NeurIPS 2020 (Oral)*     
+*NeurIPS 2020 (Oral, 1% acceptance rate)*     
 [arXiv](https://arxiv.org/abs/2006.10330) &nbsp;&#183;&nbsp;
 [Publisher link](https://papers.nips.cc/paper/2020/file/89562dccfeb1d0394b9ae7e09544dc70-Paper.pdf) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp;
 [Source code](https://github.com/uncbiag/neuro_shooting.git)      
@@ -300,12 +300,10 @@ CORE ranking: **<span style="color:#A6192E">A*</span>**
 
 <div data-badge-type='medium-donut' class='altmetric-embed' data-badge-details='right' data-arxiv-id="arXiv:1707.04041"></div>
 
-<span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.1707.04041" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
 
 **AGA: Attribute-Guided Augmentation**  
 M. Dixit, R. Kwitt, M. Niethammer and N. Vasconcelos   
-*CVPR 2017 (Oral)*     
+*CVPR 2017 (Oral, 2% acceptance rate)*     
 [arXiv](https://arxiv.org/abs/1612.02559)
 &nbsp;&#183;&nbsp; [Publisher link](https://openaccess.thecvf.com/content_cvpr_2017/papers/Dixit_AGA_Attribute-Guided_Augmentation_CVPR_2017_paper.pdf) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp; [Talk video](https://youtu.be/F3ThW3RLSAU?t=26)      
 CORE ranking: **<span style="color:#A6192E">A*</span>**
@@ -369,7 +367,7 @@ vol. 34(12), pp. 2284-2297, 2016
 [Publisher link](https://ieeexplore.ieee.org/document/7378521) &nbsp;&#183;&nbsp; [Code](https://bitbucket.org/yi_hong/ggr_all.git)      
 CORE ranking: **<span style="color:#A6192E">A*</span>**     
 
-<span class="__dimensions_badge_embed__" data-doi="10.1109/TPAMI.2016.2516533"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/TPAMI.2016.2516533" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 **Fast Predictive Image Registration**  
 X. Yang, R. Kwitt and M. Niethammer  
@@ -571,7 +569,7 @@ vol. 20(2), pp. 474-484, 2011
 [Publisher link](https://ieeexplore.ieee.org/document/5545430) &nbsp;&#183;&nbsp; [Preprint](/media/files/Kwitt10c.pdf)      
 CORE ranking: **<span style="color:#A6192E">A*</span>**     
 
-<span class="__dimensions_badge_embed__" data-doi="10.1109/TIP.2010.2064327"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/TIP.2010.2064327" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 ## 2010
 
