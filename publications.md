@@ -334,13 +334,13 @@ Y. Hong, X. Yang, R. Kwitt, M. Styner and M. Niethammer
 **Constructing Shape Spaces from a Topological Perspective**  
 C. Hofer, R. Kwitt, Y. Höller, E. Trinka, M. Niethammer and A. Uhl  
 *IPMI 2017 (Oral)*  
-[Publisher link](https://link.springer.com/chapter/10.1007/978-3-319-59050-9_9) &nbsp;&#183;&nbsp;
+[Publisher link](https://link.springer.com/chapter/10.1007/978-3-319-59050-9_9) <i class="fa fa-unlock" style="color:#115740"></i> &nbsp;&#183;&nbsp;
 Code included in [tda-toolkit](https://github.com/c-hofer/tda-toolkit)
 
 **Simple Domain Adaptation for Cross-Dataset Analyses of Brain MRI Data**  
 C. Hofer, R. Kwitt, Y. Höller, E. Trinka and A. Uhl  
 *ISBI 2017*    
-[Publisher link](https://ieeexplore.ieee.org/document/7950556)
+[Publisher link](https://ieeexplore.ieee.org/document/7950556) <i class="fa fa-unlock" style="color:#115740"></i>
 
 **Efficient Registration of Pathological Images: A joint PCA/Image-Reconstruction Approach**  
 X. Han, X. Yang, S. Aylward, R. Kwitt and M. Niethammer  
