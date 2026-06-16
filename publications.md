@@ -35,10 +35,13 @@ profile [here](https://scholar.google.at/citations?user=sfGFi6UAAAAJ&hl=de).
 
 ## Preprints
 
+**Learning Topological Representations for Molecular Dynamics**    
+D. Geng, F. Graf, M. Uray and R. Kwitt       
+[arXiv](https://arxiv.org/abs/2509.22432)
+
 **Deep Multi-View Learning via Task-Optimal CCA**    
 H. D. Couture, R. Kwitt, J.S. Marron, M. Troester, C. M. Perou and M. Niethammer           
 [arXiv](https://arxiv.org/abs/1907.07739)   
-
 
 ## 2025
 

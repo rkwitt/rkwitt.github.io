@@ -11,6 +11,8 @@ I am a full professor for **machine learning** in the [Department of Artificial 
 
 ## News
 
+- **June 2026**: Our new preprint *Learning Topological Representations for Molecular Dynamics* is finally on [arXiv](https://arxiv.org/abs/2606.14737). Congrats to Dominik, Florian, and Martin!     
+
 - **Sep. 2025**: Happy to announce that our [flooder](https://github.com/plus-rkwitt/flooder) paper, entitled *The Flood Complex: Large-Scale Persistent Homology on Millions of Points* will be presented at [NeurIPS](https://neurips.cc/) this year in San Diego. Congrats to Florian, Paolo, Martin and Stefan!       
 
 - **Aug. 2025**: Thrilled to welcome [Dominik Geng](https://www.linkedin.com/in/dominik-geng-269253262/) in my group as a new PhD student, hailing from the University of Heidelberg. Looking forward to great stuff coming in the next months and years!     
